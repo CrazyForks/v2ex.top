@@ -3,24 +3,24 @@ layout: report-home
 title: "V2EX 每日热点回顾"
 permalink: /latest/
 status: success
-target_date: 2026-09-11
-generated_at: "2026-09-12 08:07:42"
-summary: "昨日主题 266 个，过滤 166 个，DeepSeek 分析 100 个，保留高价值内容 27 个。"
-count_all: 266
-count_excluded: 166
-count_included: 100
+target_date: 2026-09-12
+generated_at: "2026-09-13 07:57:25"
+summary: "昨日主题 155 个，过滤 61 个，DeepSeek 分析 93 个，保留高价值内容 19 个。"
+count_all: 155
+count_excluded: 61
+count_included: 94
 count_high_signal: 0
-count_valuable: 27
-report_url: "/2026/09/11/"
-data_url: "/data/2026-09-11.json"
+count_valuable: 19
+report_url: "/2026/09/12/"
+data_url: "/data/2026-09-12.json"
 ---
 
-# V2EX 2026-09-11 昨日新帖报告
+# V2EX 2026-09-12 昨日新帖报告
 
-<details class="topic-card" data-topic-id="1241204" markdown="1">
+<details class="topic-card" data-topic-id="1241482" markdown="1">
 <summary>
 <span class="topic-rank">1</span>
-<span class="topic-title">用AI完成需求要不要告诉同事和领导</span>
+<span class="topic-title">手机编程是伪需求吗：远程与LLM时代的场景分歧</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -28,32 +28,30 @@ data_url: "/data/2026-09-11.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-楼主提出一个真实职场困境：用 AI 快速完成爬数据、整理表格等常规耗时需求后，是否该向同事或领导坦白。楼主补充，所在二三线城市传统行业的技术领导看不出 AI 痕迹，被追问做法时会有心理负担。
+楼主提出“手机编程（非远程电脑）是伪需求”，引发 93 条讨论。多数回复并未简单否定，而是把问题拆成两类：**在手机上写代码**与**在手机上远程/下达需求**。
 
 ### 关键要点
-- **多数回复认为无需隐瞒**：现在默认就是 AI 干活，工期也按 AI 给，甚至公司强制要求使用并考核。
-- **有公司反向考核**：有回复称公司建议使用 AI、费用报销、人均配 GPT 20x pro，团队效率整体提升。
-- **风险提示**：也有回复称公司已在研究 AI 替代员工并裁员，说明提效叙事可能反噬。
-- **沟通技巧**：一位回复建议回答时强调“AI 提效”而非“AI 替代人”，突出 AI 对公司的全方位帮助，并把自己定位为最会用 AI 的人。
+- 反对派认为屏幕小、伤眼，实际工作收益低，仅适合应急凑合。
+- 支持场景集中在远程：手机 Chrome 连局域网电脑、UU 远程、SSH 到主机，用 Codex 等工具发指令看结果。
+- 有观点指出需求真实存在，瓶颈在软件而非硬件，折叠屏已让屏幕够大。
+- 00/10 后中有人没电脑，却能在手机上熟练反编译、改 APK，说明存在非典型用户群。
+- 结论倾向：**手机编程是伪需求，但“用手机下达需求”是强需求**，LLM 时代进一步放大了后者。
 
 ### 评论补充
-关于“是否看得出来”存在分歧：有人认为 AI 代码一眼可辨，有人指出楼主领导确实不会用 AI。楼主最终说明，领导昨天直接问“会用 AI 完成需求吗”，一时不知如何回答，这才是发帖的真实触发点。
-
-### 结论
-在 AI 已成默认工具的团队，隐瞒意义不大；但在把 AI 当裁员理由的环境里，回答应聚焦“提效”而非“替代”，并保留自身不可替代的价值。
+有回复提到 Paseo 这类远程到主机做 vibe coding 的工具较方便；也有人提醒手机办公最大挑战是社交 App 干扰。运维场景在智能手机上多年前已火过。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241204" target="_blank" rel="noopener noreferrer">大家会跟同事或者领导说自己用 Ai 完成需求吗？</a></span><span class="topic-stats">回复 97 · 收藏 8</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241482" target="_blank" rel="noopener noreferrer">讨论一下在手机上编程是不是伪需求</a></span><span class="topic-stats">回复 93 · 收藏 5</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241437" markdown="1">
+<details class="topic-card" data-topic-id="1241515" markdown="1">
 <summary>
 <span class="topic-rank">2</span>
-<span class="topic-title">近1T本地截图做内容搜索引擎：OCR、索引与查询踩坑</span>
+<span class="topic-title">.top域名被注册局ServerHold的恢复经验与避坑建议</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -61,29 +59,32 @@ data_url: "/data/2026-09-11.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-作者把攒了几年、接近 1T 的本地截图（微信聊天、网页、报错、PPT 截图）做成可搜内容的引擎，目标是搜「上次那个 nginx 502 的报错」就能翻出对应截图。核心结论：RAG 落到个人小工具上，工程量最大的不是向量检索，而是数据清洗和查询理解，约七成时间花在这两块。
+作者用 .top 域名上线项目，第 4 天域名被注册局江苏邦宁科技 `serverHold`，全球停止解析，无提醒无通知，发邮件询问后才得知原因。经持续沟通，域名已解除 serverHold、拿回解析权。作者据此总结了两条可复用经验。
 
 ### 关键要点
-- **OCR 不能只接一个库**：中文截图里混排的英文报错、路径、代码识别率很差，`Error: EACCES: permission denied '/var/log/...'` 这类行基本识别失败。做法是通用 OCR 打底，对低置信度行再用视觉模型重读；同时保留文字块坐标，用于后续高亮定位。
-- **索引体积要控制**：全量向量化后索引可能比截图本体还大。按文字块而非整图切分，先用正则、长度、位置规则过滤时间戳、水印、无关 UI 文字，可砍掉约六成索引量；检索采用分层策略，先用 SQLite FTS5 做关键词粗筛，命中候选再走向量精排，避免全库 ANN 搜索。
-- **查询理解最易被忽略**：把口语查询改写成可能出现在截图里的文字形态（如「报错」扩写为 error / failed / 错误）；「上个月」「上周」等时间限定词单独解析成过滤条件，不要混进向量。
-- **效果**：300+ 天截图，单次搜索 1 秒内出结果，主观准确率八成以上。
+- **不备案就别用中国大陆境内运营的注册局域名**：不只是 .top，只要注册局在境内，即便注册商、DNS、服务器和用户都在海外，也可能被莫名 serverHold。
+- **.top 的根解析权在江苏邦宁科技**：作者强调域名本身在海外注册商购买，但注册局拥有最终解析权，可“一键停服”，换注册商无法规避。
+- **被 serverHold 后的思路**：不要怕麻烦，持续发邮件沟通，可借助 AI 协助撰写申诉、按闹分配。作者提供了完整扯皮过程文章（https://zemo.bio/zh/posts/how-i-recovered-a-top-domain-from-serverhold/）。
 
 ### 评论补充
-评论多为期待开源与认可，也有两条值得注意：有回复指出百度网盘、OneDrive 等早已能对截图做 OCR；另有回复提到 immich 已有类似功能，可作为现成方案参考。作者表示代码仍在整理，后续可能开源。
+- 有回复提醒：若域名已实名且用于灰色内容，风险不止扯皮，可能涉及自身安全；作者回应其域名未实名。
+- 有回复区分了“注册商在海外”与“注册局在境内”的差别，指出问题出在后者。
+- 也有观点认为国内注册至少还能申诉，国外注册被墙则无处申诉，选择见仁见智。
+
+＞ 结论：使用 .top 等境内注册局运营的域名需评估停服风险；已投入资源者可参考作者的申诉路径尝试恢复解析。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241437" target="_blank" rel="noopener noreferrer">给几百 G 的本地截图做一个能搜内容的引擎，我踩过的坑</a></span><span class="topic-stats">回复 11 · 收藏 17</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241515" target="_blank" rel="noopener noreferrer">不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历</a></span><span class="topic-stats">回复 47 · 收藏 17</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241328" markdown="1">
+<details class="topic-card" data-topic-id="1241564" markdown="1">
 <summary>
 <span class="topic-rank">3</span>
-<span class="topic-title">V2EX 插入图片的方法：Markdown 与 i.imgur.com 直链</span>
+<span class="topic-title">开源 Clash/Mihomo 防 DNS 与 WebRTC 泄露配置</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -91,29 +92,30 @@ data_url: "/data/2026-09-11.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-V2EX 正文区与评论区的插图机制不同：正文支持 Markdown，评论区不支持，但贴出特定图床直链会自动渲染成图片。
+作者开源了一套面向 Mihomo / Clash Meta 官方内核的配置，针对机场订阅常见的两类隐私问题：DNS 泄露（本地 ISP DNS 出口暴露）与 WebRTC 泄露（STUN 探测穿透代理拿到真实公网 IP）。项目地址：https://github.com/Niklaus88/Clash-Config
 
 ### 关键要点
-- **正文插图**：正文区支持 Markdown，用 `` 语法即可插入图片。
-- **评论区插图**：评论区不支持 Markdown，但贴出 `i.imgur.com` 域名下的直链（如 `https://i.imgur.com/xxx.jpeg`）会自动渲染为图片；`imgur.com` 的普通链接不行，必须是 `i.imgur.com`。
-- **通用前提**：先把图片上传到图床获取直链，再贴到 V2EX。
-- **插件方案**：安装 V2EX Polish（评论中也称 V2EX Police）插件后，可直接粘贴和拖放图片。
+- **DNS 防漏**：Fake-IP 模式 + 国内外 DoH 分流，大陆域名走阿里/腾讯 DoH，国外走 Cloudflare/Google DoH。
+- **WebRTC 防漏**：在规则顶部对 STUN 标准与非标端口（3478、5349、19302-19309）无差别拦截，用 `REJECT-DROP` 静默丢弃而非普通 REJECT，避免浏览器立即切换 fallback；再以 `DOMAIN-KEYWORD,stun,REJECT-DROP` 兜底。
+- **iOS 优化**：针对 Network Extension 15MB 内存限制做轻量版，改用内置 GeoSite/GeoIP，常驻内存压到 2MB 以内。
+- **安全加固**：默认 `allow-lan: false` 并预设 secret，防恶意网页探测 9090 端口窃取节点凭据；预置 16 个分流策略组，节点默认启用 UDP。
+- **兜底逻辑**：末尾 MATCH 交给“漏网之鱼”并默认绑定代理，本质是白名单直连模式。
 
 ### 评论补充
-有用户反馈插件上传图片时报错 `Imgur is temporarily over capacity. Please try again later`，说明插件依赖的 Imgur 上传通道可能不稳定。另有用户测试了自建图床 `pic.fengyelab.cc` 的直链，可正常显示，说明并非只有 Imgur 可用。关于图片显示失败，讨论中出现两种解释：一是代理 IP 被 Imgur 拉黑（返回 429），二是示例本身写的是不存在的地址；发帖者澄清其示例地址为占位符，并非真实图片。
+作者承认网络层规则存在理论极限：若私有 STUN 架在 80/443 且 IP 属国内直连，无法按端口阻断。极端隐私场景建议浏览器端关闭 WebRTC（如 Firefox 关闭 `media.peerconnection.enabled`）。有评论指出端口全拦会误伤 FaceTime 等依赖 NAT 穿透的场景，作者回应该配置主要面向高风控 AI 平台与反指纹需求。关于 Sing-box：官方无 `proxy-providers`，可用 Sub-Store Artifact 生成远程配置，或选 Karing、Hiddify 等客户端；Sing-box 1.12+/1.14+ 已原生支持 Fake-IP。FlClash 中脚本模式与界面自定义规则互斥，需在脚本 `const rules = [` 首行添加规则。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241328" target="_blank" rel="noopener noreferrer">为一个弱智的问题 大家怎么插入的图片</a></span><span class="topic-stats">回复 53 · 收藏 7</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241564" target="_blank" rel="noopener noreferrer">分享一套开源的 Clash 系防 DNS 与 WebRTC 泄露配置</a></span><span class="topic-stats">回复 15 · 收藏 22</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241211" markdown="1">
+<details class="topic-card" data-topic-id="1241470" markdown="1">
 <summary>
 <span class="topic-rank">4</span>
-<span class="topic-title">用AI开发后还加班吗？多数反馈加班更多</span>
+<span class="topic-title">Pro 20X 周限实测：Astra 约 8 亿 token，缩水近半</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -121,29 +123,29 @@ V2EX 正文区与评论区的插图机制不同：正文支持 Markdown，评论
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-主题讨论 AI 编码工具（Claude、Codex、GPT 等）普及后，开发者的加班状况是否改善。发帖者认为 AI 能自主检查代码、基本一遍过，身边同事下班变早，质疑加班是否只是表演。但评论区主流反馈相反：**AI 提效并未减少加班，反而普遍更忙**。
+作者用 Codex 读取自己的会话数据，以上次 Tibo 重置时间戳为界，估算 Pro 20X 的周限额度。所有会话均为 Astra，以 lightweight 和 medium 为主，未开 fast。
 
 ### 关键要点
-- **需求与工期同步膨胀**：甲方和领导知道 AI 能提效，把原本十天的活压成三四天，甚至“十天上线的活一天上线，第二天重构，第三天大改”。
-- **沟通与确认成本上升**：产品也在用 AI，需求更复杂更多，需要人工确认和沟通的环节增加。
-- **AI 的强项是找 bug**：有回复称 AI 找隐蔽 bug 极快，甚至反编译线上二进制分析符号表，人需数小时的问题几分钟解决；但代码整洁度和贴合老代码风格仍不如人。
-- **加班文化独立于工具**：有回复指出领导看的是谁走得晚、工时最短，与效率无关；也有人称今年累计加班不超过五小时，说明个体差异大。
+- 已用 75% 时：非缓存输入 16,835,563 tokens（$168.36），缓存输入 584,864,000（$584.86），输出含推理 3,374,930（$168.75），总计约 6.05 亿 tokens、$921.97。
+- 线性外推整周 100%：约 8.07 亿 tokens、$1,229.29；剩余 25% 约 2.02 亿、$307.32。
+- 作者记忆中的 Pro 20X 周限约 2500，如今接近缩水一半；若 sol 额度不变，Astra 相当于 sol 的 5 倍价格，官方订阅美元价约 0.27x 倍率。
+- 评论补充：20x Pro 周限约等于 API 定价 1600 美元，Plus 约 75 美元，5 小时限额约 10 美元；只用 sol 时周额度等值 2000–2500 美元，只用 Astra 约 1300 美元。
 
 ### 评论补充
-多数人认为“压榨只会迟到，不会因技术进步停止”，AI 让个人干得更快是自己的事，组织会据此抬高目标。少数人表示需求减少、上班自己找活、作息宽松。发帖者自述一边玩手机一边等 AI 完成，产出过多，日报当周报写。
+有用户指出统计漏算“缓存写入”（$12.5/百万 token），作者复查后称记录中 cache_write_input_tokens 均为 0。另有讨论认为 Astra 开 xhigh/max 反而比 medium/low 省钱：读的价格一致，高思考档位完成任务的 turns 明显更少，多出的 thinking tokens 被减少的 turns 抵消。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241211" target="_blank" rel="noopener noreferrer">最近几月大家用 ai 开发之后，还会加班吗？</a></span><span class="topic-stats">回复 55 · 收藏 7</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241470" target="_blank" rel="noopener noreferrer">估算了一下 Pro 20X 的周限额度</a></span><span class="topic-stats">回复 15 · 收藏 2</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241245" markdown="1">
+<details class="topic-card" data-topic-id="1241486" markdown="1">
 <summary>
 <span class="topic-rank">5</span>
-<span class="topic-title">微信被曝零点击RCE漏洞：通话即可劫持账号</span>
+<span class="topic-title">木椅久坐闷热黏裤，100元内坐垫方案汇总</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -151,34 +153,30 @@ V2EX 正文区与评论区的插图机制不同：正文支持 Markdown，评论
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-有用户发帖询问微信漏洞，评论补充了具体事件：网络安全机构 Calif 利用 AI 辅助发现微信 VoIP 协议栈中的内存破坏漏洞（零点击 RCE），并开发了名为 WeWorm 的自我传播蠕虫。攻击者只需发起微信通话，无需受害者接听即可接管账号，并继续拨打联系人列表中的好友进行链式传播。
+木椅久坐导致臀部出汗、裤子黏连，主因是椅面不透气。原帖预算 100 元以内、不便换工学椅，评论给出的可行方向集中在**加装透气坐垫**与**减少连续久坐**两类。
 
 ### 关键要点
-- 漏洞性质：零点击远程代码执行，位于微信 VoIP 协议栈，无需接听即可触发。
-- 攻击链：接管账号后自动向好友发起通话，形成蠕虫式传播。
-- 修复状态：有评论称漏洞已从服务端修复，无需更新 App；也有建议更新微信并通知家人更新。
-- 官方研究链接：https://calif.io/research/weworm
-- 相关报道：https://thenextweb.com/news/wechat-worm-ai-calif-tencent-zero-click
+- **带风扇通风坐垫**：多位回复推荐，搜索关键词可用“办公室座椅通风坐垫带风扇”或“汽车坐垫带风扇”，属于主动送风方案。
+- **空气纤维坐垫**：被反复提及，价格约 20 元，有回复称对长期臀部、大腿毛囊炎有缓解作用。
+- **中空/镂空坐垫**：前列腺保护垫、痔疮保护垫一类中空设计，减少接触面积。
+- **麻将凉席坐垫**：约 20 元，成本最低的被动散热方案。
+- **行为调整**：多走动、站立办公，从根源减少闷热时间。
 
 ### 评论补充
-- 有评论认为该漏洞价值极高，奖金可能达 20 万左右，或为今年最佳漏洞。
-- 关于微信封禁提交者账号，有观点认为可理解：防止提交者用 AI 搓出自动拨号蠕虫导致沿好友链逃逸。
-- 有评论提醒白帽子注意法律风险，避免被认定非法侵入计算机系统罪。
-- 另有评论提到 QQ 存在“自己邀请自己能进任意群”的漏洞，但未提供细节。
-- 部分评论质疑这是漏洞还是后门，也有人认为类似问题在 Telegram 等平台也存在。
+有回复贴出两个相关旧帖（https://v2ex.com/t/855683 、https://www.v2ex.com/t/1142388），主题为主动通风与网格透气改造，可作进一步参考。另有回复提到宜家约 50 元的底部镂空塑料椅、京东京造乳胶坐垫。其余“不穿内裤”“塞风扇”等属玩笑，无实操价值。整体方案均为个人经验，缺少长期使用对比，效果因人而异。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241245" target="_blank" rel="noopener noreferrer">没有人讨论一下微信的漏洞吗？</a></span><span class="topic-stats">回复 41 · 收藏 11</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241486" target="_blank" rel="noopener noreferrer">木椅子坐久了，经常屁股有汗，会黏住裤衩，好不透气，怎么办</a></span><span class="topic-stats">回复 30 · 收藏 2</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241288" markdown="1">
+<details class="topic-card" data-topic-id="1241566" markdown="1">
 <summary>
 <span class="topic-rank">6</span>
-<span class="topic-title">月耗40亿token的AI编程省钱方案与中转站风险</span>
+<span class="topic-title">Debian+mihomo 做旁路由透明网关：性能与体验实测</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -186,33 +184,32 @@ V2EX 正文区与评论区的插图机制不同：正文支持 Markdown，评论
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-一位重度 AI 编程用户月消耗约 40.3 亿 token、成本约 600 元人民币，主要靠自建 new-api 接入多家 codingplan 与中转站，已产生 token 焦虑，寻求在烧钱与人力成本之间的省钱方案。
+作者把旁路由方案从 armbian 宿主机跑 docker+openwrt 容器，换成基于 debian+mihomo+macvlan 的容器方案，配置文件参考 mihomo 官方示例并手搓代理分组，DNS 用运营商 DNS。体验上比 openclash 更顺：配置更新、重启内核、重载配置都能在 web 页面完成，节点切换立即生效（马上断开旧连接再连新节点），而 openclash 需等连接断开重连。
 
 ### 关键要点
-- **用量与成本**：作者统计上月 40.3 亿 token、644 元，上上月 530 多元；只信请求返回的 total_tokens，不信厂商积分/百分比。
-- **省钱思路**：评论建议优化 Agent 流程，如精简初始提示词（30K 降到 10K）、用 `--bare` 去掉 Claude Code 自带系统提示、开发 MCP 减少对话轮次、减少 agent 反复试错。
-- **模型降档**：作者已从最贵模型降两档以处理更多任务；评论提到便宜模型如 mimo-v2.5、glm 5.3 flash、luna 等可大幅降低成本。
-- **订阅对比**：有评论认为正价订阅最划算，20x 订阅约合每月 4000-5000 美元额度，600 元人民币用量并不高；中转站可能赚 token 钱和数据钱。
-- **本地部署**：本地 9B 小模型可解决多数日常 agent 调用，但开发场景因代码量仍难替代。
+- 硬件为 RK3528 芯片盒子；国内直连测速不经旁路由约 950M/s，经旁路由约 750M/s，性能损失可接受。
+- 国外测速 200+M/s，瓶颈主要在机场节点而非 RK3528 性能上限。
+- 透明代理用法：需要科学上网的设备只需设置网关+DNS，即可实现国内外智能分流。
+- 作者认为 openwrt 的 openclash 启动/加载慢、页面卡、设置复杂，自行编译集成插件也常失败。
 
 ### 评论补充
-- 有用户用 droid cli 搭配 glm 5.3 flash 近乎免费，50 美元一年较划算。
-- 可用 codex cpa 代理让 agent 使用 Codex，避免中转掺水。
-- 作者不推荐具体中转站，认为要么太贵要么经常拉闸，并提示可自行在 llmpricing.dev 寻找。
-- 关于 40 亿 token 是否算多存在分歧：有人认为不多，有人指出 DeepSeek 思考 token 占比高、含水分。
+- 有回复推荐 dae（https://github.com/daeuniverse/dae），作者看后认为其配置文件更清晰易懂，表示会尝试；另有回复用 debian+singbox（tun autoroute autoredirect）或 openwrt+daed。
+- 关于测速单位存在质疑：2 元/月机场跑出该数值被怀疑单位混淆，作者回应“不要在意细节”。
+- 作者给出两个 2 元/月机场（一元机场.com、一分机场.com），并提醒效果因地区、DNS 与运营商而异，移动宽带+移动 DNS 在其环境最好用。
+- 对 mihomo 不熟者，作者建议参考官方配置修改，不懂的设置项可问 AI。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241288" target="_blank" rel="noopener noreferrer">大 token 用户一般除了砸钱，还能咋办，存粹个人用</a></span><span class="topic-stats">回复 46 · 收藏 4</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241566" target="_blank" rel="noopener noreferrer">再折腾了下旁路由，用 debian+mihomo 做透明网关</a></span><span class="topic-stats">回复 17 · 收藏 2</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241241" markdown="1">
+<details class="topic-card" data-topic-id="1241554" markdown="1">
 <summary>
 <span class="topic-rank">7</span>
-<span class="topic-title">Sony 电视关机后自动开机：Siri Remote 持续发射红外，重启遥控器解决</span>
+<span class="topic-title">个人开发者无营业执照的付费收款方案</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -220,33 +217,30 @@ V2EX 正文区与评论区的插图机制不同：正文支持 Markdown，评论
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-
-Sony XR-85X90L 搭配 Apple TV 4K 使用时，出现关机后几十秒到一分钟自动开机的稳定复现故障。作者在 tvOS 27 RC 与 HomePod 新系统升级当晚发现异常，先后重启 Apple TV、HomePod、Sony 电视，并排查 HDMI-CEC（BRAVIA Sync）与 Nintendo Switch 2，均无效。
+个人开发者无公司、无个体户执照时，网页应用会员制收款是常见难题。主帖明确场景：独立网站、买断制起步、后续可能订阅，走不了企业商户流程。评论给出的可行路径集中在几条，但均无官方资质背书，需自行评估合规风险。
 
 ### 关键要点
-
-- **真正原因**：Siri Remote 在无操作时持续发射红外信号，Sony 电视收到后重新唤醒。
-- **关键线索**：Siri Remote 放在湿巾上时，Sony 电视底部指示灯持续闪烁；用摄像头红外模式可看到遥控器前端一直亮红外光。
-- **验证方法**：关闭电视后把 Siri Remote 藏进抽屉，电视不再自动开机；取出后故障复现。
-- **解决办法**：同时按住 Siri Remote 的“TV / 控制中心”按钮和“音量减”按钮约 5 秒，重启遥控器，之后红外不再持续发射。
-- **可能诱因**：作者高度怀疑是 tvOS 27 RC 升级触发了遥控器异常状态，但未做对照验证。
+- **微信小程序个人收款**：有回复称小程序已支持个人收款，但需注意这是小程序内能力，不等于网页直接扫码收款。
+- **手动收款+激活码**：有开发者最初在网站放微信二维码，用户加微信付款后手动发激活码，顺带获取反馈与合作机会；量起来后因维护麻烦才注册公司、做 ICP 备案、接支付宝。
+- **平台挂售引流**：在闲鱼或小红书以个人身份挂会员产品，从网页引导用户到平台购买，前提是客户群体常用这些 App。
+- **四方支付**：多位回复认为国内个人收款“唯一舒服的路”是接四方支付 API，但明确提到不合规，量小可能无人管。
+- **注册公司成本**：有回复称注册本身不麻烦，但每年要交会计费和挂靠费；主帖作者反馈租房合同、工商核查虚假地址等流程麻烦。
 
 ### 评论补充
-
-有回复称该问题并非 iOS 27 独有，重启 Apple TV 遥控器即可解决，并给出 Apple 支持链接 https://support.apple.com/en-us/102569 。另有用户反馈 Sony 电视半夜自动开机，最终把遥控器统一放在电视下方以阻断红外；也有 LG 电视加入 Home Assistant 后无法关机的案例，断网后恢复。联通 IPTV 盒子未断电导致电视重新亮起的情况也被提及，作者建议尝试关闭电视的 CEC 控制。
+讨论中反复追问“国内还是国外”，说明出海可能是另一条路径，但主帖未展开。整体共识是个人身份缺乏合规直连渠道，方案多为变通或灰色手段。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241241" target="_blank" rel="noopener noreferrer">Sony 电视关机后自动开机，最后发现是 Apple TV 遥控器在持续发射红外</a></span><span class="topic-stats">回复 23 · 收藏 4</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241554" target="_blank" rel="noopener noreferrer">感谢回答：个人开发者没有公司 / 营业执照，付费产品怎么收款最合适？</a></span><span class="topic-stats">回复 15 · 收藏 7</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241257" markdown="1">
+<details class="topic-card" data-topic-id="1241596" markdown="1">
 <summary>
 <span class="topic-rank">8</span>
-<span class="topic-title">macOS 拼音输入法替代鼠须管：微信、豆包、手心与 Rime 方案对比</span>
+<span class="topic-title">DeepSeek V4.1 Flash 实测：速度近300tok/s，复杂任务不如 Astra</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -254,30 +248,29 @@ Sony XR-85X90L 搭配 Apple TV 4K 使用时，出现关机后几十秒到一分�
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-主帖作者在 macOS 上寻找鼠须管（Rime）之外的拼音输入法：搜狗好用但有广告，鼠须管存在 Shift 切换中英文经常失灵、联想识别不如搜狗的问题。评论围绕微信输入法、豆包输入法、手心输入法以及继续使用 Rime 家族展开讨论。
+作者用已下线老手游的反编译与修改任务对比 DeepSeek V4.1 Flash 与 Astra High。DeepSeek 速度稳定接近 300tok/s，但遇到难题会陷入“出方案→改代码→问题仍在→换方案”的循环，狂奔 40 多分钟未解决，还改坏了已破解模块；换 Astra 后基本 1-2 轮内找到正确方案。
 
 ### 关键要点
-- **微信输入法**：多位用户从鼠须管或苹果输入法迁移过来，看重跨设备同步、剪贴板共享、语音输入和指定程序默认英文；有用户反馈候选排序波动无序、候选框与语音输入偶发断开，怀疑与敏感词检测有关。
-- **豆包输入法**：被评价为精简、目前无广告，双拼纠错与智能联想能力强，已有用户从微信输入法切换过去。
-- **手心输入法**：有双拼用户因微信输入法问题转投，PC 端体验好，但手机端不佳。
-- **继续用 Rime**：可换用白霜、万象、雾凇等拼音方案，带本地推理模型；配置可交给 AI 代写，安装本身并不复杂。
-- **鼠须管 Shift 失灵**：有用户建议不要用 Shift 切换，改为短按 CapsLock 切英文输入法。
+- **成本并非差几十倍**：作者事后核算，DeepSeek 跑一小时 API 约 15 元，Astra 约用 3% 周额度，折算后 Astra 反而更便宜。
+- **模型规模差异**：评论指出 V4.1 Flash 最大为 A16B，不适合高难自主探索任务。
+- **正确用法**：复杂场景应由强模型出 spec、做规划，小模型负责定向执行；给出足够信息后小模型表现良好。
+- **失败模式**：多步推理任务中，小模型容易陷入局部最优，反复横跳。
 
 ### 评论补充
-有观点认为拼音/双拼不必折腾 Rime，鼠须管更像极客玩具；也有用户表示用 AI 帮写配置后 Rime 已不折腾。落格输入法被提及为不需要完全访问权限的选项。整体共识是：追求省心与同步选微信/豆包，追求可控与隐私选 Rime 系方案。
+有回复认为拿不同价位模型对比不公平，但作者用实际花费反驳；也有观点认为国产模型主打“疯狂思考”却未落地，市场策略偏向低价与功能堆满。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241257" target="_blank" rel="noopener noreferrer">除了鼠须管还有别的更好用的拼音输入法吗</a></span><span class="topic-stats">回复 35 · 收藏 1</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241596" target="_blank" rel="noopener noreferrer">有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距</a></span><span class="topic-stats">回复 37 · 收藏 0</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241354" markdown="1">
+<details class="topic-card" data-topic-id="1241541" markdown="1">
 <summary>
 <span class="topic-rank">9</span>
-<span class="topic-title">独立开发英语学习App三个月：难点在Distribution而非开发</span>
+<span class="topic-title">免登录带FSRS的英语学习工具lianxi.site</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -285,32 +278,31 @@ Sony XR-85X90L 搭配 Apple TV 4K 使用时，出现关机后几十秒到一分�
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-作者离职后用三个月做出英语学习 App VocReel（Web/Android/iOS），练习流程为「听一句→自己判断→看原句→再听一次→下一句」，面向「阅读强于听力」的人群。产品基本完成后，真正的难题才出现：冷启动获客。
+作者 barnetime 发布自用英语学习工具 **lianxi.site**（https://lianxi.site/），面向程序员，免登录、无广告、单一学习功能，数据全部存于前端并提供 JS 接口导入导出。目标是解决“看得懂但反应慢、听不清、说不出”。
 
 ### 关键要点
-- **渠道实测数据**：Reddit 发帖被过滤；Facebook 有播放但受众多为 55+；YouTube 首条视频仅 3 次观看；Instagram、X、Threads 基本无回应。
-- **内容形式比产品录屏更有效**：YouTube 上单纯发 App 录屏几乎无人看，换成「英语听力挑战」后两条 Shorts 分别跑到 700+ 和 1000+，虽小但首次获得市场反馈。
-- **核心结论**：做产品与让别人发现产品是两种能力，作者自认缺的是 Distribution。
-- **复盘建议**：不要等产品打磨好再公开，应从可运行的 demo 起 Build in Public，边做边找真实用户。
+- 学习流程：强制盲听 → 主动输入 → 原理解析 → 整组测试 → 反馈强化 → 数据激励 → 间隔重复。
+- 盲听时句子模糊处理，避免“一眼看懂”的假阳性；翻译在首次盲听后解锁，解析需完成输入后解锁。
+- 用键盘打字作为低难度主动输出，未做语音识别，理由是避免开口压力与识别阈值难控，也不做“口音警察”。
+- 测试环节对应 Retrieval Practice，结果反馈给 SRS 算法（标题称 FSRS）安排复习。
+- 语料来自教材《Key Words for Fluency》，基于高频语块；为保证效果不支持移动端。
+- 技术栈：部署在 Cloudflare；TTS 使用 Minimax-speech-2.8-hd，作者称效果最好但最贵。
 
 ### 评论补充
-- 有开发者指出 Web 端文字对比度不足、桌面端适配和设计体系偏弱，作者承认视觉与桌面体验是短板。
-- 另一位英语学习产品作者（lianxi.site）分享经验：缩短单次学习投入、数据量化、高质量语料、FSRS 复习、键盘优先、自己每天用 1-2 小时。
-- 有评论认为教育类产品获客与留存本身就难，付费更靠后；也有人主张上线即加收费。
-- 有用户反馈视频字幕播放无声、暂停再播恢复的稳定复现 bug。
+有用户反馈 Vim 风格交互上手困难：盲听后不知如何修正输入、无法回退。作者解释：盲听强制，结束后底部出现快捷键提示，按 Enter 进入 typing，判断宽松，最后一个单词需打对；打错可按 `r` 重打，已完成句子可用左右键切回。另有用户希望增加跳过打字功能，作者表示或在 recent unit 中考虑。作者称有开源计划。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241354" target="_blank" rel="noopener noreferrer">做了三个月英语学习产品，最后发现最难的不是开发，而是找到前 100 个用户</a></span><span class="topic-stats">回复 22 · 收藏 5</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241541" target="_blank" rel="noopener noreferrer">我做了一个面向程序员、免登录、带 FSRS 的英语学习工具</a></span><span class="topic-stats">回复 11 · 收藏 3</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241383" markdown="1">
+<details class="topic-card" data-topic-id="1241522" markdown="1">
 <summary>
 <span class="topic-rank">10</span>
-<span class="topic-title">幼儿园名单身份证打码留后四位，可反推出生日期</span>
+<span class="topic-title">用 Codex 汉化游戏：流程、成本与工具心得</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -318,30 +310,29 @@ Sony XR-85X90L 搭配 Apple TV 4K 使用时，出现关机后几十秒到一分�
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-有用户指出，幼儿园录取名单公示时，姓名完整展示，身份证号仅打码中间部分、保留后四位（如 `440***********4120`）。由于地区码可据当地推断、入学年龄固定，仅月日未知，加上校验位约束，可反推出合规身份证号的数量并不多，因此认为该打码规则不合理。
+作者分享用 Codex 汉化游戏（含成人向作品）的完整工作流：从早期 Ainiee、T++ 提取文本再回封，转向在 Codex 内一站式完成自主提取、术语表制作与优化、翻译、回写和测试。借助 computer use，Codex 可自行打开游戏，检查字体显示与漏翻问题。
 
 ### 关键要点
-- 争议实际包含两个问题：身份证号是否适合公示；当前脱敏方式是否合适。
-- 有回复建议连最后一位也打码，或改为只公示报名序号，不展示姓名和身份证。
-- 有观点认为身份证号本身不敏感，但反对者指出其常被用作“开盒”起点，且展示与存储应遵循脱敏要求。
-- 有回复提到国标 GB/T 35273 对个人信息脱敏有规定，政府部门常见做法是打码中间 8 位，该幼儿园已多打了几位。
-- 有回复质疑公示的必要性，认为学校直接向家长发录取通知即可。
+- **成本对比**：以游戏 RJ01711476 为例，文本约 1MB。Ainiee 约需 600–800 万 token，缓存率约 30%；Codex 消耗约 1 亿 token，缓存率 97%，成本约 18 美元（按 0.2 倍率计）。
+- **开支结构**：主要开销在提取环节，实际翻译用量不大；前期做 skill 的消耗也很高，但流程跑通后较顺。
+- **工具**：作者开源了 unity-text-locator（https://github.com/timeance/unity-text-locator）。
+- **限制**：NSFW 词汇在 5.6 版本可用，6 版本会提示拒绝。
 
 ### 评论补充
-讨论中有人引用报道称身份证号泄露可成为社工库查询起点（[链接](https://epaper.oeeee.com/epaper/A/html/2025-08/23/content_8777.htm)）。也有回复指出，医院挂号姓名打码存在两字不打码、三字打中间字的情况，说明脱敏规则不统一。整体共识是：当前做法在隐私保护上存在可改进空间，但具体标准仍待明确。
+有回复者表示同样放弃 AiNiee，直接用 Codex CLI 和 Claude Code，术语表由 harness 提取、必要时联网搜索，并提前完成双字节逆向工程；旅行期间用 Claude Code 的 remote control 远程 spawn Codex 翻译，认为 coding harness 可替代 AiNiee 乃至 openclaw/hermes 等工具。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241383" target="_blank" rel="noopener noreferrer">幼儿园的名单公示，打码规则是否不太合理？</a></span><span class="topic-stats">回复 31 · 收藏 0</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241522" target="_blank" rel="noopener noreferrer">用 codex 汉化游戏的一些心得</a></span><span class="topic-stats">回复 7 · 收藏 4</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241337" markdown="1">
+<details class="topic-card" data-topic-id="1241532" markdown="1">
 <summary>
 <span class="topic-rank">11</span>
-<span class="topic-title">Anthropic 第四份威胁情报报告：AI 滥用的 L1-L7 分层</span>
+<span class="topic-title">儿童护牙：6岁前家长帮刷、避免精细喂养</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -349,31 +340,30 @@ Sony XR-85X90L 搭配 Apple TV 4K 使用时，出现关机后几十秒到一分�
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-Anthropic 发布第四份威胁情报报告，楼主按危害程度把 AI 滥用整理成 L1-L7 分层，核心结论是：AI 已从内容生成进入情报、监控、网络攻击和武器工程闭环，而多数人仍停留在“一行一行问它问题”。
+楼主养育两个孩子后总结出两条护牙经验：**未满 6 岁前，孩子刷牙应由大人帮忙完成**，因为孩子自己刷不干净；**不要总把水果削成块，要让孩子从小啃硬东西**，否则可能面临十多岁牙齿矫正至少 1 万元起的费用。
 
 ### 关键要点
-- **L1-L2 规模化运营**：批量账号、多模型协作；某诈骗案例涉及 20 多个 App、4700 多个 AI Persona、2.5 万真实用户、两周约 236 万条 Claude 消息，真人只做视频与社交关注。
-- **L3-L4 影响与监控**：马来西亚案例用真实选民数据覆盖全部 222 个议会选区，运营约 1000 个假账号；另有系统把 100 多个 WhatsApp 群、几十个 Telegram 频道转为结构化情报，建立脆弱性画像与地理定位。
-- **L5 网络攻击**：至少两家无人机零部件厂商邮箱被导出，军用无人机视觉 SDK 被窃，北非政府机构泄露超 30 万条身份记录及 50 万家公司登记数据。
-- **L6-L7 实体与致命系统**：6 个传统武器案例含制导火箭、鱼雷拦截、无人机群；也门案例用多实例分工完成实弹测试并回传遥测迭代；俄罗斯无人机群项目设计目标含无人在环的起爆指令。
+- 6 岁前家长帮刷，孩子不配合也要坚持，原则问题不让步。
+- 喂养别太精细，适当啃甘蔗、坚果、肉骨等硬食物，刺激颌骨发育。
+- 6 龄齿萌出后及时做窝沟封闭，它一生只长一次，坏了不可逆。
+- 定期看牙医，注意牙缝清洁，可用牙线；刷牙别太用力，避免楔状缺损。
+- 留意居住地地下水含氟量，氟斑牙从孕期就要注意。
 
 ### 评论补充
-有回复补充称报告还涉及与中国地方公安、国安相关的监控操作，包括舆情抓取、生成管控建议、收集海外活动情报，Anthropic 称已封禁相关账户。另有评论指出，若指控属实，涉密信息上网与数据跨境均可能涉刑。
-
-＞ 注意：以上均为报告转述，具体事实待核验。
+有回复指出牙齿很大程度看基因，基因差只能维持不下滑；也有家长反映孩子抗拒刷牙、打骂无效。楼主回应称从《你就是孩子最好的玩具》学到要坚持帮刷，并附笔记链接：https://blog.luojie.net/posts/the-go-to-moms-parents-guid/ 。另有回复提醒关注孩子远视储备、眼轴和曲率。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241337" target="_blank" rel="noopener noreferrer">anthropicl 第四份威胁情报报告公开，自我的小思考</a></span><span class="topic-stats">回复 23 · 收藏 4</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241532" target="_blank" rel="noopener noreferrer">养育孩子的牙齿，父母应该知道的事</a></span><span class="topic-stats">回复 22 · 收藏 3</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241256" markdown="1">
+<details class="topic-card" data-topic-id="1241555" markdown="1">
 <summary>
 <span class="topic-rank">12</span>
-<span class="topic-title">micro-one-api 三协议转换：Chat/Responses/Messages 实现解析</span>
+<span class="topic-title">免费 Apple 开发者账号 APP 免电脑续签方案</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -381,30 +371,30 @@ Anthropic 发布第四份威胁情报报告，楼主按危害程度把 AI 滥用
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-
-作者以 `internal/apicompat`、`internal/adaptor`、`internal/server` 的实际代码，拆解 LLM 网关中 ChatCompletions、Responses、Anthropic Messages 三套协议的双向转换与流式状态机设计。
+免费 Apple 开发者账号签名的 APP 每 7 天需续签，主帖希望摆脱每次用 Xcode 重新打包，实现外网/Web 自动签名下载安装。评论给出的可行方向是使用第三方签名工具，而非自建 Web 服务。
 
 ### 关键要点
+- **AltStore / AltStore Classic**：经典方案，评论称 Classic 即将与 SideStore 一样，无需 macOS/Windows 端即可续签。
+- **SideStore**：可脱离电脑续签，官方安装文档见 https://docs.sidestore.io/docs/installation/install 。
+- **LiveContainer**：开源项目 https://github.com/LiveContainer/LiveContainer 。
+- **全能签**：被提及为可选工具。
+- **风险提示**：有回复指出近期 Apple 会封禁 ID，导致无法签名；另有用户最终改用付费开发者账号。
 
-- **拓扑选择**：不做统一中心 IR，而是三套 DTO + 点对点转换函数；但拓扑上以 **Responses 为 hub**。3 协议全互联需 6 组转换器，hub 化后只需 4 组核心转换器 + 2 个组合桥，新增第 4 个协议（如 Gemini）只需实现到 hub 的两条边。
-- **组合桥示例**：Anthropic→Chat 并非独立实现，而是 `AnthropicToResponses` 再 `ResponsesToChatCompletionsRequest` 两跳，之后补回 `max_tokens`（上限 64000）、`stop_sequences`→`stop`、强制 `stream_options.include_usage=true` 等字段。
-- **降级链分两类**：`/v1/responses` 端点对 Anthropic API-key 渠道走确定性 `responses→anthropic`（先于原生尝试）；对 400/404/405/501/502/503 走错误触发的 `responses→chat` fallback，协议能力错误标记为 `ProtocolCapabilityError` 换渠道重试。
-- **防御性规范化**：`normalizeAnthropicToolPairing` 修复 tool_use/tool_result 配对（Codex 每轮重发全量历史且插入审批通知，会破坏 Anthropic 三条不变式）；空参数补 `{}`、schema 兜底、空输出补 `(empty)`，每条都对应真实上游 400/422。
-- **字段存在性 ≠ 字段值**：`ResponsesStreamEvent.MarshalJSON` 显式构造 wire JSON，强制保留 Go `omitempty` 会丢掉的零值字段（`output_index: 0`、空 `content: []`），否则 Codex CLI 这类严格客户端会拒绝。
-- **流式状态机**：Anthropic 按顺序 block index 引用，Responses 按 `output_index + item_id`，需 `OutputIndexToBlockIdx` 翻译；并行工具调用参数 delta 交错时用缓冲模式按 output_index 排序后整段发出；每条流路径都有幂等 `Finalize*` 兜底断流
+### 评论补充
+有用户开源了 iOS 终端应用 https://github.com/Cluas/moshpit ，支持本地 build。整体共识是：纯自建 Web 自动签名方案未被验证，现成工具（SideStore/AltStore）是更现实的路径，但需注意封号风险。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241256" target="_blank" rel="noopener noreferrer">micro-one-api 协议转换： Chat ↔ Responses ↔ Messages</a></span><span class="topic-stats">回复 2 · 收藏 2</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241555" target="_blank" rel="noopener noreferrer">免费 Apple 开发者自己做的 APP 如何优雅续签？</a></span><span class="topic-stats">回复 10 · 收藏 2</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241303" markdown="1">
+<details class="topic-card" data-topic-id="1241594" markdown="1">
 <summary>
 <span class="topic-rank">13</span>
-<span class="topic-title">AI 编码时代企业数据裸奔：从 ignore 到交出 SSH 与数据库账号</span>
+<span class="topic-title">GPT Image 2.5 开源提示词合集：30 个图文案例与 20 条修改指令</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -412,33 +402,30 @@ Anthropic 发布第四份威胁情报报告，楼主按危害程度把 AI 滥用
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-作者观察到，随着 AI 编码工具普及，企业对 AI 的数据边界不断后退：去年初还会配置 `ignore` 屏蔽敏感代码，如今已主动为 AI 准备 SSH 信息、数据库账号。触发点是 Anthropic 发布的安全报告，以及 X 上疑似泄露的中转站数据。核心矛盾是：明知会泄露，仍无法不用。
+作者开源了一个 GPT Image 2.5 提示词合集，含 30 个图文案例（摄影、产品图、时装广告、平面设计、连续分镜）和 20 条配套修改指令（修标签、去多余文字、保持人物一致性），提示词与 README 提供中英双语，原创内容采用 MIT 协议。仓库地址：https://github.com/VulcanEon/insane-gpt-image-2.5-prompts
 
 ### 关键要点
-- **风险已被默认接受**：多位回复者表示已把 SSH、MySQL 权限交给 AI，让其自行改 bug、部署，形成“全自动”流程。
-- **保守做法仍存在**：只让 AI 读项目结构、用 SQL 结构代替真实库，不给数据库密码，仅凭结构即可写代码和测试用例。
-- **缓解手段有限**：可用 1Password 等密钥管理器让 AI 从其中读取密钥，但回复者指出“光密码没啥用”，整体仍算裸奔。
-- **中转站是薄弱环节**：有回复指出中转站站长完全有能力查看请求内容，因此选择直连头部 AI 公司。
-- **企业侧有另一套方案**：国央企倾向私有化模型加大模型网关，带审计和策略拦截，数据统计更细。
+- **来源与区分**：30 个案例中 19 个来自 X 帖子、11 个来自平台公开展示页，均记录来源并可点回原帖。仓库区分「画面推导」（按构图光线材质新写指令）与「编辑改写」（基于公开指令独立重写），并标明状态。
+- **未逐条验证**：改写后的提示词尚未逐条生图验证，不能当作“一键复现同款”的保证。
+- **可检查的写法**：与其堆形容词，不如写具体约束，如“产品标签正对镜头，保留瓶盖颜色与瓶身比例，人物后方柔焦，手指不挡品牌名，左上留文案位”，并对应检查标签是否变字、手指与瓶子是否粘连、瓶身比例是否改变。
+- **失败案例**：保留两个模型擅自添加背景文字的反例，配新约束写法，说明整体不错时局部仍可能不符。
+- **维护机制**：内容存于 JSON，由 Python 脚本生成 README、案例页与来源登记，并校验重复 ID、双语字段、来源与内部链接，GitHub Actions 已跑通。
 
 ### 评论补充
-有回复称 DeepSeek 在第三次会话时 `cat` 了证书内容，说明模型可能主动读取敏感文件；也有人提醒“涉密不上网，上网不涉密”，真正机密不会外发。关于中转站泄露，评论给出了 X 帖与 arXiv 链接作为来源线索，但真实性仍需自行核验。
-
-### 结论
-便利与保密难以兼得。可复用的底线是：敏感凭据不进上下文，用密钥管理器或网关隔离，涉密数据不上网；对中转站保持警惕，优先直连或私有化部署。
+本主题暂无回复。作者另说明：MIT 仅覆盖仓库原创内容，外部案例图片保留各自权利，不因进入开源仓库而获得商用授权；网站生图需付费并显示积分估算，开源合集本身无此限制。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241303" target="_blank" rel="noopener noreferrer">感觉现在的企业在 AI 公司面前都是裸奔</a></span><span class="topic-stats">回复 24 · 收藏 2</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241594" target="_blank" rel="noopener noreferrer">整理了一个 GPT Image 2.5 开源提示词合集， 30 个图文案例，聊聊怎么做的</a></span><span class="topic-stats">回复 0 · 收藏 2</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241183" markdown="1">
+<details class="topic-card" data-topic-id="1241495" markdown="1">
 <summary>
 <span class="topic-rank">14</span>
-<span class="topic-title">EgressKit：把 Clash 订阅节点变成 HTTP 代理池</span>
+<span class="topic-title">微信支付宝付款后广告的关闭方法与限制</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -446,30 +433,31 @@ Anthropic 发布第四份威胁情报报告，楼主按危害程度把 AI 滥用
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-EgressKit 是一个 Apache-2.0 开源项目，用于把 Clash/Mihomo 订阅中的 VLESS 节点转成统一的 HTTP 代理入口，适合写脚本、跑浏览器自动化时轮换或固定出口 IP。
+微信、支付宝扫码付款后常出现广告或弹窗，用户普遍找不到彻底关闭的开关。讨论的共识是：这类广告多由商家后台配置，平台层面不会提供全局禁用选项，因此只能针对具体入口或从系统层面缓解。
 
 ### 关键要点
-- 导入订阅后自动识别 VLESS 节点并检查出口 IP，对外提供单一 HTTP 代理地址。
-- 通过代理用户名选择出口策略：`rotate` 为新连接选最长未使用的出口 IP；`sticky.task-01` 让同一任务保持出口不变；还支持严格固定和指定出口。
-- Docker 一条命令启动，镜像支持 amd64/arm64，内置 Mihomo 与 Web 控制台，默认监听 `127.0.0.1:8787`。
-- 后台可增删改订阅并定时更新，查看出口 IP、地区、检查时间，支持按 IP 筛选和手动单节点/全量检查。
-- 项目地址：https://github.com/heyjunpenn/EgressKit
+- **微信支付后摇一摇广告**：进入「微信支付」服务号 → 右下角「摇优惠」→ 右上角三个点 → 设置 → 支付后摇一摇设置 → 关闭「开启支付后摇一摇」。
+- **微信个性化广告**：路径较隐蔽，在「关于微信」→ 隐私保护指引 → 个性化广告中调整。
+- **支付宝**：有用户反馈关闭弹窗需操作两次；也有人表示自己的支付宝并无此问题，说明与版本或商家有关。
+- **DNS/抓包屏蔽**：有用户尝试收集广告域名做 DNS 屏蔽，但换区/镇就可能换广告渠道，难以收集完整。
+- **系统层缓解（安卓）**：以小米为例，在省电策略中设置后台运行超过 10 分钟自动关闭，支付宝切后台后会被自动清理。
+- **硬件方案**：用手环/手表绑定支付宝付款码不会弹广告，但只能被扫码，无法主动扫商家码。
 
 ### 评论补充
-有用户指出 https://github.com/Resinat/Resin 与该项目类似，作者回应称对方更完善。作者确认不支持链式代理。
+多位用户认为最省事的做法是付款完成瞬间手动划走或退后台；也有观点指出该位置本用于展示商家支付结果，商家可自行投放，平台不可能禁掉。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241183" target="_blank" rel="noopener noreferrer">[开源自荐] 做了个 EgressKit，把 Clash 订阅里的节点变成 HTTP 代理池</a></span><span class="topic-stats">回复 7 · 收藏 6</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241495" target="_blank" rel="noopener noreferrer">扫码付款后有广告，有没有办法彻底地屏蔽</a></span><span class="topic-stats">回复 15 · 收藏 1</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241349" markdown="1">
+<details class="topic-card" data-topic-id="1241487" markdown="1">
 <summary>
 <span class="topic-rank">15</span>
-<span class="topic-title">iPhone 首发抢购：App 下单与 Apple Pay 实操经验</span>
+<span class="topic-title">GPT Plus 额度疑似缩水：Astra 消耗快、Sol 更耐用</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -477,32 +465,29 @@ EgressKit 是一个 Apache-2.0 开源项目，用于把 Clash/Mihomo 订阅中�
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-主题问的是如何在官网首发时第一时间进入抢购页面。高赞回复给出了一套可复用的 App 抢购流程，核心结论是：**用 Apple Store App 下单，提前绑定 Apple Pay 直接付款**，因为发货时间按支付完成先后排序。
+多位用户反馈，GPT Plus（及 Pro/20x）的 5 小时额度近期明显缩水，尤其在新模型 Astra 上消耗极快，简单问题即可掉 50% 额度，两个问题就用完。
 
 ### 关键要点
-- 付款方式：优先 Apple Pay，不要走分期，跳转银行流程太慢；确需分期可线上预约线下取货，到店找 Genius 办理。
-- 提前准备：信用卡额度确认或临时提额；在“联系人”里给自己建一条置顶记录并填好地址；提前选好配置并加入“收藏”，开放购买后从收藏入口进入。
-- 卡等待页时：杀掉 App 重进、反复操作直到放行。回复者推测放行取决于 Apple CDN 上的静态配置文件，客户端定时刷新反而浪费时间；也可尝试更换 ISP 线路以命中其他边缘节点。
-- 提前演练：在商店维护前用其他可购产品把选配置、加购物袋、结账、拉起 Apple Pay 的流程跑几遍，熟悉省市区级联菜单。
+- **Astra 消耗异常**：有用户称 light 模式下单次交互掉十几个百分点；Plus 用户“只能问两个问题”。
+- **Sol 相对耐用**：有用户实测，用满一个 5h 窗口的 Sol high 约 2820 万 token，完成一次大型重构；而用满两个 5h 的 Astra 中档仅解决两个小问题，当天约 1160 万 token，单窗口约 600 万，差距约 4.8 倍。
+- **建议**：除非任务特别复杂，不建议用 Astra，成本过高；可退回 Sol/5.6 档位。
+- **范围**：不只 Plus，Pro、20x 用户也反映额度减少，有人一周用掉多张重置卡。
 
 ### 评论补充
-- 有回复指出，即使在通讯录设置省市区，结账时也无法自动关联，这一步仍费时。
-- 关于换区：Apple Store App 右上角头像—设置底部可切换地区，美区账号选“中国大陆”不影响下单。
-- 预期管理：等待时间可能从 T+两三分钟到 T+七八分钟不等，需坚持刷新。
-- 其余回复多为调侃或“祝好运”，无实质信息。
+部分用户表示 Sol 额度未明显下降，问题主要集中在 Astra；也有 Plus 用户称自己的账号没有 5 小时限制，情况存在个体差异。以上均为用户主观体感与自测，官方未给出说明，具体额度以实际账号为准。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241349" target="_blank" rel="noopener noreferrer">抢购 iPhone 的最佳方式是什么？</a></span><span class="topic-stats">回复 13 · 收藏 3</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241487" target="_blank" rel="noopener noreferrer">gpt 的 plus 现在可用额度是不是减少了？</a></span><span class="topic-stats">回复 19 · 收藏 0</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241225" markdown="1">
+<details class="topic-card" data-topic-id="1241510" markdown="1">
 <summary>
 <span class="topic-rank">16</span>
-<span class="topic-title">用 grok-bot 云机器替代本机开发环境的配置与风险</span>
+<span class="topic-title">Codex 重置预测站对比：投票机制失真，语义分析更可靠</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -510,31 +495,31 @@ EgressKit 是一个 Apache-2.0 开源项目，用于把 Clash/Mihomo 订阅中�
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-作者换新电脑后不想用 macOS 一键迁移，改为逐步把本机开发环境迁到 Grok 订阅附带的 grok-bot 云机器，以简化未来换机流程。
+有用户指出 willcodexquotareset.com 的 Codex 重置预测不准：在 Tibo 明确表示要重置时，该站概率仅 29%。讨论由此转向多个同类预测站的可靠性对比。
 
 ### 关键要点
-- 订阅为 **SuperGrok**，云机器可免费使用。
-- 云机器侧：安装 `tailscale` 便于 SSH 访问，配置 `gh cli`、`herdr`。
-- 本地侧：安装 `tailscale` 打通云机器，用 `herdr machine` 添加 grok-bot 机器。
-- 在 grok-bot 内创建 routine 对云机器做 tailscale 保活。
-- 作者把软件与登录状态放在 home 目录下，目前未遇到回滚问题。
-- 网络方面用 Surge 托管 tailscale，走 CN2 GIA 线路的 peer relay，延迟可接受。
+- **投票机制易失真**：codex-resets.com 开发者承认，其投票功能受 polymarket 启发但无真实金钱押注，确实会失真；有用户怀疑有人利用漏洞大量点“No”压低百分比。
+- **更合理的做法**：应基于自有算法对 Tibo 的推文做语义、情感分析，而非依赖用户点 Yes/No。
+- **可参考的站点**：codex-resets.com 会单独列出 Tibo 与重置相关的推文供打分；codex-reset.com 被 follow 近一个月，评价“挺好用”，并提供 Telegram 提醒和 signals 页面。
+- **公共 API**：codex-resets.com 提供免费公共 API，文档见 https://codex-resets.com/api/docs ，可用于自建监控。
 
 ### 评论补充
-多位用户提醒云机器不可靠：有人的 grok-bot 被回滚十余小时，环境与对话回到一天前；也有人遇到会话、新建 Bot 全部丢失，官方解释是误配了重复机器、会话被路由到副本，修复后按历史最多的机器回指，并重置周额度作为补偿。因此建议只作软依赖，不要放关键数据。另有用户指出云机器 SSD 仅 128G，且会不定时重置；也有人质疑数据隐私与是否会被判定滥用。替代方案是把开发环境放在自购 VPS（如甲骨文 4c24g）。
+- 有用户认为重置逻辑成立：20x 新用户订阅入口关闭后算力释放，存量用户可获重置。
+- 实际观察：有 Pro 用户一小时前已重置，Plus 尚未重置。
+- 有观点称其他 AI 厂有新闻时 Tibo 常会重置以盖风头；也有用户认为预测意义有限，重置往往只是提前一两天。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241225" target="_blank" rel="noopener noreferrer">尝试逐渐把本机工作环境迁移到 grok-bot 提供的云机器里</a></span><span class="topic-stats">回复 21 · 收藏 3</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241510" target="_blank" rel="noopener noreferrer">还是别看这个重置了，一点儿都不准</a></span><span class="topic-stats">回复 13 · 收藏 2</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241269" markdown="1">
+<details class="topic-card" data-topic-id="1241467" markdown="1">
 <summary>
 <span class="topic-rank">17</span>
-<span class="topic-title">湖北小镇一周消费观察：菜价便宜，其余与武汉相当</span>
+<span class="topic-title">iPhone Duo 谨慎悲观：1.6万定价与254克重量成门槛</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -542,30 +527,30 @@ EgressKit 是一个 Apache-2.0 开源项目，用于把 Clash/Mihomo 订阅中�
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-远程办公的作者带家人回湖北末流地级市下的小镇住了一周，记录当地消费、环境与生活节奏。结论是：小镇并非普遍便宜，只有早市摆摊买菜明显低于武汉，其余日常消费与武汉相当甚至更贵。
+作者对 iPhone Duo 持谨慎悲观态度，核心论点是：消费品的成败由价格决定，而非开创性。iPhone 13 系列成功源于形态成熟加量不加价，Vision Pro 则因昂贵价格远离大众。Duo 对安卓不具开创性，对 iPhone 用户是首次折叠形态，但 1.6 万元定价使其难以成为普通消费者爆款。
 
 ### 关键要点
-- **买菜**：只有早上到摆摊处买才便宜；去超市买与武汉价格差不多，个别更贵。早餐热干面 3 元，武汉约 5 元。
-- **零食零售**：一个小镇有四家零食店（零食很忙、零食优选、好想来、乐哆嗦），其中三家同一老板，在零食很忙开店后迅速上马另两家。
-- **环境**：商品房面积大但空旷，空气流动快，家人鼻炎反复；临河灰大，Mac mini 放窗台 5 天积灰超过武汉一个月。
-- **节奏与业态**：上午过早买菜、中午后打麻将；镇上老人孩子多，壮年男性少见；理发店 10～20 家，营业厅密集，网吧已倒闭，无电影院。
-- **基建与垄断**：隔壁镇卫生院改造气派，本镇拟建项目预算 4 亿但资金未落地；国道被大雨冲断 5 个多月未修；液化气 120 元/10 公斤，老板垄断本镇及邻镇生意。
+- **重量**：Duo 254 克，对比 18 Pro 211 克、16 Pro 199 克、Air 165 克，超过 200 克已明显沉重。
+- **便利性**：小屏回复信息时输入框占半屏，体验差；要舒适需展开大屏双手横屏打字，操作繁琐。
+- **功能对比**：电话无差异，信息交流输给普通 iPhone；浏览、影音、游戏、应急生产力屏幕大占优，但这些场景占比有限。
+- **价格锚点**：Duo 价格是 iPad mini 的 5 倍、MacBook Air 的 2 倍，缺乏刚需生产力理由。
+- **社交货币**：作者认为社会风气已自洽，手机作为社交符号在线下基本失效。
 
 ### 评论补充
-多位读者印证这是普遍现象：大城市消费选择多、丰俭由人，贵主要贵在“住”；对留在县城的人，买菜才是最大日常支出。也有评论指出，小镇因交通和人口问题，部分商品反而更贵，如县城洗头 15 元、上海某店 12 元。灰尘大小还与楼层高低、是否临大马路有关。
+有回复认同价格过高，认为折叠机仍有市场但 Duo 会像 Air 一样稀有；也有回复指出 iPhone 仍是社交符号，线上炫耀需求存在。关于游戏，有用户反馈安卓折叠内屏存在丢操作问题，音游手速快时漏键，外屏正常，质疑苹果能否解决。另有用户表示购买动机是尝鲜电子产品，之后可能给老人用大屏。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241269" target="_blank" rel="noopener noreferrer">回老家呆了一个星期，这消费也不低啊</a></span><span class="topic-stats">回复 25 · 收藏 2</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241467" target="_blank" rel="noopener noreferrer">对 Duo 持谨慎悲观态度</a></span><span class="topic-stats">回复 15 · 收藏 0</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241382" markdown="1">
+<details class="topic-card" data-topic-id="1241473" markdown="1">
 <summary>
 <span class="topic-rank">18</span>
-<span class="topic-title">Tick 与 K 线数据的区别及选型：量化场景怎么选</span>
+<span class="topic-title">巧鹊药历1.2.1更新：首页快捷确认与微信订阅提醒</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -573,35 +558,31 @@ EgressKit 是一个 Apache-2.0 开源项目，用于把 Clash/Mihomo 订阅中�
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-
-主帖用一段 10:00–10:01 的成交示例说明：Tick 是过程，K 线是结果。多条 Tick（如 100.12/200、100.15/100、100.18/300…）聚合成 1 分钟 K 线后只剩 `Open 100.12 / High 100.22 / Low 100.12 / Close 100.19 / Volume 1800`，中间路径被丢弃。
+巧鹊药历 1.2.1 未改动用药计划逻辑，集中优化两个高频环节：服药后快速留痕，以及通过微信继续接收下一次提醒。
 
 ### 关键要点
-
-- **选 K 线的场景**：看趋势、算均线/MACD/RSI 等技术指标、普通策略回测、看日线/小时线/分钟线。这些指标本身建立在 OHLC 聚合数据上，用 Tick 反而增加数据量与计算量。
-- **选 Tick 的场景**：研究成交过程、高频策略、分析短时间价格变化、研究成交量分布、自行聚合任意周期。例如回答“价格为什么从 100.15 打到 100.30”“这一分钟成交了多少次”“某价位是否出现大量成交”。
-- **信息损失**：`100→101→102→103` 与 `100→103→101→103` 可能得到几乎相同的 OHLC，但实际走法完全不同。
-- **工程成本**：Tick 数据量远大于 K 线，存储与计算要求更高；实时接入需处理断线重连、心跳等问题。
-- **接入示例**：主帖给出用 AllTick WebSocket 订阅实时成交 Tick 的 Python 代码（`cmd_id 22004` 订阅、`22998` 推送），返回字段含 `tick_time`、`price`、`volume`、`turnover`、`trade_direction`，可自行重聚合成 1 分钟或 5 分钟 K 线。
+- **首页快捷确认**：待服药卡片新增“已服药”按钮，点击即完成本次记录并停止该剂次后续升级提醒；需填剩余药量、照片或备注时仍可进入原详细确认页。
+- **可撤销**：确认后首页短暂显示“撤销”与剩余时间，撤销会重新核对计划、剂次与提醒状态，已修改或暂停的计划不会错误恢复旧提醒，库存按实际扣减数量返还。
+- **微信小程序订阅通知**：采用一次性订阅机制，每同意一次获得一次可用通知次数，小程序显示剩余次数；可从首页提醒横幅“去订阅”或“我的 → 通知方式 → 小程序订阅通知”补充。
+- **恢复提醒**：若曾关闭该类订阅，按钮会变为“恢复提醒”，引导进入微信小程序通知设置重新开启。
+- **需自查通知策略**：默认策略已含小程序订阅通知，但自定义过策略的用户需在“我的 → 通知策略”中手动加入该渠道，且需同时具备可用次数才会生效。
+- 收到通知不等于已服药，只有本人确认才记为已服用；该渠道不替代站内消息、短信、语音等已有方式。
 
 ### 评论补充
-
-有回复指出主帖示例严格来说更接近 3 秒快照而非逐笔 Tick（随后自行更正）；另有回复强调 Tick 级存储与抽取计算对资源要求极高，并提到 Order Book 最优买卖价变化也属于 Tick 范畴。
-
-结论：不是谁更好，而是研究问题决定粒度；普通策略没必要为“更细”强上 Tick。
+有用户指出苹果“健康”服药功能通知更好，其最大痛点是空腹服药场景下忘记确认，导致二次服药或漏服，认为本工具未解决该痛点。作者回应称自己服用降压药不区分饭前饭后，且用餐时间不固定，软件层面难以做到饭前通知，只能在饮食规律时设定固定时间点提醒。另有评论认为面向老年用户需更友好，并质疑界面为 AI 生成，作者承认使用 AI。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241382" target="_blank" rel="noopener noreferrer">Tick 数据和 K 线数据到底差在哪里？</a></span><span class="topic-stats">回复 4 · 收藏 4</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241473" target="_blank" rel="noopener noreferrer">吃药提醒工具-巧鹊药历 1.2.1 更新：确认更快，微信提醒更顺手</a></span><span class="topic-stats">回复 6 · 收藏 2</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1241322" markdown="1">
+<details class="topic-card" data-topic-id="1241500" markdown="1">
 <summary>
 <span class="topic-rank">19</span>
-<span class="topic-title">上海联通2000兆桥接后下行仅1.2G，疑似光猫限速</span>
+<span class="topic-title">VibeCoding 额度切换与多仓库协作的实用做法</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -609,268 +590,23 @@ EgressKit 是一个 Apache-2.0 开源项目，用于把 Clash/Mihomo 订阅中�
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-上海联通 2000M 宽带（上行 200M）在全部有线链路为 2.5GbE 的情况下，上行可跑满 200+，但下行无论有线、无线还是电脑直连光猫拨号，最高只测到约 1.2G。装维师傅用手机连 Wi-Fi 测同样只有 1.2G，改回光猫路由模式用内部测速则称达到 2G，随后建议联系光猫厂家排查桥接是否限速。用户装好即桥接，仅用 FTTR 主光猫接路由器，未使用子节点。
+
+作者提出 VibeCoding 日常的两个痛点：一是 A 工具额度用完后，只能复制链接到 B 工具说“继续未完成的事”；二是 A、B 仓库存在上下游关系时，缺少统一的资料看板，现有产品不理想，仍靠本地文件看板和人工提示。
 
 ### 关键要点
-- 光猫为中兴 2.5G、Wi-Fi 7 型号，师傅称其优于华为型号；有回复怀疑是中兴“软桥接”导致限速。
-- 同城同套餐用户反馈：华为星光 F50 光猫桥接后测速可达 2200M+，说明桥接本身不必然限速。
-- 测速结果受测速服务器影响大：有用户用全球网测仅 1200Mbps、花瓣测速偶尔 1600Mbps，换电脑有线测速可跑满 2200Mbps。
-- 建议用电脑多线程下载苹果 CDN 的 ROM 包验证真实下行，排除测速网站瓶颈。
-- 路由器性能也需排查，用户使用华硕魔盒 Pro Max。
+
+- **不要与单一工具绑死**：有回复建议用 pi 或 opencode 这类可切换模型的方式，一个模型额度用完直接换另一个；免费额度的目的正是把用户绑死在工具上。
+- **用文档承接上下文**：每开一个新需求就在当前目录生成开发文档，切换工具时直接 @ 文档并说“继续”，可替代复制链接的做法。
+- **多仓库用外层目录管理**：把相关项目放到同一目录，在该总目录下启动 agent；`agents.md`、skill 或看板都可放在外层目录。
+- **成本判断优先**：若 VibeCoding 收益能覆盖订阅费用，就不值得为额度问题耗时间切换工具。
 
 ### 评论补充
-有观点认为超过 500Mbps 下行对多数人意义有限，但被反驳称能跑 800M 以上的下载源并不少。整体共识是：先排除测速工具与服务器瓶颈，再怀疑光猫桥接限速，可对比华为 F50 等已知满速型号。
+
+有回复提到用官方 API 按量付费可避开 5 小时/周限额在关键节点断供的问题；也有人指出生成代码注释质量两极分化。另有回复推荐项目 https://github.com/akitaonrails/ai-memory ，但自述并不完善。作者补充，其场景是使用免费额度，且外层目录只是方便提示，尚未达到期望的管理形态。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241322" target="_blank" rel="noopener noreferrer">上海联通 2000 兆下行跑不满</a></span><span class="topic-stats">回复 12 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1241284" markdown="1">
-<summary>
-<span class="topic-rank">20</span>
-<span class="topic-title">非国行 iPhone 开启 iOS 27 新 Siri 的分流规则</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-有用户分享在非国行 iPhone 上开启 iOS 27 新版 Siri 的代理分流规则：设备需登录外区 iCloud 与 App Store，并将以下域名走代理。作者实测 iOS 27 RC 已不再需要禁用 Siri App 的定位权限。
-
-### 关键要点
-- **基础 Siri/iCloud 域名**：`gateway.icloud.com`、`seed.siri.apple.com`、`probe.icloud.com`、`metrics.icloud.com`、`guzzoni.apple.com`、`DOMAIN-SUFFIX,smoot.apple.com`。
-- **Apple Intelligence / 私有云计算**：`apple-relay.apple.com`、`apple-relay.cloudflare.com`、`apple-relay.fastly-edge.com`、`cp4.cloudflare.com`。
-- **relay / bootstrap**：`apple-relay.mask.apple-dns.net`、`mask-api.icloud.com`、`mask-api.fe2.apple-dns.net`、`apple-relay.akamaized.net`、`apple-carry-relay.cloudflare.com`。
-- **区域判定**：`gspe1-ssl.ls.apple.com`。
-
-### 评论补充
-有回复询问是否存在地理围栏，作者回应目前主要按 IP 判定，把上述规则补全即可正常使用。该结论仅来自作者自述，未提供更多验证，实际效果可能随系统版本与网络环境变化。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241284" target="_blank" rel="noopener noreferrer">非国行 iPhone 开启 iOS27 new siri 规则分享</a></span><span class="topic-stats">回复 3 · 收藏 3</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1241283" markdown="1">
-<summary>
-<span class="topic-rank">21</span>
-<span class="topic-title">AI 时代跨端方案还有意义吗：Shopify 转原生引发的讨论</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-Shopify 五年前 all in React Native，如今开始转纯原生，作者据此发问：AI 大模型这么强，跨端跨框架方案（React Native、Electron、Taro 等）还有意义吗？主帖引用 HN 讨论与 Shopify 工程博客《Migrating Shop app from React Native to native》，认为重构为原生的时间与成本不高，性能提升却真实可靠。
-
-### 关键要点
-- **成本结构变了**：过去跨端核心价值是降低多端开发与维护成本；有 AI 后，跨端方案自身的问题成本可能已超过分别开发各端的成本。
-- **AI 成为新的“上位胶水层”**：LLM 擅长抽象与找公约数，可一端写、生成其他端，纯技术层面的“胶水层优势”下降。
-- **跨端仍有保留价值**：多端统一 UI、热更新、维护一个项目比维护两个项目更省 token。
-- **原生的现实约束**：发版流程、进度与时间不可控，比 token 费用更麻烦。
-
-### 评论补充
-有回复指出“跨端原生”本身也是跨端，只是不基于 WebKit，且尚不成熟，不必急着放弃 WebKit 方案。也有观点认为 token 同样收费，且多端原生开发量、测试与返工消耗的时间和 token 更多。综合看，共识是跨端不会消失，但选择依据从“省人力”转向“体验、发版与维护成本的权衡”。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241283" target="_blank" rel="noopener noreferrer">现在 AI 大模型这么强，跨端跨框架解决方案还有意义吗</a></span><span class="topic-stats">回复 13 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1241197" markdown="1">
-<summary>
-<span class="topic-rank">22</span>
-<span class="topic-title">日区 Apple ID 注册：不绑手机号、日本节点与双重认证</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-用户按网上教程注册日区 Apple ID 并绑定中国大陆手机号后，登录提示账号需审核，等待一天仍未通过，因此询问日区 ID 的正确注册方式，以及中国手机号是否容易触发审核。评论给出的共识是：注册环节通常不强制绑定手机号，用邮箱即可完成，网络环境比手机号归属地更关键。
-
-### 关键要点
-- **不绑手机号**：多位回复者表示注册时只用邮箱、不填手机号即可，手机号归属地影响不大。
-- **网络环境**：建议使用日本节点；也有人用美国 VPS 成功注册，说明并非必须日本 IP，但需保证代理全局或分流正确。
-- **设备与入口**：有回复称 Windows 端失败率较高，可尝试 Android 端下载 Apple Music 后注册；浏览器可用隐私模式。
-- **支付方式**：日区注册流程相对简单，可不绑定支付方式。
-- **替代方案**：可先注册美区/港区再转区，或直接购买现成账号（存在风险，需自行判断）。
-
-### 评论补充
-有回复提醒，新 Apple ID 现在普遍要求双重认证，而双重认证通常需要手机号，这与“完全不绑手机号”存在分歧，实际操作中可能仍需在后续环节补充验证方式。原帖的审核问题未得到明确结论，仅能确认绑大陆手机号并非唯一原因。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241197" target="_blank" rel="noopener noreferrer">请教注册日区 id 的正确姿势？</a></span><span class="topic-stats">回复 10 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1241373" markdown="1">
-<summary>
-<span class="topic-rank">23</span>
-<span class="topic-title">阿里公共DNS 223.5.5.5多省故障约23分钟后恢复</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-阿里云公共 DNS（223.5.5.5）在 2026 年 09 月 11 日 16:36 前后出现解析异常，多省份用户受影响，16:59 恢复，故障持续约 23 分钟。
-
-### 关键要点
-- 受影响地址不止 223.5.5.5，有用户反馈 223.6.6.6 同样不可用。
-- 广州用户报告 16:41 左右出现同样故障。
-- 有用户家中 ICMP 监控显示约 10 分钟 100% 丢包，可佐证故障真实存在。
-- 阿里云客户公告称：多省份公共 DNS 解析服务异常，初步怀疑为运营商网络侧原因，经工程师紧急处理后于当日 16:59 恢复。
-
-### 评论补充
-部分用户一度误以为是用量超限被封。若依赖公共 DNS，可考虑配置备用解析地址，并保留 ICMP/解析可用性监控，便于快速区分是本地网络问题还是上游 DNS 故障。
-
-＞ 注：公告内容来自用户转述，官方链接未在讨论中给出，具体原因以阿里云官方说明为准。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241373" target="_blank" rel="noopener noreferrer">阿里 dns 挂了吗？ 223.5.5.5</a></span><span class="topic-stats">回复 8 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1241424" markdown="1">
-<summary>
-<span class="topic-rank">24</span>
-<span class="topic-title">StandUp：原生免费开源的 macOS 久坐提醒工具</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者因在 App Store 和 GitHub 找不到合适的免费久坐提醒工具，自行用 SwiftUI 与 AppKit 开发了 macOS 菜单栏应用 **StandUp**，开源且免费，无第三方依赖，数据存于本机 UserDefaults。
-
-### 关键要点
-- **工作/休息计时**：工作间隔 1～240 分钟，休息 1～60 分钟，菜单栏实时显示倒计时，休息结束自动进入下一轮。
-- **全屏休息遮罩**：覆盖主屏及所有外接显示器，支持横竖屏；主屏显示提醒文字、按钮与倒计时，可用空格或回车快速开始，也可提前结束。
-- **个性化**：自定义提醒文字（最长 20 字符）、随机健康提示语、遮罩前 10 秒提示音、进入休息时暂停媒体并在结束后恢复。
-- **闹钟模式**：可选日期与 24 小时时间，最多 5 个一次性闹钟，支持增删改，重启后未到期闹钟恢复。
-- **系统要求**：macOS 14.0 及以上，支持 Apple Silicon 与 Intel。
-- 下载：https://github.com/jiayouzl/StandUp ，发布页 https://github.com/jiayouzl/StandUp/releases/tag/v1.10
-
-### 评论补充
-有用户询问是否会出 Windows 版，作者回复 Swift 无法编写 Windows 平台，因此暂无跨平台计划。另有评论指出同类工具 Workrave（https://workrave.org/）已存在约 20 年，可作为替代参考。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241424" target="_blank" rel="noopener noreferrer">[不要久坐] StandUp - 原生 + 免费且开源的久坐提醒 macos APP！</a></span><span class="topic-stats">回复 5 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1241194" markdown="1">
-<summary>
-<span class="topic-rank">25</span>
-<span class="topic-title">Anthropic 指控 7 家中国模型非法蒸馏 Claude</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-Anthropic 发布《Detecting and countering misuse of AI: September 2026》，指控阿里 Qwen、Moonshot Kimi、DeepSeek、智谱 GLM、小米 MiMo、商汤、MiniMax 七家中国公司通过未授权采集、绕过访问限制或欺诈账户等方式非法蒸馏 Claude。报告称部分公司还把用户请求转发给 Claude，导致用户敏感数据外泄。
-
-### 关键要点
-- **规模指控**：阿里 5—7 月超 1.51 亿次提取思维链；Moonshot 超 2300 万次；DeepSeek 7 月 14 天超 1210 万次；智谱 17 天超 340 万次；小米 20 天超 40 万次。
-- **转发用户请求**：Moonshot 在十天内向 Anthropic 转发近 30 万个客户请求，多数路由到 Opus，使用 5380 个欺诈账户组成的代理网络。DeepSeek 也采用类似策略，并会标记使用 Claude Code、Claude Agent SDK、OpenCode 的用户，将其请求转发到 Claude Opus。
-- **数据泄露案例**：某国企工程师用 Kimi 构建内部系统，泄露多家知名科技公司内部代码和实时凭证；某中国科技公司员工用 DeepSeek 分析内部文档，泄露旗舰 AI 项目完整规格、组织结构和战略目标；俄罗斯国防部下属机构 IT 操作员的请求被转发，泄露政府数据库实时凭证。
-- **来源**：https://www.anthropic.com/threat-intelligence-report-september-2026
-
-### 评论补充
-有评论认为报告数据可能掺假，国内用户请求不会转发给国外模型，但国外用户请求不受国内数据保护法律限制；也有评论指出蒸馏在行业内是公开秘密，阿里每月蒸馏 Claude 花费已破亿元，某模型公司甚至偷实习生蒸馏思路。另有评论质疑 Anthropic 查询用户请求数据的做法。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241194" target="_blank" rel="noopener noreferrer">Anthropic 指控 7 家中国模型非法蒸馏：有公司直接把部分用户请求转发到 Claude，泄露了多家知名科技公司内部代码和密钥</a></span><span class="topic-stats">回复 9 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1241214" markdown="1">
-<summary>
-<span class="topic-rank">26</span>
-<span class="topic-title">苏宁易购售后拖延：TP-Link摄像头内存卡初始化失败</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-用户在淘宝的苏宁易购购买 TP-Link 摄像头，附赠杂牌内存卡无法格式化，插电脑格式化后回摄像头仍初始化失败。联系客服后等待 24 小时只得到 3 条无效建议，最终寄回换货，自行垫付 11 元邮费，多日未处理，晚间 9 点半也无人工服务。
-
-### 关键要点
-- 苏宁易购售后响应慢、无人工客服，寄回后长期挂起，邮费需自付。
-- 多位回复者反映苏宁自营家电售后体验差，响应与售后不如闲鱼、拼多多。
-- 有用户指出同类 TP-Link 摄像头问题可能出在内存卡：杂牌卡易初始化失败，换用闪迪等品牌卡后稳定。
-- 建议先通过 TP-Link 官方 App 初始化，或咨询 TP-Link 官方旗舰店客服，比苏宁客服更专业。
-- 若商品有问题，可直接申请退部分款，减少寄回扯皮成本。
-
-### 评论补充
-有回复称苏宁客服常以“产品是好的，是你不会用”推脱，缺乏售后技术支持；也有用户提醒，对口碑持续走低的平台应尽量绕开。关于内存卡，有用户实测京东京造和淘宝杂牌卡均不稳定，换闪迪后正常，说明部分故障可能并非摄像头本身。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241214" target="_blank" rel="noopener noreferrer">苏宁易购真是拉完了</a></span><span class="topic-stats">回复 13 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1241405" markdown="1">
-<summary>
-<span class="topic-rank">27</span>
-<span class="topic-title">飞牛 fnOS 打包 hapi：手机远程用 Claude Code 改代码</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者把 hapi（网页版 AI 编码界面）打包成飞牛 fnOS 可直接安装的应用，实现「代码放 NAS + 飞牛远程访问 + 手机浏览器操作 Claude Code / Codex」的远程开发方案，替代以往折腾 VPN、端口转发的做法。
-
-### 关键要点
-- 项目地址：https://github.com/phpgao/hapi-fnos ，底层 hapi 为 https://github.com/tiann/hapi 。
-- 支持 x86 与 arm，应用中心手动安装；自动启动 hapi hub 和 runner；可配置运行用户、端口、工作目录。
-- 复用 NAS 上已安装的 Claude Code / Codex，需提前安装并登录；运行用户须能读写项目目录。
-- 通过 `CLI_API_TOKEN` 做访问保护，远程访问开启后务必设置 Token，避免服务暴露公网。
-- 适用场景：临时改几行代码、让 AI 查问题、看日志重跑命令、修小 bug、睡前派任务次日看结果；手机端不适合重开发。
-
-### 评论补充
-有用户对比 herdr、paseo 等同类方案，认为 paseo 通过主机与手机组网直连 IP，未必更差；作者回应 hapi 更原生，目标一致，并给出工作原理文档 https://github.com/tiann/hapi/blob/main/docs/guide/how-it-works.md 。另有用户提到打包 deepseek harness 并关闭认证、放开全部权限的做法，属高风险配置，不建议照搬。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241405" target="_blank" rel="noopener noreferrer">用飞牛的免费远程访问，在手机上也能改代码了</a></span><span class="topic-stats">回复 5 · 收藏 2</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1241500" target="_blank" rel="noopener noreferrer">VibeCoding 开发痛点，欢迎讨论</a></span><span class="topic-stats">回复 9 · 收藏 0</span></p>
 
 </div>
 
