@@ -3,24 +3,24 @@ layout: report-home
 title: "V2EX 每日热点回顾"
 permalink: /latest/
 status: success
-target_date: 2026-09-15
-generated_at: "2026-09-16 08:09:53"
-summary: "昨日主题 274 个，过滤 174 个，DeepSeek 分析 100 个，保留高价值内容 24 个。"
-count_all: 274
-count_excluded: 174
+target_date: 2026-09-16
+generated_at: "2026-09-17 08:21:03"
+summary: "昨日主题 268 个，过滤 168 个，DeepSeek 分析 100 个，保留高价值内容 26 个。"
+count_all: 268
+count_excluded: 168
 count_included: 100
 count_high_signal: 0
-count_valuable: 24
-report_url: "/2026/09/15/"
-data_url: "/data/2026-09-15.json"
+count_valuable: 26
+report_url: "/2026/09/16/"
+data_url: "/data/2026-09-16.json"
 ---
 
-# V2EX 2026-09-15 昨日新帖报告
+# V2EX 2026-09-16 昨日新帖报告
 
-<details class="topic-card" data-topic-id="1242090" markdown="1">
+<details class="topic-card" data-topic-id="1242347" markdown="1">
 <summary>
 <span class="topic-rank">1</span>
-<span class="topic-title">如何用AI提升学习上限：审美判断与费曼式反问</span>
+<span class="topic-title">让AI生成1-30随机数为何频繁输出17</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -28,721 +28,32 @@ data_url: "/data/2026-09-15.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-
-主帖提出一个常见困境：当自己对某个领域只有粗浅认知时，AI 给出的方案（如网页设计）让人直觉不对，却说不出哪里不对，因而无法有效指挥 AI。讨论集中在“如何借助 AI 补足判断力”这一问题上。
-
-### 关键要点
-
-- **先建立参照系**：找同类优秀案例，直接问 AI 这种设计风格的特点是什么，多看好的例子自然形成审美判断（回复 18086253）。
-- **让 AI 反向出题**：用费曼学习法，定义主题和知识库，让 AI 反过来提问、自己解答，快速暴露知识漏洞（回复 18086253、18086437）。
-- **多方案挑选**：让 AI 先出多套设计稿，自己挑选后再细化；提示词要写清目标人群、解决的问题、平台（回复 18086402）。
-- **直接追问**：把“我觉得很丑”直接抛给 AI，让它分析丑在哪里（回复 18086485）。
-- **抄成熟风格**：外行可直接借鉴知名网站风格，如苹果、iOS 玻璃拟态，简洁不出错（回复 18086422）。
-
-### 评论补充
-
-有观点认为 AI 拉平了竞争：你能用，别人也能用，学习速度同步加快，难以形成优势（回复 18086330、18086606）。也有人强调前提是“自己先有思路”，否则 AI 无法给出良好呈现（回复 18086399、18086585）。主帖作者则希望借助 AI 在新兴领域快速达到资深水平，并担忧过度依赖导致自身能力负增长（回复 18086459、18086537）。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242090" target="_blank" rel="noopener noreferrer">最近在思考一个问题， AI 这么牛，我该如何让他帮助我提升我的学习能力，快速提高我的上限</a></span><span class="topic-stats">回复 39 · 收藏 20</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242083" markdown="1">
-<summary>
-<span class="topic-rank">2</span>
-<span class="topic-title">DeepSeek V4.1 Flash 实测：成本、能力与卡顿争议</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-楼主实测 DeepSeek V4.1 Flash 一天高强度使用约 20 元，认为 agent 与代码能力大幅提升，多模态调试闭环可用。但评论区对能力、成本与稳定性存在明显分歧。
+多位用户实测发现，让 DeepSeek、豆包、Qwen、Gemini、GPT 等模型生成 1-30 的随机数时，结果频繁落在 **17**。发帖人用群友截图验证，同一问题多次提问大概率得到 17；也有用户反馈 Gemini 优先给 19。
 
 ### 关键要点
-- **成本**：有用户给出 token 计价对比，V4.1 Flash 高峰期约 4.28 元，GLM Flash 约 12.32 元；V4.1 在闲暇时段与周末约为 GLM 消耗的一半，工作日白天持平。
-- **能力**：有用户用 V4.1 与 GLM-5.3 Flash 对比，自评 80 分对 90 分，差距不大；也有人认为 V4.1 做需求需来回改多次，仍逊于 GLM-5.3。
-- **体验**：有用户反馈完成管理后台页面速度快、完成度不错，但存在多选框无法取消、筛选清空等 bug；另有用户抱怨思考模式耗时过长、晚间卡顿严重。
-- **多模态**：楼主称多模态调试闭环可用，但有用户表示不信任 DeepSeek 多模态，绘图场景输出大量错误。
+- **并非真随机**：LLM 由人类数据训练，输出存在趋同倾向，类似人类被要求选 1-100 时偏爱 37。
+- **候选数字集中**：有分析认为 1-9 太熟悉、合数有乘法表记忆感，模型倾向选 10-30 的素数，即 13、17、19、23、29，其中 29 太偏，最终集中在 17、19、23。
+- **连续提问规律**：连续要求多个随机数时基本不重复，常见序列为 17 → 个位数 → 20+（多为 23）。
+- **工具差异**：若模型实际调用 Python 代码执行，结果正常；未配置沙盒时可能直接“脑补”输出。
 
 ### 评论补充
-成本与卡顿是主要争议点：有人 3 小时用掉 30 元，有人月耗约 400 元并考虑转 Codex Pro；也有用户称晚间 9-10 点卡到放弃，而楼主反问 270+ tps 是否算卡。平台差异（是否在 DSH 上）也被认为会影响表现。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242083" target="_blank" rel="noopener noreferrer">Deepseek V4.1 Flash 真实体验</a></span><span class="topic-stats">回复 69 · 收藏 4</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242151" markdown="1">
-<summary>
-<span class="topic-rank">3</span>
-<span class="topic-title">开源工具 ProxyLane：拖拽应用实现进程级透明代理</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-ProxyLane 是一款开源工具，通过把目标应用（如 `chatgpt.exe`、`cmd.exe`）拖入界面启动，使被启动的应用及其子进程走指定代理 Profile，而不使用全局 Tun、不修改系统全局代理设置，其他进程不受影响。作者称代码库 90% 以上为多年前手写的 C++，近期用 AI 优化了易用性后分享。
-
-### 关键要点
-- 使用方式：先设置一个 Profile（通常是 HTTP/Socks5 代理地址与端口），再把 exe 拖入 ProxyLane 启动。
-- 拖入 `cmd` 后，该窗口内执行的 `codex`、`git`、`curl`、`npm`、`pip` 乃至浏览器都会自动透明代理。
-- 项目地址：https://github.com/threatexpert/ProxyLane
-- 作者定位：主要面向 pip、GitHub、国外大模型等应用的透明代理场景。
-
-### 评论补充
-- 有回复称其兼容 XP，且 UWP 应用也可代理，无需开 Tun 分流。
-- 关于网络游戏加速，作者表示未实测，不确定其原理是否适用；有回复指出此类 hook 方式可能不适用于网游加速。
-- 同类工具被多次提及：sockscap、ProxyBridge、Netch、proxifier，以及 Linux/mac 下的 ng-proxychains；另有回复推荐 mac 端 AppLane（TestFlight 链接）。
-- 有回复指出目前看起来不支持 mac。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242151" target="_blank" rel="noopener noreferrer">开源分享 ProxyLane - 拖拽即透明代理的开源工具</a></span><span class="topic-stats">回复 14 · 收藏 17</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242056" markdown="1">
-<summary>
-<span class="topic-rank">4</span>
-<span class="topic-title">中行信用卡免年费政策改为刷12笔且满5000元</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-有用户发现中行信用卡在未大额消费的情况下被扣了 800 元年费。翻看邮件账单后才注意到，该卡免年费条件已从“消费 12 笔”改为“消费 12 笔且满 5000 元”。客服表示今年可申请 30 天内补刷 12 笔免年费，但明年必须按新政策执行。
-
-### 关键要点
-- 部分银行免年费政策会逐年更新，并非固定跟随开卡时政策。
-- 有用户反馈中行京东联名卡同样从刷满 6 笔变为还需刷满 5000 元。
-- 若因年费问题提出注销，客服常会协助减免或退费；有用户称普通卡可争取终身免年费。
-- 白金卡也未必高额度，小白金申请难度与金卡相近，额度不一定高。
-
-### 评论补充
-多位用户建议定期查看信用卡账单和邮件，避免遗漏年费扣款。若被扣年费，可先联系客服协商补刷或减免，必要时以注销施压。也有用户提醒，信用卡可用于应急、薅优惠或积分兑换，但需理性消费，避免透支。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242056" target="_blank" rel="noopener noreferrer">还是要养成看信用卡账单的习惯</a></span><span class="topic-stats">回复 52 · 收藏 4</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242019" markdown="1">
-<summary>
-<span class="topic-rank">5</span>
-<span class="topic-title">iOS 27 升级后美区 iCloud 提示转云上贵州的原因与解法</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-有用户升级 iOS 27 正式版后，美区 iCloud 账号弹出协议更新，提示将转为云上贵州。经评论区排查，问题并非 iOS 27 本身，而是设备上登录了国区 Apple ID 导致 Apple 判定用户实际在大陆。
-
-### 关键要点
-- **触发原因**：在「设置 - 备忘录（Notes）」中登录了国区 ID，用于切换 App Store 账号时免验证。该操作会让 Apple 判断设备位于大陆，即使手机是港版、iCloud 为美区账号，也会收到转云上贵州的提示。
-- **解决方法**：在「设置 - App - 备忘录 - 账号」中删除国区 ID，再点击协议，即可变为同意 iCloud 使用；若仍不行，把邮件 App 里的国区 ID 也删除。发帖人实测有效。
-- **其他触发点**：手机中所有不活跃的 iCloud 账号（如用于接收两步验证码的账号）都可能需要逐一同意协议更新。
-- **验证方式**：进入「设置 - 顶部 iCloud 账号 - iCloud」，看右上角圆形图标文字，显示「iCloud 云上贵州」即为中国版，显示「iCloud+ 订阅」则为国外版。
-
-### 评论补充
-有用户反馈将手机语言切换为英文后刷新，协议会从国区变为美区。也有用户升级后未弹出提示，说明该现象与设备上登录的账号组合有关，并非所有美区账号都会触发。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242019" target="_blank" rel="noopener noreferrer">悲报：升级到 iOS 27 正式版后，美区 iCloud 变云上贵州😭</a></span><span class="topic-stats">回复 21 · 收藏 13</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242079" markdown="1">
-<summary>
-<span class="topic-rank">6</span>
-<span class="topic-title">中秋青岛两日游路线与崂山避坑建议</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-楼主计划中秋前从上海出发去青岛玩两天，未订票和酒店，求路线攻略。评论给出了较具体的景点取舍、交通与餐饮建议，可作短途行程参考。
-
-### 关键要点
-- **崂山**：交通是最大问题，节假日堵车严重；有回复建议早上六点前进山可免预约且体验更好，但需极早出发。也有回复认为崂山“很捞”，普通海边栈道，来回耗时多。若去，可考虑仰口到垭口一线，雕龙嘴村风景好，并住山里农家乐。
-- **海洋动物**：极地海洋世界被推荐，但与长隆等知名海洋公园有差距；青岛动物园在市区、内容少，门票约 8 元，带小孩喂动物尚可；黄岛野生动物园不建议。
-- **市区路线**：海之恋公园/雕塑园看海玩沙（避开石老人人挤人）、信号山俯瞰老城、八大关德式建筑、青岛啤酒博物馆、天主教堂与江苏路基督教堂。另有回复给出市南东/中/西三条串联路线，含五四广场、奥帆中心、电视塔、栈桥、大学路网红墙等。
-- **吃海鲜**：大杰海鲜锅除贵无毛病；可去镇江路农贸市场自购海鲜，带到俊俊啤酒屋或春雷啤酒屋加工。
-
-### 评论补充
-有回复建议考虑烟台、威海，风景饮食相近且人少便宜；想看大型动物园可去威海荣成。另有攻略帖链接：https://v2ex.com/t/805136 。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242079" target="_blank" rel="noopener noreferrer">准备中秋请两天去青岛玩一哈， hxd 们来指点指点</a></span><span class="topic-stats">回复 29 · 收藏 5</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242068" markdown="1">
-<summary>
-<span class="topic-rank">7</span>
-<span class="topic-title">一年级孩子沉迷我的世界，家长如何引导与限时</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-一位家长反映，一年级孩子原本沉迷图形化编程，跟着教程做《我的世界》项目，后被舅舅引导玩真游戏《我的世界》，结果每天放学只玩游戏，编程课也不想报了。家长担心上瘾难控、荒废编程，也担心视力。
-
-### 关键要点
-- **限时与规则**：有回复建议用苹果 App 限时功能，把 iPad 所有应用都设限，并开放英语、数学等教程，孩子会自然转向其他内容；规则一旦立起来就严格执行，每天 15 分钟到点即停。
-- **内容分级**：原版《我的世界》相对温和，第三方刺激模组（打枪、星辉死神等）会显著加重沉迷。有家长因此暂停游戏权限三周，之后只允许玩原版。
-- **引导方向**：可往红石电路、电子电路、机械方向引导；也有回复提到 Steam 上的编程类游戏。
-- **用眼健康**：多位回复提醒一年级每天玩到九点半时间过长，发育期近视度数涨得快，需注意用眼卫生和坐姿。
-- **长期视角**：有回复认为小时候在家长监督下玩游戏，比大学离家后失控沉迷更好；玩腻单机后可能转向做地图、脚本、模组，反而走上编程路。
-
-### 评论补充
-有家长分享与 AI 讨论后制定三周暂停方案，并附上对话链接：https://chatgpt.com/share/6aa8bf2c-3274-83e9-b7ac-32054d12a66b 。也有回复指出，网上《我的世界》视频多为强刺激、低营养内容，建议家长陪同观看。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242068" target="_blank" rel="noopener noreferrer">一年级的娃正在沉迷图形化编程 跟教程编我的世界时 他舅舅三番两次让他玩真游戏我的世界</a></span><span class="topic-stats">回复 37 · 收藏 2</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242178" markdown="1">
-<summary>
-<span class="topic-rank">8</span>
-<span class="topic-title">久坐电脑前全身游走性酸痛：检查无异常后的应对经验</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-楼主从年初起出现游走性酸痛（左臂→全身→颈背延伸至胳膊），已排查颈椎磁共振（仅生理曲度变直、无明显压迫）、风湿、强直、甲功、维生素 D、电解质、神经传导等，均无明显异常；理疗针灸拔罐“有点用但不解决问题”，怀疑是颈椎问题叠加焦虑躯体化。
-
-### 关键要点
-- 多数回复指向**长期固定姿势导致的肌肉劳损与筋膜紧张**，认为症状是积累到阈值后集中爆发，而非突然生病。
-- 拔罐“有点用”被解释为只作用于浅层肌肉筋膜，到不了深层结节，因此不解决根本问题。
-- 建议方向：找康复科/运动康复科做手法放松，或找按摩师针对肌肉结节处理；同时必须改变久坐习惯，否则治标不治本。
-- 有回复称坚持游泳、跑步等运动后症状消失或明显缓解。
-- 热敷被提到有效，每次 45–60 分钟，两天可缓解。
-
-### 评论补充
-- 有用户分享腰疼多年被县医院误判为腰间盘膨出、建议做小燕飞无效，后经北京积水潭医院康复科专家诊断为“腰五横突肥大综合征”，并给出针对性康复动作，强调**优先找对口医院**。
-- 提醒针灸按摩只能缓解一时，可能一两天复发；也有观点认为越刻意绷紧维持坐姿反而加重劳损。
-- 楼主反馈二级医院康复科按摩排不上号，并认同“检查无果→更焦虑”的恶性循环。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242178" target="_blank" rel="noopener noreferrer">天天坐在电脑跟前的老铁们，有没有腰酸背痛、找不到原因的？</a></span><span class="topic-stats">回复 26 · 收藏 4</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242007" markdown="1">
-<summary>
-<span class="topic-rank">9</span>
-<span class="topic-title">iOS 27 Siri 云端报错与规则配置经验</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-美版 iPhone 升级 iOS 27 后，Siri 变为独立 App，需英文环境。用户添加规则后出现云端功能报错（图乐园、Siri 对话失败），本地功能如人物消除正常。评论确认：新 Siri AI 需英文语言、英语 Siri、美国地区，且已无地理围栏。
-
-### 关键要点
-- 可用规则：`https://raw.githubusercontent.com/RocM301/Apple-Rule/refs/heads/main/Apple-AI.list`，添加后需重启手机。
-- 若扩图/构图变灰，将 `apple-relay.cloudflare.com` 改为 direct 可恢复。
-- 新 Siri 失败一次后可能持续失败，重启手机可解决。
-- 国行设备为硬件锁，改定位或网络无效；港版需等待 waitlist。
-- 中文支持尚未上线，预计最快年底或明年初。
-
-### 评论补充
-有用户通过英文环境+美国地区+美区 ID 直接可用，无需定位脚本。临时中文方案：灵动岛唤出 Siri，用豆包语音输入中文。规则列表可能包含冗余项，需自行筛选。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242007" target="_blank" rel="noopener noreferrer">请教一下 iOS 27 的 Siri 规则</a></span><span class="topic-stats">回复 21 · 收藏 6</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242154" markdown="1">
-<summary>
-<span class="topic-rank">10</span>
-<span class="topic-title">开源 Gemini 主动视频理解 MCP+Skill，附 FFmpeg 抽帧实测对比</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者开源了 `gemini-agentic-video`，把 Google 提出的 agentic video understanding 思路做成 MCP 服务 + Agent Skill，让 Agent 直接理解本地视频和 YouTube 链接。核心区别在于：不再按固定帧率平均抽帧后全量塞进上下文，而是让模型先粗筛定位、再按问题主动回看关键片段，必要时局部提高帧率复查，最终输出带时间戳的分析。
-
-### 关键要点
-- 只暴露一个工具 `analyze_video_agentic`，可接入 Claude Desktop / Cursor / Windsurf / Google Antigravity，也能当 CLI 用；附带标准 SKILL.md，复制到 skills 目录即可。
-- 内置 configure 向导，自动验证并写入 API Key，AI Studio 有免费额度。
-- 实测 20 秒足球片段：Gemini 准确抓到 14-15 秒进球与庆祝；FFmpeg 抽了 147 帧却因球被遮挡写成「无法确认进球」。
-- 204 秒产品视频：两者都还原主结构，Gemini 额外给出十几段口播、英文解说、BGM 和转场描述；FFmpeg 只能确认音轨、音量、静音。
-- 耗时：20 秒视频 Gemini 363 秒 vs FFmpeg 1232 秒；204 秒视频 FFmpeg 532 秒 vs Gemini 1179 秒（含 3 次失败重试，成功链路约 413 秒）。
-
-### 评论补充
-作者确认目前只有 Gemini 具备 agentic 理解能力，豆包、千问等仍是算法决定抽帧（变化快处提高帧率、变化慢处降低）。有评论认为任何能读图的模型配合 Agent 自行调用 ffmpeg 截图也能实现类似效果，Google 只是把该过程封装成 API。
-
-### 限制
-必须上传到 Google 云端处理，隐私敏感素材慎用；模型内部看了哪些帧不可见，重要结论建议再用 FFmpeg 抽关键帧复核。作者建议 Agentic 负责定位理解、FFmpeg 按时间点取证复核，而非二选一。项目 Apache-2.0 开源。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242154" target="_blank" rel="noopener noreferrer">[开源] 让 Agent 真正「看懂」视频： Gemini 主动视频理解 MCP + Skill，附 FFmpeg 抽帧实测对比</a></span><span class="topic-stats">回复 8 · 收藏 3</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242148" markdown="1">
-<summary>
-<span class="topic-rank">11</span>
-<span class="topic-title">App Store 上架避坑：卡住你的往往不是代码</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者分享首次上架 App 的经验：开发完成、本地运行正常、TestFlight 顺利，并不等于能通过 App Store 审核。上架是另一套规则，涉及账号体系、支付规则、隐私合规与审核细节，建议把合规设计前置到开发流程，而不是等苹果反馈后返工。
-
-### 关键要点
-- **能运行 ≠ 能上架**：审核关注的不只是崩溃、UI 和功能。
-- 审核常见关注点：用户生成内容是否有拉黑与申诉功能；有账号系统是否支持注销；有第三方登录是否支持苹果登录；付款方式是否符合苹果规则；收集了哪些数据、隐私政策是否完整。
-- App Store Connect 填写的信息需与 App 实际行为一致，截图、描述、年龄分级要准确。
-- 部分功能可能需要审核员特殊操作，需提前说明。
-- 作者提示：这套流程建立在 Apple Developer 账号基础上，账号体系将另文讨论。
-
-### 评论补充
-评论区未补充具体上架细节，主要争议是文章是否由 AI 生成。有回复质疑“AI 味太重”，作者回应为纯手打，并称自己文章查 AI 率曾达 100%；另有回复提到与 AI 长期对话会影响个人写作风格。该争议不影响正文所列审核要点的参考价值。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242148" target="_blank" rel="noopener noreferrer">App Store 上架避坑经验：容易卡住的往往不是代码</a></span><span class="topic-stats">回复 9 · 收藏 8</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242084" markdown="1">
-<summary>
-<span class="topic-rank">12</span>
-<span class="topic-title">iOS 27 国区美区双持 iCloud 协议弹窗的处理方法</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-iOS 27 正式版更新后，部分国区 iCloud + 美区 App Store 双持用户遇到关不掉的 iCloud 协议提示。多位用户反馈，该提示与多账号登录及账号状态有关，并非必须“送中”。
-
-### 关键要点
-- **直接同意即可消失**：多位用户（含国区 iCloud + 美区 App Store 配置）表示点击同意后提示不再出现。
-- **多账号是诱因**：邮件、备忘录等额外登录的账号可能触发协议弹窗，退出多余账号后提示消失。
-- **被封账号也会触发**：有用户发现列表中存在被封禁的美区账号，退出后恢复正常。
-- **协议归属随主账号变化**：主 iCloud 为美区时，退出国区 ID 后云上贵州协议消失，改为出现美版协议，同意后不再提示。
-
-### 评论补充
-关于“备忘录等账户是否跟随主 iCloud 账户”存在分歧：有用户认为备忘录跟随主账号，但随后被指出 iOS 确实支持登录多个 iCloud 账户，并附截图佐证。另有用户指出该现象在几年前云上贵州同步时已出现过。切换 App Store 账号无需额外验证，2FA 验证码可正常接收。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242084" target="_blank" rel="noopener noreferrer">iOS 27 正式版的问题：国区美区双持出现 iCloud 协议提示</a></span><span class="topic-stats">回复 17 · 收藏 3</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242176" markdown="1">
-<summary>
-<span class="topic-rank">13</span>
-<span class="topic-title">中厂裁员后求职：已读不回、外包陷阱与AI依赖面试困境</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-楼主所在中厂 4 月起渐进式裁员，8 月底技术团队全部被砍。求职时除外包主动联系外，多数投递已读不回，产生焦虑。评论区多位有相似经历的开发者给出了时间预期、渠道建议和面试教训。
-
-### 关键要点
-- **时间预期**：多位回复者认为 2 个月内找到工作已属不错，有人躺 3 个月、9 个月甚至更久后才上岸，不必因短期无回应过度焦虑。
-- **渠道差异**：有回复者称 BOSS 上多为送达无后文，本地生活论坛招聘板块反而有回复，即使被刷也会电话沟通；另有观点认为正式岗位多靠内推，BOSS 上不少是外包。
-- **外包陷阱**：有回复指出部分公司把 BOSS 账号托管给外包，面试通过后才摊牌要求与外包公司签约，需提前确认合同主体。
-- **薪资预期**：有回复称当前能发 offer 的岗位相比此前行情普遍砍 30%；也有人拿到不足 10% 涨幅的 offer。
-- **AI 依赖反噬**：有回复者长期用 codex 写 k8s yaml、SQL、JVM 优化和日志分析，面试被问八股文和细节时答不上来，反映实际工作与面试考察的割裂。
-
-### 评论补充
-建议先准备好简历和刷题，避免面试机会来临时准备不足；裁员能拿到全额赔偿已算不错。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242176" target="_blank" rel="noopener noreferrer">中厂 8 月底毕业了，基本都是已读不回，有点焦虑了</a></span><span class="topic-stats">回复 18 · 收藏 3</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242044" markdown="1">
-<summary>
-<span class="topic-rank">14</span>
-<span class="topic-title">iPhone Air 升级 iOS 27 体验：流畅度、Safari 与续航反馈</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-多位 iPhone Air 用户反馈，iOS 27 相比 iOS 26 整体更流畅，测试版稳定性也较好，但存在 Safari 内存管理和个别卡死问题，续航表现有分歧。
-
-### 关键要点
-- **流畅度**：多数回复称比 iOS 26 流畅很多，打字卡顿改善，测试版是近年最稳定的测试版之一。
-- **Safari 问题**：有用户反映 Safari 内存管理激进，切换 App 后标签页频繁重新加载；另有用户称访问部分站点触发弹出预览多次后系统界面卡死，只能强制重启（音量+、音量-、长按锁屏键）。
-- **续航与细节**：有用户升级后感觉续航略差，状态栏电池图标变化需适应；也有用户表示没感觉到区别。
-- **硬件信息**：iPhone Air 为 12GB RAM。
-
-### 评论补充
-- 有用户从 iOS 26 升级后认为“再差都比 26 好”，建议无脑升级；也有用户因 Safari 问题主力机暂不升级。
-- 升级后建议插电过夜让系统完成索引，体验会更丝滑。
-- 部分用户提到小组件、CarPlay 等仍有待验证的问题。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242044" target="_blank" rel="noopener noreferrer">有没有 iPhone air 升级了 ios27 的，体验如何</a></span><span class="topic-stats">回复 24 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242029" markdown="1">
-<summary>
-<span class="topic-rank">15</span>
-<span class="topic-title">ChatGPT 20x 多人共用降智：官方禁止分发与自用边界</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-日区订阅的 ChatGPT 20x 账号由三人通过 CPA 共享后出现明显降智，目前仅单设备使用才恢复正常。发帖人质疑是否还值得续费。讨论的核心分歧在于：官方是否允许把订阅转成 API 流量供多人使用。
-
-### 关键要点
-- 官方立场：把订阅转成 API 流量再转售或分发给多用户不被支持，会被反欺诈系统标记。有回复引用 tibo 的推文原文佐证。
-- 有用户澄清 tibo 的原意是允许 CPA 反代自用（如多号接入其他 agent），并非允许分发。
-- 反例：有用户用 sub2api 反代、3-4 人共用 20x Pro 连续 6 个月，智力一直正常，付款方式为美区礼品卡。
-- 公司自建 sub2api 的经验：用量大的人单独分组独享 20x 账号没问题，人多但用量小的账号确实降智。
-- 另有用户反馈 Plus 用日本节点降智，切美国节点后恢复正常。
-
-### 评论补充
-判断是否降智可用 ModelTrace 和“鹈鹕骑车”测试。有回复认为降智与分发关系不大，更可能与账号分组、节点地区和使用比例有关；也有人提醒现在只要反代大概率变黑号。结论：多人共用风险高，独享或按人分组更稳。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242029" target="_blank" rel="noopener noreferrer">chatgpt 20x 多人共用已经降智成傻子了，还要续费吗</a></span><span class="topic-stats">回复 23 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242078" markdown="1">
-<summary>
-<span class="topic-rank">16</span>
-<span class="topic-title">数据岗简历石沉大海：学历、排版与业务表达问题</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-一位工作近四年的数据方向求职者投递简历长期无回应，评论区多数人认为问题集中在学历、简历表达和岗位匹配三方面，而非单纯技术能力不足。
-
-### 关键要点
-- **学历是主要门槛**：多位回复者指出非全日制本科在数据/研发岗位中很难通过筛选，大公司卡学历、卡资历，小公司又用不到这些技能。
-- **简历表达偏技术堆砌**：技术名词过多，HR 只能识别少数关键字；建议补充公司产品、项目规模、使用场景和个人在团队中的具体定位。
-- **业绩数字归属不清**：性能优化等亮眼数字未说明是个人还是团队成果，容易被认为与本人关系不大。
-- **排版与时间线需优化**：工作经历中 2024-08 至 2025-08 后又有 2025-11 至今，中间空档需说明或合理处理；时间段后的“几年几个月”排版被认为多余。
-- **建议按岗位分版本**：一版强调领域经验而非工具，投一般业务类公司的数据开发岗；另一版保留技术深度，投深度技术岗。
-
-### 评论补充
-有回复建议将四年多经历写成五年，并从工程项目、产品业务的高层视角描述，突出从 0 到 1 和驾驭大型项目的能力；也有人提醒简历 UI 可优化，QQ 邮箱自带简历功能可自动生成较美观的排版。开源贡献经验被认可为加分项。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242078" target="_blank" rel="noopener noreferrer">大家帮忙看看 数据 简历,为什么总是石沉大海.😥</a></span><span class="topic-stats">回复 12 · 收藏 3</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242050" markdown="1">
-<summary>
-<span class="topic-rank">17</span>
-<span class="topic-title">跨运营商QoS规避：专线、BGP中转与IPv6实测</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-
-楼主在网盘加串流场景下，实测跨运营商、同运营商跨省、IPv6 跨运营商、IPv6 同运营商、大带宽 BGP 服务器五种路径，结论是只有 IPv6 稍好，但专线并非万能解。
-
-### 关键要点
-
-- **专线也会被 QoS**：有回复称移动专线跨运营商被限到 10Mbps，公司移动专线访问家宽联通限速 3M 且丢包。
-- **跨省结算影响明显**：有用户称电信与移动跨省互限，手机卡跨省漫游从 4000/2000 降到 1024/75，QCI 由 6 降到 9。
-- **BGP 分全国与地方**：只有全国 BGP 才能全国接入不限速，部分机房只做省内线路优化。
-- **低成本中转方案**：有回复推荐 99 元/年的阿里云 200M 做中转，称暂未遇到限速，但用多也可能被限。
-- **广东电信专线报价**：极速专线 10M/3M 120 元、40M/8M 150 元、40M/20M 200 元、100M/50M 400 元；尊享对等 35 元/M 起，个人身份证可开，PON 接入不限连接数、可备案。
-
-### 评论补充
-
-专线能否解决 QoS 存在分歧：一方认为专线不限连接数、可备案；另一方指出 PON 接入的极速专线与家宽差别不大，且跨运营商仍可能被限。另有观点认为最终只能靠起诉和解或加钱上正规互联网专线。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242050" target="_blank" rel="noopener noreferrer">避免 qos 是否只有专线一条路</a></span><span class="topic-stats">回复 15 · 收藏 2</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242204" markdown="1">
-<summary>
-<span class="topic-rank">18</span>
-<span class="topic-title">幽门螺旋杆菌治疗经验：方案、副作用与家庭防护</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-楼主体检发现幽门螺旋杆菌感染、胃蛋白酶下降，胃肠镜确诊慢性浅表萎缩性胃炎，正服用含阿莫西林的方案，同时戒咖啡、奶茶和酒。评论区围绕治疗方案、副作用和家庭防护给出了较多可复用经验。
-
-### 关键要点
-- **治疗方案**：多位回复提到四联疗法、三联疗法，也有推荐二联（伏诺拉生+阿莫西林 14 天）和“原研药副作用更小”的说法。
-- **副作用**：四联疗法期间可能嘴巴发苦、黑便；有回复提醒克拉霉素可能有耳毒性，建议自查耳鸣；也有人反映停药后肠道菌群失调、便秘数月。
-- **家庭防护**：多人强调家庭成员应一起检查，否则治愈后可能被再次传染；传播途径包括共餐、喂饭、接吻等。
-- **益生菌**：建议疗程结束后阶段性补充普通益生菌，与抗生素间隔至少 30 分钟，不必购买高价“专治幽门”产品。
-
-### 评论补充
-有回复称国内最新指南推荐只要阳性就治疗，WHO 已将幽门螺旋杆菌列为 I 类致癌物；也有海外用户表示瑞典医生对无症状感染者不检测、不治疗，认为菌群平衡即可，反映不同地区指南差异。另有用户分享自己未治疗第二年自愈的个例，但缺乏医学解释。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242204" target="_blank" rel="noopener noreferrer">幽门螺旋杆菌治疗中，真难熬...</a></span><span class="topic-stats">回复 19 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242121" markdown="1">
-<summary>
-<span class="topic-rank">19</span>
-<span class="topic-title">试用期被组长甩锅报bug多，该忍还是怼</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-楼主在试用期被项目小组长 a 向领导打报告称“bug 太多”，但楼主翻查迭代 bug 单后发现，除一个紧急大需求提测 bug 超 5 个外，其余需求均不超过 5 个，且都按期验收交付。a 拿不出证据，还称“无论多大多复杂的需求 bug 超过 5 个都不正常，不保证质量不如不交付”。楼主认为这是客户投诉后甩锅，但因试用期未过不想撕破脸。
-
-### 关键要点
-- **用数据自证**：把 bug 清单和交付记录整理后直接发给领导，比情绪对抗更有效（回复 18087315）。
-- **试用期是博弈窗口**：有回复认为试用期就敢甩锅，转正后更糟；硬刚赢了立“不好惹”人设，输了可重新投简历且不留空窗（回复 18087314、18087159）。
-- **拆解对方逻辑**：a 的“bug 超 5 个就不正常”缺乏依据，可拿这句话在公司内求证（回复 18088362）。
-- **区分提测与交付**：若反馈的是提测阶段 bug 数，多需求累计 15+ 个小 bug 属正常，关键看严重性和修复成本（回复 18089068）。
-
-### 评论补充
-多数回复倾向“怼回去”，认为忍让会被当软柿子；也有建议先摆正心态、在排期阶段做 delay 风险预警，并推动团队对 bug 严重性达成共识。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242121" target="_blank" rel="noopener noreferrer">遇到 sb 同事甩锅给自己，是忍还是怼</a></span><span class="topic-stats">回复 18 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242094" markdown="1">
-<summary>
-<span class="topic-rank">20</span>
-<span class="topic-title">Claude 稳定使用与降低封号风险的环境经验</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-楼主因 GPT 降智想搭建稳定的 Claude 环境，询问如何减少封号概率，并顺带收集 GPT 5x/20x 不分发却被降智的案例。评论普遍认为封号机制不透明，稳定方案有限，但给出了若干可参考的环境做法。
-
-### 关键要点
-- **网络环境**：全程 TUN 且不分流，或使用国外 VPS；注意国外 VPS 不含阿里云、腾讯云、华为云等国内云厂商的海外节点。
-- **固定与干净**：固定一个 IP，不要频繁变动、不要共享、不要多账号、不要同时跑多个任务；避免“万人骑”机场。
-- **账号与支付**：有回复称用美国/新加坡时区、家宽、Google Play 付款并设置浏览器指纹，稳定使用约三个月，后因家宽忘续费加严查被封。
-- **清理操作**：删除 `~/.claude`、清浏览器缓存。
-- **替代方案**：远程 SSH 到 AWS EC2 使用 Amazon Bedrock 调 Claude；或走 OpenRouter。
-
-### 评论补充
-有用户用 DMIT 美国 VPS 固定 IP、英语环境、英语指令，配合美区 Apple 账号订阅，数月未封未降智，但成本约 200$+125$。也有观点认为国内使用不被封主要靠运气，想稳定只有肉身翻墙；另有用户质疑换 Claude 未必优于 GPT，且 Claude 额度消耗快。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242094" target="_blank" rel="noopener noreferrer">求教， claude 环境搭建</a></span><span class="topic-stats">回复 18 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242087" markdown="1">
-<summary>
-<span class="topic-rank">21</span>
-<span class="topic-title">ChatGPT 虚拟宠物反复弹出：清除默认快捷键可解决</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-用户反馈 ChatGPT 的虚拟宠物在点击收起后仍会反复出现。多位回复者指出，真正原因是默认快捷键被误触，而非关闭入口失效。
-
-### 关键要点
-- 在宠物上右键，或左下角头像/名字菜单中可关闭宠物。
-- 默认快捷键为 `Option+Space`（部分回复称 `Ctrl+Space`），与 Raycast、输入法等常用快捷键冲突，容易误触重新唤起。
-- 解决路径：进入设置 → 键盘快捷键 → 找到“显示虚拟宠物”，清除该快捷键，再隐藏宠物，之后基本不会再自动出现。
-- 有回复称目前没有彻底禁用的入口，Codex 只提供隐藏功能，重启后仍可能出现；也有回复表示菜单关闭后不会自动打开。
-
-### 评论补充
-有用户确认清除快捷键后问题解决，并提到该快捷键与 Raycast 唤起冲突；另有回复称可设置为只显示输入框。关于是否存在永久禁用入口，评论间存在分歧。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242087" target="_blank" rel="noopener noreferrer">chatgpt 这个宠物关不掉吗？太碍事了</a></span><span class="topic-stats">回复 12 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242092" markdown="1">
-<summary>
-<span class="topic-rank">22</span>
-<span class="topic-title">新加坡宽带：3Gbps 带公网 IPv4 约 200 元/月</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-楼主在新加坡租房，宽带由房东包办，登录管理后台后发现自带公网 IPv4，随即把路由器设为 DMZ。查询得知当地最便宜套餐也有 3Gbps，折合人民币约 200 元/月。楼主补充，自己的 2.5G 网口反而成了网速瓶颈。
-
-### 关键要点
-- 新加坡家宽普遍提供公网 IPv4，且上传对等、价格低，SingTel 质量被评价为亚太标杆。
-- 便宜并非“国外”普遍现象：马来西亚 unifi 1Gbps 约 250 马币（约 412 元），人均收入约为新加坡四分之一。
-- 韩国 KT 1Gbps 一年合约约 350 元/月，且跨网常绕日本、丢包抖动大；日本家宽不保证最低速率，晚高峰常跑不到合约 10%。
-- 香港家宽公网 IP 千兆对等相对当地物价也很便宜，但 HKBN 国际访问常绕美绕新，HKT 的 QoS 相对宽松。
-- 新加坡严禁家宽商用（如做落地转发），轻则封宽带，重则涉刑责。
-
-### 评论补充
-有回复指出，速度快只对本地及 YouTube、Netflix 等流媒体体验好，访问 B 站、抖音等国内服务仍可能卡顿，部分国内网站直接屏蔽境外 IP。另有回复提到国内电信 201802 畅享套餐：58 元/月含千兆+300M 宽带、IPTV、3 张 SIM、1000 分钟通话，带公网 IP，但已不能新办，只能过户。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242092" target="_blank" rel="noopener noreferrer">原来外面的宽带这么实惠</a></span><span class="topic-stats">回复 16 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1242180" markdown="1">
-<summary>
-<span class="topic-rank">23</span>
-<span class="topic-title">阿里云盘上传200G文件占用645G，重复文件需VIP清理</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-有用户上传约 1200 个视频（每个 100M-200M，总大小 199G）到阿里云盘后，发现实际占用容量达 645G，多出 400 多 G。文件出现大量重复，文件名带 `(1)`、`(2)` 等标识，部分文件重复 7-8 次。用户使用 Windows 官方最新客户端，文件由夸克网盘手动下载后转存。
-
-### 关键要点
-- 阿里云盘客服仅提供 AI 自动回复，VIP 专属人工客服无法转接。
-- 清理重复文件需购买 VIP 专属服务，且需手动逐个删除。
-- 有评论指出，阿里云盘超额后仅给一个月清理期，不清理会冻结账户（无论是否开过 VIP）。
-- 用户查询发现，阿里云盘主体公司为杭州短趣网络传媒技术有限公司，注册资本 196 万，股东为浙江天猫网络有限公司和杭州阿里创业投资有限公司，与 aliyun.com 无直接关系。
-- 多名用户反馈阿里云盘已限速（下载低至 30kb），第三方挂载权益被收回，业务边缘化。
-
-### 评论补充
-有用户提醒自建 NAS 也有风险，曾两次故障，重要数据应加密同步到网盘。另有用户指出阿里云盘与阿里云并非同一业务，客服路径虽在客户端内，但主体公司不同。
+有用户实测 Qwen 网页版调用 Python 后结果正常；Gemini 自述未执行脚本、只能脑补示例输出 17。也有用户认为这类似星座、算命话题，原理清楚但适合拿来闲聊。
 
 ### 结论
-第三方网盘存在容量异常、限速和账户冻结风险，重要数据建议本地 NAS 与加密云备份结合，并谨慎续费长期会员。
+该现象更可能是训练数据分布与模型输出偏好导致的伪随机趋同，而非系统故障；需要真随机时应让模型调用代码执行工具。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242180" target="_blank" rel="noopener noreferrer">忍不住吐槽一下阿里云网盘</a></span><span class="topic-stats">回复 17 · 收藏 0</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242347" target="_blank" rel="noopener noreferrer">为啥让各种 ai 生成一个 1-30 的随机数 都是说 17</a></span><span class="topic-stats">回复 151 · 收藏 14</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1242226" markdown="1">
+<details class="topic-card" data-topic-id="1242300" markdown="1">
 <summary>
-<span class="topic-rank">24</span>
-<span class="topic-title">自建影音库字幕偏移与无PT下载的解决思路</span>
+<span class="topic-rank">2</span>
+<span class="topic-title">骚扰电话屏蔽办法：运营商服务与手机AI接听实测</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -750,20 +61,787 @@ iOS 27 正式版更新后，部分国区 iCloud + 美区 App Store 双持用户�
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-一位 NAS 用户用 4800p + qbit + radarr/sonarr + bazarr + MP 刮削 + Jellyfin 搭建影音库，流程能跑通，但字幕偏移和无 PT 下载是主要痛点。评论给出了可操作的排查与替代方案。
+主帖列出骚扰电话最恼人的三个场景：开热点跑任务时来电断网（双模单通）、午休被吵醒、骑车戴头盔不便接听。核心矛盾是：全量拦截会漏掉快递、外卖和真实来电，而运营商识别只能覆盖一小部分。
 
 ### 关键要点
-- **字幕对齐**：优先下载内封字幕版本，或确保外挂字幕与片源匹配。匹配顺序为：来源（WebDL / Blu-ray Remux）→ 发行平台（Amazon / Netflix）→ 制作组；前两项对上约 80% 正确，三项全对约 99% 可用。帧率不同会导致播放中逐渐漂移。
-- **自动同步工具**：可尝试 [subsyncarr](https://github.com/johnpc/subsyncarr)，定期扫描并自动调整字幕对齐。
-- **无 PT 的下载替代**：可考虑捐永 V 把 PT 当 BT 用，或捐月 V 用盒子刷流至 100–200T；也可用 115 网盘，配合 litepan 等工具转存、刮削、生成 strm 文件，再入库 Emby 并通过 302 反代观看。
-- **降低维护成本**：直接网盘下载、不屯片，可显著减少对齐与存储负担。
+- **运营商侧**：移动打 10086、联通 10010、电信 10000 可免费开通防骚扰；移动另有官方免费服务“机伶”，但各省是否都有需向客服确认。
+- **安卓侧**：小米等机型可用 AI 通话防骚扰，陌生号码自动接听并录音/转文字，可单独放行快递外卖标记号，也可自定义回复；有用户反馈小爱能秒接骚扰电话。
+- **iPhone 侧**：可开“静音未知来电”，陌生号转语音留言，配合快捷指令在等快递外卖时临时关闭；有用户用拦截猫开会员，但效果远不如安卓方案。
+- **号码段**：可屏蔽 400 开头号码；信用卡、银行、电商推销较难防，有用户建议直接投诉。
 
 ### 评论补充
-有用户建议借鉴 movierobot 思路；也有人认为 Emby 体验优于 Jellyfin。发帖人确认 subsyncarr 看起来能解决需求，并说明自己只用了 MP 的刮削插件，其余功能未启用。
+天翼防骚扰曾误拦大疆和车企电话，需权衡误杀。AI 自动接听会先对话并留记录，可回看判断是否外卖，但有时效性顾虑。也有人主张长期不接，对方自然不再打。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242226" target="_blank" rel="noopener noreferrer">自建影音库碰到的问题，求大佬指点</a></span><span class="topic-stats">回复 10 · 收藏 1</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242300" target="_blank" rel="noopener noreferrer">大家对骚扰电话有什么好的屏蔽办法</a></span><span class="topic-stats">回复 64 · 收藏 8</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242359" markdown="1">
+<summary>
+<span class="topic-rank">3</span>
+<span class="topic-title">WebGL2 原生 Web 游戏画面探索：两个可玩 Demo</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+作者长期关注 Web 图形技术，从 WebGL、WebGL2 到 WebGPU 一路实践，目标是探索原生 Web 游戏画面能达到什么程度。本次放出两个 Demo，其中一个仿照《我的世界》风格并加入额外效果，主要基于 WebGL2，因此对硬件要求不高，需 PC 浏览器打开：https://jamfer.com/cc/ ，MC 风格版本为 https://jamfer.com/mc/ 。
+
+### 关键要点
+- 技术栈以 WebGL2 为主，作者强调硬件门槛不高，未依赖 WebGPU。
+- 地图拼接有两种做法：分开加载地图、切换时 loading；或做大地图，远景用低模、近景才加载精模。
+- 作者自评 Web 游戏与 UE5 等原生大作不是一个体量，还要考虑容量与带宽，定位偏“玩具”。
+- 有评论指出，在 WebGPU 时代理论上画面可接近原生，主要瓶颈是浏览器给的内存太少。
+
+### 评论补充
+- 有用户实测海港场景静止时，Apple M4 三个 GPU 核心各占用 70%+，作者表示手边无苹果设备，询问是否流畅。
+- 有评论认为类 MC 风格偏取巧，建议直接对标 UE5 更能体现性能与画质；作者回应体量不同。
+- 另有评论提到网页版《罪恶都市》等案例，说明 Web 端已能承载较复杂 3D 内容。
+- 关于 AI 能否加速此类开发、以及是否可用于漫剧建模，仅停留在设想，无具体结论。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242359" target="_blank" rel="noopener noreferrer">一直在探索，原生 web 游戏的画面到底能做到什么程度</a></span><span class="topic-stats">回复 35 · 收藏 19</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242338" markdown="1">
+<summary>
+<span class="topic-rank">4</span>
+<span class="topic-title">百度网盘 8.8.3.101 句柄泄漏，已定位 YunLogic.dll</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+百度网盘主进程 `BaiduNetdisk.exe` 存在 Process 类型句柄泄漏，以约 6 个/分钟的恒定速率增长且从不释放，三个版本（含最新 8.8.3.101）全部复现。作者已逆向定位到具体模块与函数，并给出约 10 分钟的自查方法。
+
+### 关键要点
+- **现象**：泄漏句柄全部指向同一个 `BaiduNetdiskUnite.exe` 子进程；连续运行 96.7 小时累积 37021 个，占全系统句柄 16.2%，导致整机卡顿，结束该进程后一次性释放 61726 个。
+- **定位**：模块 `YunLogic.dll`，最新版函数 RVA `0xE6950-0xE6CF8`，`OpenProcess` 调用点 RVA `0xE69AA`，期望权限仅 `SYNCHRONIZE`；调用链内 `CloseHandle` 出现 0 次。
+- **版本对比**：8.5.5.103 约 +6.1/分钟，8.6.0.102 约 +6.3/分钟，8.8.3.101 约 +6.06/分钟，升级无用。
+- **自查方法**：待机状态下用 Sysinternals `handle64.exe -accepteula -s -p  ` 记录 Process 行数字，隔 5 分钟再跑会涨约 30；用 `-a` 加 `findstr Process` 可确认句柄指向同一子进程。
+- **临时办法**：重启百度网盘即可清空已泄漏句柄，一天一次基本无感。
+
+### 评论补充
+有回复称此前已有人发现可提权至 system 的问题也未处理，并提到内存泄漏 bug 内部早已知晓、回复是“重启一下就好了”。替代方案方面，评论建议容器内跑 openlist、使用 clouddrive2 挂载百度网盘，或在沙盒中运行客户端。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242338" target="_blank" rel="noopener noreferrer">[缺陷] BaiduNetdisk.exe 句柄泄漏， 8.8.3.101 最新版仍复现（已定位 YunLogic.dll）</a></span><span class="topic-stats">回复 14 · 收藏 5</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242437" markdown="1">
+<summary>
+<span class="topic-rank">5</span>
+<span class="topic-title">面试被指管理经验不足：JD未提、HR称开放岗</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+一位前端求职者在苏州线下面试后挂掉，理由是“管理经验不够匹配”。但 JD 全程未提管理要求，HR 也确认是开放岗，面试不到 20 分钟，面试官反复称其为“备选”。面试官还抱怨他未带作品和电脑，称此前候选人都带电脑投屏讲代码实现（如支付功能）。作者由此质疑前端面试是否已卷到“带电脑讲代码”。
+
+### 关键要点
+- **岗位要求与 JD 不一致**：管理经验要求未写入 JD，HR 也不知情，属于典型的信息错位。
+- **线下面试成本高**：有回复指出，现在不少公司要求线下，但到场 20 分钟结束、来回数小时，HR 事后已读不回。
+- **带电脑讲代码并非普遍规则**：有回复称七八年前招移动端 leader 时，候选人主动带电脑讲架构设计，但那是主动展示，不是硬性要求。
+- **前端作品集难体现**：SaaS 后台等内部系统无法在线查看，只能看代码，这可能是面试官要求演示的原因之一。
+- **线上识别变难**：有回复认为 AI 普及后，线上面试难以判断候选人是否借助 AI，部分公司因此倾向线下。
+
+### 评论补充
+多数回复认为这是“草台班子”或刷 KPI，不必自我怀疑；也有人建议拉黑该公司、继续面其他岗位。关于是否该带电脑，共识是：若面试方提前说明，候选人可以准备；未说明却事后指责，属于流程问题。
+
+＞ 结论：面试前应确认岗位是否含管理职责、是否需要现场演示代码；遇到 JD 与面试要求不符的公司，可视为流程不专业，不必过度归因于自身能力。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242437" target="_blank" rel="noopener noreferrer">昨天面试了一家公司，刷新了我的认知。</a></span><span class="topic-stats">回复 47 · 收藏 3</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242304" markdown="1">
+<summary>
+<span class="topic-rank">6</span>
+<span class="topic-title">Ultra2 换 Watch 12 值不值：快充、港版与健康检测取舍</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+楼主纠结是否把 Apple Watch Ultra 2 换成 Series 12：换的理由是健康检测升级、Ultra 佩戴偏沉（睡觉也戴）；犹豫点是后续 watch 版本无快充，港澳版蜂窝在大陆不可用，且此前通过淘宝开通的国行屏蔽健康功能在港澳版能否沿用未知。当前 Ultra2 二手约 2300-2700 元，换新约需再补不到 2k。
+
+### 关键要点
+- **续航与佩戴是最大分歧**：多位 Ultra 用户表示续航回不去数字系列，Ultra 新款标称最长 50 小时、低电量 84 小时；但 Series 佩戴舒适性完胜，Ultra 偏厚，睡觉戴不舒服。
+- **健康检测升级**：官网描述为健康感测系统与全天候光学心率传感器，但有人指出 AI 能力仍未跟上。
+- **版本取舍**：港版可保留 FaceTime 与快充，被部分人视为刚需；国行换新可能失去快充。
+- **蜂窝多为伪需求**：有用户 S6 用三年蜂窝，实际场景不超过 5 次，换机时直接选普通版。
+
+### 评论补充
+若不做长时间户外、潜水、登山徒步，Series 已够用；反之 Ultra 的续航与外观更合适。也有用户因审美疲劳、系统无法更新而考虑升级 Ultra 4，但认为 Ultra1 到 4 变化有限。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242304" target="_blank" rel="noopener noreferrer">有必要 Ultra2 换成 watch12 吗？</a></span><span class="topic-stats">回复 43 · 收藏 0</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242428" markdown="1">
+<summary>
+<span class="topic-rank">7</span>
+<span class="topic-title">拥抱AI后工作量为何变大：省下的时间进了谁口袋</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+主帖提出一个普遍困惑：AI 让实现效率提升，但排期变短、工作量变大，工时并未减少，多出的产出归属不明；同时个人学习速度追不上模型迭代，护城河变薄。评论区的共识是：**生产力提升，生产关系没变**，效率红利主要被管理层和资本拿走。
+
+### 关键要点
+- 对普通员工，汇报时不宜强调 AI 给自己提效多少，否则管理层会顺势要求更高产出、压缩排期（回复 18092344）。
+- 不少企业不报销 AI 账单，员工等于自费加鞭；也有公司（如传统行业老板）干脆不买 token，效率提升有限（18092344、18092458）。
+- 效率提升的常见结果是活儿更多、心智负担更重而工资不涨，甚至裁人后由剩余员工承接（18092439、18092492、18093413）。
+- 业务规模不变时，AI 提升生产力却不提升消费端需求，容易走向内卷和裁员（18093011）。
+- 摸鱼时间变多、危机感变强是较普遍的体感（18092343、18092564、18093523）。
+
+### 评论补充
+有观点认为产出增加不等于工资增加，取决于老板良心与公司收益（18093536）；也有人提醒“产出”可能是老板焦虑下的伪需求（18092872）。可行的自保策略是：不汇报真实进度、跟随团队节奏，把省下的时间用于减负而非邀功（18092856、18092344）。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242428" target="_blank" rel="noopener noreferrer">Boss 说要全面拥抱 AI 之后，我怎么感觉工作量变大了，省下来的时间进了谁口袋？？</a></span><span class="topic-stats">回复 18 · 收藏 2</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242346" markdown="1">
+<summary>
+<span class="topic-rank">8</span>
+<span class="topic-title">安卓禁止截屏接口被滥用：农行信用卡页也无法截图</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+用户 SoulFlame 反映，安卓的禁止截屏（FLAG_SECURE）接口正被滥用：过去只在密码、二维码等敏感页启用，如今连农行信用卡申请介绍页都无法截屏，质疑“怕我记录下权益吗”。讨论确认这是应用层主动调用，而非系统默认行为。
+
+### 关键要点
+- 同一 App 内可只对特定页面禁用截屏：农行其他页面能截，信用卡介绍页不行，说明并非整包限制。
+- 禁用范围不止银行：有用户提到今日水印相机、云闪付交易列表同样无法截屏，且云闪付不提供交易导出。
+- 绕过思路：用另一台手机拍摄；通过 PC 互联或 scrcpy 投屏到电脑后截图，被认为可能绕过限制。
+- iOS 机制不同：系统会回调通知截屏，部分银行 App 检测到后把画面变白；Mac 上 iPhone 镜像截图也可能被监控。
+- 有开发者称自家包可实现“截图全白”，说明该能力在客户端可控。
+
+### 评论补充
+有观点认为产品经理因页面含实名信息而禁用截屏，属猜测；也有开发者认为这是“进入应用就全局调用”的偷懒做法。核心分歧在于：安全理由是否成立，以及用户对自有设备的使用权边界。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242346" target="_blank" rel="noopener noreferrer">现在安卓的禁止截屏接口简直是被滥用了</a></span><span class="topic-stats">回复 24 · 收藏 3</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242541" markdown="1">
+<summary>
+<span class="topic-rank">9</span>
+<span class="topic-title">高度近视1300度配镜：镜框尺寸比折射率更影响边厚</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+作者联合光度约 1300 度，通过自写镜片厚度计算器与两副实镜对比，得出高度近视镜片最大边厚的主要影响因素排序：**镜框尺寸 ＞ 折射率 ＞ 镜片品牌**，并质疑自由曲面对最大边厚的优化被夸大。
+
+### 关键要点
+- 旧镜：蔡司智锐 1.74、框宽 53mm、单眼水平移心约 2.5mm，实测最大边厚约 8.4mm（已美薄）；代入普通非球模型约 8.7mm，接近。
+- 新镜：框宽约 46mm、水平基本 0 移心，居中点瞳理论约 6mm 多；实际按框高 0.6 位置点瞳，理论约 6.6mm，实物约 7.2mm，误差约 0.6mm。
+- 结论：瞳高与水平移心同样明显影响最大边厚；折射率有效但无法弥补大框和高移心，尺寸合理的 1.67 可能比大框高移心的 1.74 更薄。
+- 自由曲面的价值更可能在周边像差、离轴成像、有效视野与个性化参数补偿，而非显著降低最大边厚。
+- 计算器定位为配镜前筛框、比折射率和点瞳位置的避坑工具，非精确复现厂家面型；-10D 以上误差控制在 0.5～1mm 即可参考。
+
+### 评论补充
+有回复认为自由曲面本就主要优化不同区域成像形变，与厚度关系不大；作者补充商家曾宣称自由曲面优化厚度，但实测不明显，并提到所用镜片中心厚度达 1.8mm，而日系基材可低至 1.0mm，中心厚度也是变量。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242541" target="_blank" rel="noopener noreferrer">关于 高度近视 自由曲面 镜片厚度的一些发现和问题</a></span><span class="topic-stats">回复 3 · 收藏 3</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242490" markdown="1">
+<summary>
+<span class="topic-rank">10</span>
+<span class="topic-title">工作10年如何快速晋升涨薪：机制与可执行路径</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+发帖人工作近 10 年，经历 10 余位 +1/+2 领导，自认不擅长与领导合作，提问晋升涨薪的真实机制。评论共识是：**没有通用独家秘笈，变量太多**，但可提炼出若干可操作方向。
+
+### 关键要点
+- **先有坑再有人**：多位回复强调“先有位置，没有坑谁也上不去”，能升上去约 90% 是因为存在该位置，10% 才是干得好。
+- **超出预期且被看见**：做老板看重、但老板自己不懂的事，超出其预期完成。
+- **跟对老板**：老板的下限常是普通人的上限；老板上不去，无背景者很难再往上走。
+- **主动切管理岗**：大量投递降一级企业的管理岗，用面试反馈判断市场是否认可，先获得管理职责再谈涨薪。
+- **熬与时机**：选经济上升期、快速发展的行业；牛人流动后，长期留下者可能自然上位。
+
+### 评论补充
+有回复指出领导力（培养人、组建团队、规划）是晋升关键，大厂通常有能力图可对照。也有人认为“不会舔”是未升职主因，并提到“怼领导”有时是策略性表演。另有观点提醒：高层与涨薪并不冲突，技术职级同样可拿高薪，不必都走管理路线。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242490" target="_blank" rel="noopener noreferrer">请教前辈：快速升高层、快速涨薪，有哪些独家秘笈？</a></span><span class="topic-stats">回复 24 · 收藏 1</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242438" markdown="1">
+<summary>
+<span class="topic-rank">11</span>
+<span class="topic-title">四川移动等运营商被指精准丢包压制上传</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+有用户指出四川移动省网存在精准丢包策略，每日 19:33-22:06 压制上传流量，时间精准，过后立即恢复。限速时段测速无法发现问题，若无网络质量监控设备极难察觉。若流量匹配策略会导致 100% 丢包，入站请求被阻断后不断重连可能使路由器连接数超上限而无法上网。发帖者称四川所有地市、家客政企、专线、固定 IP PON、IDC 均受限，由省公司下发，地市公司不会承认。
+
+### 关键要点
+- 现象：定时压制上传，限速值动态，通常不超过满速 20%，过后恢复。
+- 后果：上传 100% 丢包导致连接数暴涨，会话满后出站也无法新建连接，表现为网络越来越卡直至 ping 不通公网，重置连接数可立即恢复。
+- 上海移动用户反馈类似：周一到周四 18:00-23:30 压制上传至 1M 以下，周五到周日时有时无，限速时 ping 目标地址 25-35ms，非限速时低于 10ms。
+- 有评论称跨省结算后此类现象较普遍，四川电信也曾对某些政务云机房丢包，抓包显示服务器未收到请求，最终靠 App 端重试+缓存缓解。
+- 海外方向也有触发特定流量特征后 IPv4 被黑洞一段时间、IPv6 基本没有的情况。
+
+### 评论补充
+有评论提到华为为限制 PCDN 专门做了板卡，省公司采购成本高，也有找开源方案做流量识别的做法。发帖者建议找省公司集客支撑核查策略，但对方不会承认问题。另有用户反映四川移动晚间京东 App 卡顿，关闭 IPv6 用单栈 IPv4 后缓解。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242438" target="_blank" rel="noopener noreferrer">有没有人留意过运营商策略丢包的情况？</a></span><span class="topic-stats">回复 22 · 收藏 1</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242387" markdown="1">
+<summary>
+<span class="topic-rank">12</span>
+<span class="topic-title">开源安卓AI求职工具Lulu：DeepSeek自动投递Boss直聘</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+作者开源了一款 Android 端 AI 求职工具「鹿鹿 (Lulu)」，用 Kotlin 原生开发，装在闲置备用机上即可让 AI 自动在 Boss 直聘上筛选并打招呼。代码与 APK 均已公开：仓库 https://github.com/fanyangcloud/LuluAgent ，下载 https://github.com/fanyangcloud/LuluAgent/releases 。
+
+### 关键要点
+- **本地黑名单预过滤**：外包公司、低薪、HR 长期不在线的僵尸岗位由本地规则秒过滤，不消耗 API 额度。
+- **简历与 JD 契合度打分**：通过初筛的岗位交给 DeepSeek 打 0~100 分，技能不匹配、年限倒挂、隐形坑岗位自动放弃。
+- **定制打招呼话术**：契合度达标后生成 50~80 字专业问候语，避免模板化套话。
+- **拟人化操作与容错**：模拟人手滑动与随机点击偏移，遇未知弹窗或滑动偏离会自动退回推荐首页。
+- **端侧运行**：无第三方中转后端，简历与 API Key 加密保存在本地，请求仅在手机与模型官方接口间发生。
+- **上手三步**：准备 Android 手机 → 授予无障碍与悬浮窗权限 → 填入 DeepSeek API Key、粘贴 Markdown 简历后开始。
+
+### 评论补充
+有用户询问是否支持 OpenAI，作者回应已光速迭代至 v1.1.0：支持任意 OpenAI 兼容模型（Claude、GPT、Gemini、豆包等），修复了打招呼后卡在详情页的回退问题，并优化悬浮胶囊状态与 API Key 测试记忆。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242387" target="_blank" rel="noopener noreferrer">开源分享：写了个安卓端的 ai 求职搭子，用 deepseek 帮你在 boss 直聘上自动找工作</a></span><span class="topic-stats">回复 5 · 收藏 2</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242461" markdown="1">
+<summary>
+<span class="topic-rank">13</span>
+<span class="topic-title">开源 IP 纯净度与 AI 服务状态检测工具，可一键部署到 CF</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+作者开源了一个 IP 纯净度与 AI 服务区状态检测工具，支持一键部署到 Cloudflare，并提供在线体验与 GitHub 仓库。
+
+### 关键要点
+- **出口与分流探测**：分别检测国内、外部 IPv4，并查看不同网站实际使用的出口。
+- **IP 信息查询**：归属地、运营商、ASN、企业类型、住宅/机房标记、信誉分等。
+- **连通性排查**：网站 HTTP 响应耗时、全球 Ping、DNS 出口、CDN 节点。
+- **浏览器检查**：指纹、环境一致性、自动化特征、WebRTC 与权限信息。
+- **AI 平台探测**：接入 ChatGPT、Claude、Gemini、DeepSeek 等八个平台的访问探测。
+- **服务状态**：集中查看 Cloudflare、GitHub、OpenAI、Claude、Vercel 等官方故障与维护信息。
+
+在线体验：https://ip.huzhihui.com ；开源仓库：https://github.com/zhihui-hu/one-ip 。
+
+### 评论补充
+有用户询问是否支持 Docker Compose 部署，作者回复“改改就支持，很简单”。另有用户反馈使用中出现报错并附截图，作者未在现有回复中给出解决方案。还有用户希望地名能翻译成中文，便于识别梯子所在区域。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242461" target="_blank" rel="noopener noreferrer">[完全开源] IP 纯净度检测 AI 服务区状态检测 可一键部署到自己的 CF</a></span><span class="topic-stats">回复 8 · 收藏 6</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242487" markdown="1">
+<summary>
+<span class="topic-rank">14</span>
+<span class="topic-title">幼儿园中班用iPad认字是否合适及替代方案</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+家长因爷爷提到同学已用平板认字，询问幼儿园中班孩子是否适合用 iPad 学汉字及可用 App。多数回复倾向谨慎：低龄阶段不必强求识字，屏幕使用需控制，实体书、识字卡和亲子阅读更受推荐。
+
+### 关键要点
+- **视力风险是主要顾虑**：多位回复提到伤眼、近视，建议优先实体书；若用屏幕，可考虑带手写的墨水屏设备。
+- **替代工具**：小象识字卡、四五快读等实体资源被点名；App 方面有人提到宝宝巴士、帮帮识字、洪恩系列。
+- **使用控制**：有家长让 6 岁孩子用识字 App，每次约半小时后停止；也有人建议投影仪观看、每半小时休息五分钟。
+- **识字并非越早越好**：有回复认为幼儿园提前识字对后续发展帮助有限，亲子阅读中自然认字更可取。
+
+### 评论补充
+有回复引用儿童眼科医生建议，强调**光线、距离、时间**三要素，认为四岁以上在控制条件下看屏幕影响不大，真正需警惕的是手机和短视频成瘾。另有观点称近视主因是户外活动不足，建议每天保障约 3 小时户外。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242487" target="_blank" rel="noopener noreferrer">幼儿园小孩认字用 iPad 合适吗</a></span><span class="topic-stats">回复 22 · 收藏 1</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242427" markdown="1">
+<summary>
+<span class="topic-rank">15</span>
+<span class="topic-title">L3自动驾驶事故刑事责任如何划分</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+主帖指出：现有讨论多停留在“自动驾驶出事车企赔钱”的民事责任层面，一旦事故涉及刑事责任，法规几乎空白，疑似被刻意回避。评论围绕 L3 的责任边界展开，核心分歧在于“系统接管期间谁担刑责”。
+
+### 关键要点
+- **L3 仍需驾驶员接管**：L3 不保证系统持续有效，会随时自动退出并要求人类在数秒内（有回复举例约 10 秒）接管，此时责任可能回到驾驶员。
+- **刑责前提是主观过错**：有观点认为，若驾驶员无违规、按要求可随时接管且系统正常，则不应承担刑责；酒驾、毒驾、危险驾驶等需主观故意的罪名在自动驾驶下难以成立。
+- **车企可能涉及的罪名**：若产品、系统存在重大问题，相关人员可能构成生产不安全产品罪或重大责任事故罪；算法失灵、OTA 更新导致的事故应由车企负责。
+- **L3 与 L4 的分界**：有回复认为 L3 仍由司机负责，L4 以上才主要由车企负责，因此部分公司（如小马智行、Waymo）选择跳过 L3 直接做 L4。
+- **举证是最大争议点**：如何证明驾驶员履行了 L3 的接管义务，以及“出事前一秒退出”是否被允许，是落地后扯皮的核心。
+
+### 评论补充
+有回复用无人地铁、无人电梯类比：设备事故由维保单位赔偿，交通事故一般不涉及刑责，机器无法被处罚，只能向公司索赔或追究恶意利用者。另有回复提出数据防篡改（如区块链）、禁止行驶中 OTA 更新等具体建议。整体共识是：现行刑法与交管法按人驾设计，智驾相关条款仍是空白，落地尚早。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242427" target="_blank" rel="noopener noreferrer">L3 自动驾驶刑事责任如何划分的？</a></span><span class="topic-stats">回复 19 · 收藏 2</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242343" markdown="1">
+<summary>
+<span class="topic-rank">16</span>
+<span class="topic-title">iOS 27 更新提示空间不足：128G 机型实测与绕行方案</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+有用户反馈 128G 的 iPhone 16E 剩余 29G 空间，升级 iOS 27 时仍提示空间不足，系统数据占用涨到 42G+，引发对小容量机型升级可行性的讨论。
+
+### 关键要点
+- 实际所需空间因人而异：有 17 Pro 用户升级后 iOS 占用不到 17G、系统数据仅 1G 多；也有 14 Pro 剩余不到 20G 成功升级，256G 机型已用 237G 也能更新。
+- 更新包本身约 7.8G，但解压与临时文件会额外占用空间，有回复推测这是提示空间不足的原因。
+- 可行做法：更新时选择“优化存储空间”，系统会卸载 App 但保留数据，更新后自动重新下载；也可用爱思助手把数据导出到电脑，或用 Mac 插线升级。
+- 有用户升级后系统占用反而增加约 20G，小容量机型需权衡。
+
+### 评论补充
+64G iPad 用户表示需要大量删除文件；也有用户认为提示的 29G 门槛偏高，实际并不需要这么多。整体看，iOS 27 的升级空间需求缺乏统一标准，建议先备份再尝试。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242343" target="_blank" rel="noopener noreferrer">iOS27 更新需要 40G+空间</a></span><span class="topic-stats">回复 21 · 收藏 0</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242287" markdown="1">
+<summary>
+<span class="topic-rank">17</span>
+<span class="topic-title">用套壳网页版 B 站解决 iPad 发烫卡顿</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+针对 iPad 版 B 站发烫卡顿，楼主给出的方案是改用网页版，并自行实现了一个套壳网页版 App：https://github.com/Yuhhang/iPadBilibiliWeb 。直接装 PWA 行不通，因为 iOS 会在点开视频时强制跳转原生 App，系统行为无法拦截，只能自己套壳。
+
+### 关键要点
+- 自实现套壳的额外收益：可屏蔽 PCDN（北京联通看 4K 常卡顿），还能集成常用浏览器扩展。
+- 主要代价：需要自己签名，免费账号签名只能维持 7 天，网上有自动续签方案可自行研究。
+- 评论补充了发热的另一解释：B 站强推 AV1，M3 以下老机型无法硬解，可能是发烫主因。
+- 有回复指出 Alook 等第三方浏览器可以屏蔽跳转，不必自己套壳。
+- 替代思路：有用户用 7×24 小时在线的 Windows 主机 + UU 远程在 iPad 上看，但清晰度存疑。
+
+### 评论补充
+关于签名，有回复称自己有可长期签名的账号，愿意一起维护，并留下了联系方式；也有用户表示想要长期签名，因为原生 App 现在卡得不行。另有评论吐槽 B 站不用 CDN 而走 P2P 导致卡顿。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242287" target="_blank" rel="noopener noreferrer">解决 b 站 iPad 应用发烫卡顿的终极方案</a></span><span class="topic-stats">回复 14 · 收藏 3</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242450" markdown="1">
+<summary>
+<span class="topic-rank">18</span>
+<span class="topic-title">绿联 DXP4800 Plus 约 2700 元，V 友 NAS 选购经验汇总</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+楼主打算在拼多多以约 2700 元购入绿联 DXP4800 Plus，征询 V 友推荐。评论围绕绿联、群晖、零刻、铭凡等品牌给出了实际使用反馈，整体共识是：家用求省心可选绿联，重度折腾或企业场景需谨慎。
+
+### 关键要点
+- **绿联实际体验**：多位用户使用近一年反馈稳定，官方售后响应快，系统更新勤快；但官方套件深度不足、偏“壳子”，虚拟机和 Docker 相关问题官方拒绝提供技术支持。
+- **价格参考**：有用户去年 5 月闲鱼购入同款约 2200 多元，后因硬盘、内存涨价，NAS 整体价格上浮；当前硬盘价格偏高。
+- **替代方案**：零刻 ME Pro（AMD H255 准系统，4 个 3.5 寸盘位 + 4 个 SSD 位）、铭凡 N5 Pro 被提及；动手能力强者可自组 DIY NAS 或黑群晖，成本更低。
+- **选购逻辑**：动手能力强选 DIY，求稳定选群晖，想体验国产系统选绿联；企业级不建议用绿联。
+
+### 评论补充
+有用户提到绿联赠送的公网带宽可稳定跑 4K；也有用户反映更新时虚拟机网络会出问题。小米 NAS 被调侃为“等于买硬盘”，未获正面推荐。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242450" target="_blank" rel="noopener noreferrer">打算买一个绿联 4800 plus， pdd 大概 2700 左右， V 友们有什么推荐吗？</a></span><span class="topic-stats">回复 22 · 收藏 0</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242371" markdown="1">
+<summary>
+<span class="topic-rank">19</span>
+<span class="topic-title">DSH Desktop 接入中转站并设置推理强度的配置方法</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+
+有用户反馈在 DSH Desktop 中通过“自定义提供方”接入中转站时，选择 `openai-responses` 协议虽可用，但无法设置推理强度且速度很慢；改用官方 API 则速度正常、推理强度可调。评论给出的可行方向是绕开自定义提供方，改用插件或直接改配置文件。
+
+### 关键要点
+
+- 有回复建议不要用自定义提供方，直接编辑 `deepseek` 提供方并把 API 地址换成中转站地址（但提问者实测未成功）。
+- 更被认可的方案是安装支持多提供方适配的插件，在 Web 设置中新增“推理力度设置”项。
+- 有回复指出 Web 可视化配置不完整，可直接修改 `~/.dsh/settings.yaml` 中的 `llm-pi-ai` 配置。
+- 相关插件/项目链接：`https://github.com/Toukaiteio/dsh-effort-tweak/blob/main/README.zh-CN.md`。
+
+### 评论补充
+
+- 关于插件名称存在分歧：先有人提到 `@deepseek-ai/dsh-llm-pi-ai`，随后发帖者表示搜不到，该回复者更正为上述 GitHub 项目，并称其作用是省去手写配置文件。
+- 有用户反馈即使选了推理档位，在中转站侧看到的推理强度仍为空或默认值，试过多家中转均如此；也有用户称自己测试正常，输入什么档位就是什么档位，并怀疑与具体中转地址有关。
+- 另有用户遇到中转站持续返回 502。
+
+结论：问题核心在于 DSH 对自定义提供方的推理强度支持不完整，可尝试插件或直接编辑 `settings.yaml`；但中转站是否透传推理强度因服务商而异，需自行验证。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242371" target="_blank" rel="noopener noreferrer">关于 DSH 中使用中转站的问题</a></span><span class="topic-stats">回复 13 · 收藏 1</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242527" markdown="1">
+<summary>
+<span class="topic-rank">20</span>
+<span class="topic-title">CloudCone 磁盘故障工单超7小时未回复，用户退款受阻</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+有用户购买 CloudCone 一年期服务器，使用一个多月后磁盘出现故障，发起工单等待 7 个多小时未获回复，且平台未将剩余款项退回其 CloudCone 账户，用户表示不想继续使用。
+
+### 关键要点
+- **故障与售后**：磁盘故障后工单长时间无响应，退款诉求未获处理。
+- **历史风险**：多位评论者提到 CloudCone 年初曾因被勒索导致服务中断近一个月，另有用户称曾发生机房被黑、全部用户数据丢失。
+- **补偿有限**：有评论称客服回复慢、基本无补偿，但可能会重新开一台机器；也有用户反映数据全丢后无补偿，且前两个月被无故要求更换 IP。
+- **低价定位**：2C2G120G 年付约 14.99–15 美元，评论普遍认为“一分钱一分货”，选择该价位需有心理准备。
+
+### 评论补充
+- 有用户建议改用价格略高、更有保障的服务商，并提到 ZgoCloud、DMIT、Colocrossing 等选项；其中 Colocrossing 较稳定但 IP 易被墙。
+- 有用户坚持使用并设置每日备份到甲骨文，认为年初数据丢失是教训。
+- 有用户反映赔偿的续费期因 IP 被邻居“送中”而无法使用。
+
+**结论**：CloudCone 低价但售后与稳定性风险较高，重要数据应自行备份，不宜作为唯一生产环境。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242527" target="_blank" rel="noopener noreferrer">CloudCone 服务器买了一年的，用了一个多月磁盘出现故障，发起工单，等了 7 个多小时也不回复。他们也不将剩余的钱退到我的 CloudCone 账户，不想用了</a></span><span class="topic-stats">回复 17 · 收藏 0</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242332" markdown="1">
+<summary>
+<span class="topic-rank">21</span>
+<span class="topic-title">JDK 27 发布：非 LTS，含 PQC 与紧凑对象头</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+JDK 27 已发布，属于非 LTS 版本。主帖列出官方 JEP 页面（https://openjdk.org/projects/jdk/27/）及本版特性清单，评论普遍认为该版本对生产环境升级的吸引力有限，下一个 LTS 是 JDK 29。
+
+### 关键要点
+- **默认 GC 变更**：JEP 523 让 G1 在所有环境下成为默认垃圾回收器。
+- **安全相关**：JEP 527 为 TLS 1.3 引入后量子混合密钥交换（PQC），JEP 538 提供加密对象的 PEM 编码（第三次预览）。
+- **语言与运行时预览**：Lazy Constants（第三次预览）、Primitive Types in Patterns/instanceof/switch（第五次预览）、Structured Concurrency（第七次预览）、Vector API（第十二次孵化）。
+- **性能与运维**：JEP 534 默认启用紧凑对象头，JEP 536 支持 JFR 进程内数据脱敏。
+- **版本节奏**：JDK 每半年发布一个大版本，非 LTS 版本通常不建议生产直接跟进。
+
+### 评论补充
+有回复指出本版“大头是 PQC”，偏安全方向；也有回复提到 JDK 28 的 JEP 541 计划弃用 macOS/x64 端口并准备移除，若属实，2020 年前的 Mac 设备将无法继续使用后续版本。另有评论称 JDK 27 缺少亮眼新特性，非 LTS 可跳过，等待 JDK 29。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242332" target="_blank" rel="noopener noreferrer">JDK 27 发布了，非 lts 版本</a></span><span class="topic-stats">回复 16 · 收藏 0</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242277" markdown="1">
+<summary>
+<span class="topic-rank">22</span>
+<span class="topic-title">Claude 20x 苹果订阅 249 美元：低价区已取消，代充风险高</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+有用户发现 Claude 20x 通过 App Store 订阅需 249 美元，想找 200 美元的低价渠道，并疑惑代充为何能做到 200 美元。评论给出的结论是：**目前没有可靠的官方低价方法**。
+
+### 关键要点
+- **App Store 已无低价区**：有回复指出 Claude 走 App Store 已不存在低价区，此前尼日利亚区靠汇率优势便宜，但已被 Anthropic 取消。
+- **苹果内购含税**：内购价格包含税费，想避税只能走网页版并填写免税州账单地址。
+- **代充来源存疑**：代充要么用最便宜的国家，要么用黑信用卡；有用户称自己的 Claude 账号因代充使用黑信用卡而被封。
+- **价格差异**：有人看到的是 250 美元，发帖人确认自己看到的是 249.9 美元。
+
+### 评论补充
+关于网页版免税州，发帖人反馈支付页只有地址填写框、没有州选择；有回复贴图说明账单地址会决定税费，双方对界面理解存在分歧。另有回复直接给出“没方法”的结论，并有人以“49 刀买平安”调侃代充省下的差价不值得冒封号风险。
+
+**结论**：想稳定使用，走官方渠道更安全；代充低价多与黑卡或封号风险相关，不建议为省几十美元承担账号损失。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242277" target="_blank" rel="noopener noreferrer">claude 的 20x 苹果订阅要 249 刀？有办法 200 刀订阅嘛？为什么代充可以苹果 200 刀订阅？</a></span><span class="topic-stats">回复 13 · 收藏 0</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242429" markdown="1">
+<summary>
+<span class="topic-rank">23</span>
+<span class="topic-title">用 hosts 屏蔽 Claude/ChatGPT 域名实现代理 kill switch</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+有用户提出一种防止 Claude、ChatGPT 在代理失效时被直连的简易方案：在 `/etc/hosts` 中把这些服务的域名解析到本地回环地址，同时让 Surge 等代理工具不读取 hosts 文件。这样只有在代理正常工作时才能访问，代理崩溃或开机启动顺序晚于这些应用也不会走直连。
+
+### 关键要点
+- 写入 hosts 的域名包括：`api.anthropic.com`、`claude.ai`、`chatgpt.com`、`chat.openai.com`、`ws.chatgpt.com`，统一指向 `127.0.0.1`。
+- 前提是代理软件（如 Surge）不读取系统 hosts，否则规则会被绕过。
+- 效果相当于一个手写的 kill switch：代理不可用时域名解析到本地，请求直接失败，而非泄露到直连。
+
+### 评论补充
+- 有回复认为这是“手搓的 kill switch”，简单好用。
+- 另有回复表示已把相同思路加入 AdGuard Home 的 DNS 重写规则，说明该做法可迁移到 DNS 层实现。
+
+### 限制
+原帖未给出具体配置步骤、Surge 关闭 hosts 读取的设置位置，也未验证各域名是否覆盖全部必要端点，实际使用前需自行确认。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242429" target="_blank" rel="noopener noreferrer">建议针对 Claude， ChatGPT 设置 hosts 文件，而 Surge 这些设置不读取 hosts 文件</a></span><span class="topic-stats">回复 3 · 收藏 2</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242504" markdown="1">
+<summary>
+<span class="topic-rank">24</span>
+<span class="topic-title">成都电信单宽带注销转联通：流程与套餐价格对比</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+成都用户分享从电信单宽带注销、转装联通宽带的全过程，并引发关于运营商套餐、合约与网络质量的讨论。
+
+### 关键要点
+- 主帖：20 年办的电信 816 元/年 100M，第 3 年升 300M，21 年申请过公网 IP；周末打 10000 号线上申请注销，核实身份证后需自行去线下营业厅，5 分钟办完。
+- 联通 480 元/年 500M，电话预约后工作人员上门，10 分钟装好。作者推测单宽带注销较顺利，融合套餐可能更麻烦。
+- 评论给出多地价格参考：电信单宽带 500M 480 元/年；移动带一张卡 480 元/年千兆；有用户称联通 1000M 240 元/年。
+- 网络质量存在分歧：有用户认为移动晚高峰出口优于电信，也有用户认为移动网质量一般。
+
+### 评论补充
+- 有用户提醒联通可能在约 2 年后降档限速，需投诉处理。
+- 多名用户反映移动销户/携号转网困难：合约期与优惠期不一致，注销时被索要 1000 多元违约金，需投诉甚至工信部介入。
+- 有用户称当地携号转网仅一个营业厅可办，需清晨排队。
+
+＞ 结论：单宽带注销流程相对简单，但转网前应重点确认合约期限、优惠期与违约金条款。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242504" target="_blank" rel="noopener noreferrer">从电信换到联通</a></span><span class="topic-stats">回复 10 · 收藏 0</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242452" markdown="1">
+<summary>
+<span class="topic-rank">25</span>
+<span class="topic-title">微软远程桌面被攻击与WireGuard卡顿的替代方案</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+用户用微软远程桌面（RDP）经公网 IPv4 + DDNS + 爱快端口映射控制家里 Win11 电脑，稳定半年后出现被挤下线、卡顿、异常上传，重装系统、改端口密码、加火绒均未解决。改用 WireGuard 组网后安全性提升，但画面变化大时严重卡顿，放开 UDP 端口后反而断线，疑似 TCP/UDP 分配问题。
+
+### 关键要点
+- 现有方案：公网 IP + DDNS + 端口映射 + RDP，两端电信千兆，上传约 3~5MB/s，下载约 70MB/s。
+- 痛点：RDP 暴露公网易被攻击；WireGuard 在 UDP 限流下卡顿甚至断线。
+- 商业方案（向日葵、UU）被指广告多、高峰期卡，体验不如直连。
+- 自建中转需租服务器，成本可能接近买会员，用户倾向低成本方案。
+
+### 评论补充
+- 建议把 WireGuard 换成 `ss` 尝试，规避 TCP/UDP 分配问题。
+- 推荐 `tailscale`，可自建 DERP；若两端能 P2P 直连则无需自建。
+- 实测 tailscale ping 第一跳 DERP(hkg) 约 1.8s，直连后延时仅 6ms。
+- 有观点认为运营商对 UDP 限流严重，用公网服务器中转可能比纯宽带直连更稳。
+
+结论：优先验证 P2P 直连（tailscale/ss），若被 UDP 限流再考虑中转；RDP 公网暴露需额外防护。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242452" target="_blank" rel="noopener noreferrer">求助大佬们远程桌面控制方案推荐</a></span><span class="topic-stats">回复 8 · 收藏 0</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1242314" markdown="1">
+<summary>
+<span class="topic-rank">26</span>
+<span class="topic-title">开源 AI 学习平台：YouTube 抓取与 AWS 成本踩坑</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+作者开源了一个 AI 学习平台，目标是把学习资料转化为完整学习系统。支持上传 PDF、添加 YouTube / Bilibili 视频、网页文章和播客，再由 AI 生成 Summary、结构化学习笔记、Flashcards、Quizzes、Mind Maps、Glossary，并提供 AI Tutor 问答与 Spaced Repetition 复习。使用时需自行配置 AI API Key。
+
+项目地址：官网 https://toto-study.com ，GitHub https://github.com/ttang1024/AI_Study_Platform 。作者还给出两份实际生成的学习笔记示例，分别对应文档与 YouTube 视频内容。
+
+### 关键要点
+- **YouTube 抓取坑**：本地开发正常，部署到 AWS 后触发 bot detection，作者参考社区建议尝试用 Residential IP 解决，并指出本地与云服务器网络环境差异很大。
+- **数据库成本坑**：原先使用 AWS 关系型数据库，个人项目月成本偏高；已将 PostgreSQL 迁移到外部 Supabase，目前用免费套餐以降低运行成本。
+- 作者向社区提问：个人项目一般如何控制 AWS、数据库等长期运行成本。
+
+### 评论补充
+有回复提醒项目可能被刷，作者回应此前未充分考虑，后续会加限流和防刷措施。另有回复指出应用名 toto.ai 与未持有的域名不一致，作者表示会修改应用名称，并说明当时先定项目名、后买域名。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1242314" target="_blank" rel="noopener noreferrer">开源 AI Study Platform，分享一下开发和部署踩坑</a></span><span class="topic-stats">回复 4 · 收藏 1</span></p>
 
 </div>
 
