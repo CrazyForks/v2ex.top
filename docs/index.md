@@ -1,27 +1,27 @@
 ---
 layout: report-home
 title: "V2EX 每日热点回顾"
-date: 2026-09-19 08:30:00 +0800
+date: 2026-09-20 08:30:00 +0800
 categories: [v2ex, daily-report]
 status: success
-target_date: 2026-09-19
-generated_at: "2026-09-20 08:05:08"
-summary: "昨日主题 138 个，过滤 49 个，DeepSeek 分析 89 个，保留高价值内容 20 个。"
-count_all: 138
-count_excluded: 49
-count_included: 89
+target_date: 2026-09-20
+generated_at: "2026-09-21 08:09:01"
+summary: "昨日主题 256 个，过滤 156 个，DeepSeek 分析 100 个，保留高价值内容 28 个。"
+count_all: 256
+count_excluded: 156
+count_included: 100
 count_high_signal: 0
-count_valuable: 20
-report_url: "/2026/09/19/"
-data_url: "/data/2026-09-19.json"
+count_valuable: 28
+report_url: "/2026/09/20/"
+data_url: "/data/2026-09-20.json"
 ---
 
-# V2EX 2026-09-19 昨日新帖报告
+# V2EX 2026-09-20 昨日新帖报告
 
-<details class="topic-card" data-topic-id="1243143" markdown="1">
+<details class="topic-card" data-topic-id="1243276" markdown="1">
 <summary>
 <span class="topic-rank">1</span>
-<span class="topic-title">基于 Jev 的 X 评论过滤 Chrome 插件 elons-job</span>
+<span class="topic-title">离开东京搬到神奈川：东京四年生活成本与去留复盘</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -29,33 +29,29 @@ data_url: "/data/2026-09-19.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-作者针对 X（x.com）评论区大量“福不黑”色情 Spam 的问题，做了一个 Chrome 插件 `elons-job`，用 Jev 这类快速便宜的模型做内容过滤拦截。项目地址：https://github.com/bugkiwi/elons-job ，Chrome 商店版本仍在审核，可自行从 GitHub 下载编译。
+作者在东京生活四年后决定搬离，但并非回国，而是从东京搬到隔壁神奈川乡下，类似“从深圳南山搬到惠州”，人仍在日本。主帖复盘了离开的几类原因，并给出可量化的成本数据。
 
 ### 关键要点
-- 使用前需自备 typesafe.ai 的 Token，官网申请，作者称免费送 $5，审核约隔天通过。
-- 默认只内置色情 Spam 过滤，但支持基于自然语言自定义规则，可做指定信息过滤。
-- 作者自测成本约 1 小时 0.04 美元，并注明数据不太准，仅供参考。
-- 作者允许二次开发与分发，仅希望保留引用链接。
+- **居住成本**：东京都心 40 平 1LDK 房租中位数约 22 万日元/月，附近车位约 4 万/月，合计 26 万；按“住房不超税后月收入 1/5”的理念，税后月收入需超 130 万日元才负担得起。
+- **物价上涨**（2022 年 10 月至 2026 年 8 月）：整体 CPI 约 +13.5%，但食品整体约 +30%，其中米 +90%、鸡蛋 +45%、牛奶 +25%、肉类 +20%。
+- **城市倦怠**：娱乐与选择过多导致无法聚焦，消费主义使支出失控；演出票价约 6000 日元但频率过高，已购票难以转卖。
+- **社交流失**：语言学校同学及在东京结识的朋友陆续回国，形成“认识—信任—突然消失”的循环，长期易导致孤岛化与抑郁倾向。
 
 ### 评论补充
-- 有用户想参考该思路做屏蔽抖音 AI slop 的版本，说明方案可迁移。
-- 有评论提醒：上一个写“无福 X”扩展的开发者已被迫关停项目，存在被动下架风险。
-- 另有用户认为平台应自行处理，不应把成本转嫁给用户；也有人建议直接不关注中文账号、对简中推荐点“减少推荐”。
-- 有用户提到 Typesafe 需要邀请函，并询问替代方案；也有人表示已在用 @foru17 的 MXGA。
-- 有评论指出相比 Spam，Slop 更令人讨厌，并提醒做类似过滤器时要顾虑隐私。
+作者澄清是搬到神奈川乡下而非回国，并称“小润润出省、大润润出国、终润润回家”，但不经历前两步不会领悟最后一步。有评论认为日本适合旅居不适合工作生活，也有人提醒回国后可能反而想念日本。作者推荐东京的 Blue Note Tokyo 爵士酒吧，并指出漫画《Blue Giant》中的 Blue Soul 结合了 Blue Note 与 Body&Soul 两家店名。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243143" target="_blank" rel="noopener noreferrer">“无福 X” - 基于 Jev 的 x.com 评论浏览器插件</a></span><span class="topic-stats">回复 15 · 收藏 9</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243276" target="_blank" rel="noopener noreferrer">忽然有一天，我离开了东京</a></span><span class="topic-stats">回复 95 · 收藏 41</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1243113" markdown="1">
+<details class="topic-card" data-topic-id="1243247" markdown="1">
 <summary>
 <span class="topic-rank">2</span>
-<span class="topic-title">Zingage 招聘远程核心集成工程师 40–45K/月</span>
+<span class="topic-title">giffgaff 封号后可申请退款：10 英镑到账经验</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -63,528 +59,549 @@ data_url: "/data/2026-09-19.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-Zingage（美国 AI 初创公司，红杉资本支持，官网 https://zingage.com/）招聘全职远程核心集成工程师，月薪 40–45K，每周 40 小时，需与美国东部时间重叠 2–3 小时（国内多为晚间至凌晨），其余时间可自行安排。
+有用户反馈 giffgaff 号码被封后，可通过官方渠道申请退款并成功拿回余额。楼主于 14 号下午提交申请，当天早上 8:40 收到 10 英镑退款短信，一次成功。
 
 ### 关键要点
-- **工作内容**：打通 Zingage 与各类遗留 EMR 系统，逆向分析非标准 API，用 TypeScript/Node.js 写 CLI 与自动化脚本，通过 Playwright/Puppeteer 或无头浏览器处理登录、表单、重定向，并封装成统一可维护的集成层，配套测试夹具与监控。
-- **任职要求**：3–7 年后端经验，精通 TypeScript/Node.js（接受 Java/Go 转岗），熟悉 Chrome DevTools、Charles、Fiddler、Burp 分析请求与 Cookies/Headers，熟悉 PostgreSQL/MySQL 建模与事务，具备英文读写能力。
-- **加分项**：大型电商后台订单/物流/营销系统经验，应对复杂反爬与多步验证登录的实战经验。
-- **面试流程**：简历初筛后邮件联系，从固定题目中任选一题，在 sandbox 环境 48–72 小时内完成，并录制英文视频讲解；仅回复通过初筛者。
-- **投递**：简历发至 gordon.tan@zingage.com。
+- 退款入口：登录 [giffgaff 支持页](https://www.giffgaff.com/support/questions)，找到 `ask an agent`；但该入口已改版为论坛形式，原链接据称到本月 30 号失效，需人工联系。
+- 有回复指出应走[投诉页面](https://www.giffgaff.com/complaints/new/complaint)，并建议不要在论坛里说明。
+- 楼主充值时间为 2025 年 1 月 12 号，说明较早充值也可能退。
+- 判断是否被封：尝试发短信，发不出去基本即被封；也有人发不出后又解封。
+- 若想保留号码，可搜索转卡（PAC 码）相关操作，提前拿到码。
 
 ### 评论补充
-评论普遍认可该 JD 信息完整，称其为招聘模板；有回复指出“核心集成工程师”实质接近全栈，楼主确认“就是全栈”。多位用户表示已投递或开始准备英文自我介绍，也有人认为外企面试流程偏繁琐。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243113" target="_blank" rel="noopener noreferrer">[全职远程 / 40–45K 月薪 / 每周 40 小时] Zingage 招聘核心集成工程师（TypeScript / Node.js）</a></span><span class="topic-stats">回复 11 · 收藏 9</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243125" markdown="1">
-<summary>
-<span class="topic-rank">3</span>
-<span class="topic-title">2026年还能正常说人话的模型：Gemini、豆包与提示词规避</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-发帖者认为 2026 年起主流模型普遍向 Coding 特化，日常讨论时用词、语法和停顿都变得“不说人话”：GPT 长期被诟病；A 家（Claude）稍好但贵，且从 4.7 起逐渐不类人；grok、glm 像专为代码训练；DeepSeek 在 0910 更新后也变差，且无法回退旧版。
-
-### 关键要点
-- 评论区最集中的答案是 **Gemini**，多人认为它“几乎没有 AI 味”，但常带“马屁精味”，爱用“您的概括太精确啦”一类开头。
-- **豆包**被多次提名：调教方向偏对话、被质疑会道歉，但智商一般、容易出错，被调侃“说人话但不干人事”。
-- 其他提名：**Claude Opus 4.6** 以说人话受好评但不易用上；**GPT 6 Astra** 被认为说话尚可；**DeepSeek Flash V4.1** 被指中文难懂。
-- 有回复建议用提示词约束：要求使用平白简单的语言、不允许自定义术语、不允许主动简写。
-
-### 评论补充
-发帖者反馈各种提示词技巧作用不大，认为说话习惯改不了；也有人主张技术能力优先，语言风格次要。另有回复提到 Gemini 在国内订阅易被风控、中转站维护不佳，属于使用门槛而非模型本身问题。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243125" target="_blank" rel="noopener noreferrer">2026 年到底还有哪个模型能正常说人话的？不需要能力多强</a></span><span class="topic-stats">回复 34 · 收藏 5</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243139" markdown="1">
-<summary>
-<span class="topic-rank">4</span>
-<span class="topic-title">M1 Max 升级 macOS 27 实测：性能与软件兼容清单</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者从 macOS 14 升级到 macOS 27（M1 Max），折腾一晚后给出性能与兼容性参考。结论：从 26 升级值得，从 14 升级性能上也可接受，但审美与部分软件需权衡。
-
-### 关键要点
-- **性能**：26 被指右键、菜单显示明显变慢；27 在 M1 Max 上无“慢”的感觉，可升。
-- **兼容性**：ICE 失效，改用 Thaw 收纳菜单栏图标；Bartender 7 仍有兼容问题；PD 可运行；macFUSE 需先用安装包内卸载程序卸载再装最新版；easyConnect 需重装（Safari 输入 VPN 地址获取下载页）；开发类软件需同步更新 Xcode，否则 git 不可用；部分 Intel 软件仍可用。
-- **登录变慢**：装完登录后出现进度条，原因是默认开启“文件保险箱”，关闭即可。
-- **Rosetta**：评论指出 Rosetta 2 仍在，macOS 28 才不兼容 x86 应用。
-
-### 评论补充
-有回复称 27 似有原生 menubar 管理，但作者表示未搞懂触发条件。关于文件保险箱，评论解释 Apple Silicon 的 SSD 本就加密，该开关只决定是否叠加登录密码解密，开关瞬间完成。另有观点认为 M1 Pro 大版本更新寿命约剩 2–3 年，Xcode 约 29–30 年停更；也有人选择停留在 15.7 或 13。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243139" target="_blank" rel="noopener noreferrer">来了， M1Max 升级 macOS27</a></span><span class="topic-stats">回复 22 · 收藏 3</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243155" markdown="1">
-<summary>
-<span class="topic-rank">5</span>
-<span class="topic-title">开源家用 WMS：AI Agent 管理冰箱库存与保质期</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者因冰箱里放了三个月的黄瓜，开发了一个面向 AI Agent 的家用 WMS 项目 AL1S-WMS（https://github.com/RicterZ/AL1S-WMS），全部功能以 MCP tools 形式提供，拍小票即可让 Agent 自动入库。
-
-### 关键要点
-- **库存与批次**：按批次入库，支持条形码扫描，记录保质期、位置、分类等属性。
-- **预警与盘点**：临期、过期、临界、不足、缺货等提醒。
-- **采购与财务**：购物清单、购物日历、缺货自动生成清单，以及当月预算与支出统计的简易记账。
-- **明确不适用**：企业/门店的多审批、供应商合同、订单履约、复杂权限；银行同步、发票报销、复式记账、多币种；ERP/WMS/POS 级批量作业与审计合规。
-- **现状限制**：支持多家庭切换，但尚不支持多用户；已有物品导入较麻烦。作者把 Agent 接入 QQ，用语音消息边走边录入物品位置和数量。
-
-### 评论补充
-有回复质疑这是“杀鸡用牛刀”，认为直接让 AI 维护 csv/sqlite 更简单；也有人指出除非冰箱集成传感器自动记录，否则手动录入难以坚持，入口必须足够自然。作者回应称走 napcat 接入 QQ（参考 https://github.com/RicterZ/Momoi），并认为未来 2 年会出现接入 LLM 的家庭对话设备，从冰箱取物自动识别出库可期。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243155" target="_blank" rel="noopener noreferrer">鉴于发现冰箱里有一个放了三个月的黄瓜，所以 vibe 了一个家用 WMS</a></span><span class="topic-stats">回复 21 · 收藏 5</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243122" markdown="1">
-<summary>
-<span class="topic-rank">6</span>
-<span class="topic-title">ZCode 被指上传代码早有预谋，退款政策松动</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-有用户质疑 ZCode 上传代码并非临时行为，而是早有安排。主帖称，ZCode 的 150% 配额与相关时间点同在 6 月 13 日，并引用一份思维导图作为线索，认为高配额是为了吸引用户短期集中使用。同时，GLM Coding Plan 页面写明“订阅服务一经购买即视为确认，不支持退款”，但实际联系人工客服后可直接退款，未多问。
-
-### 关键要点
-- 主帖将 150% 配额与上传行为时间点关联，怀疑是“为这盘醋包的饺子”。
-- 官网退款政策与客服实际处理不一致，被解读为事后灭火。
-- 有回复称本机测试显示上传功能分阶段演进：3.5.3 引入本地回滚 checkpoint，3.10.0 快照上传含双 flag 和迁移代码，3.11.0/3.11.1 形成全量收集。
-- 多位用户认为上传完整 git 历史可用于训练，且存储成本高，不像单纯做代码索引。
-- 有用户因文件过大导致上传重试失败，或 SSH 场景未被上传，属于偶然规避。
-
-### 评论补充
-评论普遍担忧公司代码资产风险，建议对不开源、默认接触整个项目的工具保持警惕。也有用户提到 ZCode 3.0 曾静默升级并清空对话，随后卸载。上述版本演进与上传细节来自单一回复，尚未经多方验证，需谨慎对待。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243122" target="_blank" rel="noopener noreferrer">ZCode 上传代码是否早有预谋</a></span><span class="topic-stats">回复 19 · 收藏 4</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243101" markdown="1">
-<summary>
-<span class="topic-rank">7</span>
-<span class="topic-title">香港 ZA BANK 能否充值 ChatGPT：可行方案与费率</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-香港 ZA BANK（众安银行）**不能直接**为 ChatGPT 充值，因为香港属于 OpenAI 不支持地区，其银行卡无法直接支付。可行做法是绕道系统订阅：把 ZA 的 Visa 卡绑定 Google Play 或 Apple Pay，再通过 Google Play / App Store 订阅 ChatGPT；也可购买 App Store 或 Google Play 礼品卡充值。
-
-### 关键要点
-- 直接支付不可行，香港卡与内地卡在 AI 支付上差别不大。
-- 绕道方案：绑 Google Play 订阅（有回复称日区较便宜）、绑 Apple Pay 走系统订阅、或买礼品卡。
-- 有用户实测 ZA 的 Visa 卡不能直接充 Claude，只能走 Google Pay。
-- 成本提示：众安卡默认约 1.95% 损耗（1% 货币转换费 + 0.95% Visa 手续费），非 Lv2 用户不建议用于消费。
-- 替代卡：有回复称新加坡银行卡、OCBC 美国卡、澳洲银行卡可直接用，美国 BOA 审批相对简单。
-
-### 评论补充
-关于 Wise 开户是否可行、绑 Google Play 后是否有高额手续费，帖中提出但未得到明确结论，需自行核实。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243101" target="_blank" rel="noopener noreferrer">问下，香港 ZA BANK（众安银行）能充值 gpt 么</a></span><span class="topic-stats">回复 13 · 收藏 2</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243146" markdown="1">
-<summary>
-<span class="topic-rank">8</span>
-<span class="topic-title">实测：Coding Agent 接 LSP 语义检索 vs grep</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者用 3 个 Claude 模型（Opus 4.8 / Sonnet 4.6 / Haiku 4.5）在多个 Python / TypeScript 仓库上，对比基于 LSP 的语义导航（查引用、跳定义、列符号）与 `grep`，覆盖定位代码、找全引用、多文件重命名三类任务。仅统计两种方法都跑成功的样本，避免失败跑法显得“省 token”。
-
-### 关键要点
-- 简单定位代码：模型几乎不主动选 LSP（0%～6%）；强制先用 LSP，成功率反从 100% 降到 89%。
-- 找全部调用方：模型主动选 LSP（45%～57%），精确率从 grep 的 0.76 升到 1.00，但两边召回率都约 0.66，漏查问题 LSP 没解决。
-- 同名文本越多，LSP 收益越大：hono 仓库 grep 精确率仅 0.51，换 LSP 后 F1 +0.246、token 省 12%；干净仓库 remeda 中 LSP 基本无用，token 反多花 16%。
-- 影响最大的是返回格式：LSP 原本只给路径和行号，模型需再开文件；改为直接带上下文源码后，多文件重命名 pass@1 从 0.67 升到 0.83，多余文件读取从 15.2 次降到 3.2 次，低于纯 grep 的 4.3 次。
-
-### 评论补充
-有回复指出 clangd 还能提供结构体实际大小、alignment 及成员 offset，这类场景下透出 LSP 的 on-hover 能力会更方便。
-
-结论：LSP 是否好用取决于任务类型与代码库同名文本密度；工具返回内容的格式有时比检索后端本身影响更大。加新工具前应同时看模型是否主动用、任务是否真做完、返回格式是否够用。完整数据见 https://www.agentconnect.md/blog/grep-beat-lsp-harness/ ，任务与原始结果见 https://github.com/agentconnect-md/lsp-vs-grep-token-study 。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243146" target="_blank" rel="noopener noreferrer">测了一下：给 Coding Agent 接 LSP 语义检索，不一定比 grep 好用</a></span><span class="topic-stats">回复 1 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243198" markdown="1">
-<summary>
-<span class="topic-rank">9</span>
-<span class="topic-title">ZCode/智谱被指上传用户代码库，用户要求退款</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-有用户称在 z.ai 开通 coding plan 后，将个人与公司项目放入 ZCode 客户端运行，事后检查发现代码被上传，已发邮件要求退款，并考虑走 PayPal 仲裁。该帖引发对闭源 Agent 工具数据安全的讨论。
-
-### 关键要点
-- 退款路径：有用户反馈在中国站 bigmodel.cn 找人工客服申请退款，按套餐剩余天数折算，当天申请当晚到账；海外站 z.ai 情况不同。
-- 支付渠道：PayPal 支付的用户可发起争议退款，对支付渠道而言此类事件可能触发冻结提款。
-- 检查方法：发帖者给出 GitHub issue 链接供自查是否被上传：https://github.com/zai-org/feedback/issues/707#issuecomment-5728122201
-- 证据保留：有回复建议向工信部投诉并保留证据。
-- 工具选择：有用户认为 Agent 工具应优先选开源方案，闭源工具权限过大风险高。
-
-### 评论补充
-发帖者称自己 90% 使用 Claude Code，仅下载运行过几次 ZCode 就被打包上传代码库。另有用户询问退款是否按剩余天数，得到肯定答复。部分回复涉及账号转让与广告质疑，与主题关联较弱。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243198" target="_blank" rel="noopener noreferrer">刚刚发了封措辞严厉的邮件给 ZCode/智谱，要求退款</a></span><span class="topic-stats">回复 21 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243191" markdown="1">
-<summary>
-<span class="topic-rank">10</span>
-<span class="topic-title">ZCode 被指静默打包工作区上传阿里云 OSS</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-有逆向分析指出，智谱 AI 编程桌面应用 ZCode 在用户登录状态下，会把整个工作区打包加密后静默上传至阿里云 OSS，且本地无法解密。
-
-### 关键要点
-- 证据链：`~/.zcode/v2/checkpoints/` 下存在 313MB `.enc` 文件，元数据显示失败重试 564 次；流程为客户端向 `zcode.z.ai` 取凭证，服务端下发 OSS 表单签名与 RSA 公钥，本地 tar.gz 打包、AES-256-CTR 加密后直传 OSS 并回调登记。
-- 密钥只在智谱云端，用户磁盘上的密文自己解不开，客户端也解不开；作者认为若为回滚/同步，密钥应像 Git、Time Machine 一样留在本地。
-- 快照清单明文显示 payload 86.6% 是 `.git`，包含完整提交对象、LFS 缓存、reflog，可能泄露历史删除的 API key、未推送分支名和内网 GitLab 主机名。
-- 两个 UI 开关（“优化体验”“仓库快照索引”）只控制数据授权或服务端索引，本地打包上传无 gating 逻辑，登录即激活；删除本地文件半小时后会重新打包。
-- 隐私政策仅提及收集对话中提交的文本、文件和代码，未说明整仓上传。
-- 作者给出的防御：用 `chflags uchg`（macOS）或 `chattr +i`（Linux）锁死 `~/.zcode/v2/checkpoints`，代价是 checkpoint 回滚功能失效。
-
-### 评论补充
-评论普遍认为该消息已传播一天以上，属“过熟瓜”，并指出官方至今未在正式公开渠道回应说明。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243191" target="_blank" rel="noopener noreferrer">智谱出大瓜了：偷偷把工作区打包加密上传到阿里云 OSS？</a></span><span class="topic-stats">回复 10 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243108" markdown="1">
-<summary>
-<span class="topic-rank">11</span>
-<span class="topic-title">Apple Watch 充电头可随便用吗：功率与线材要点</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-外版 Apple Watch 的充电头并非“随便用”，关键看输入功率是否达标，以及线材是否合格。主帖问 5W 是否够用，评论给出了更细的区分。
-
-### 关键要点
-- **充电头**：只要支持 PD、功率满足即可，普通 15W 多头充电器通常可用；但最新 S12 系快充要求输入功率 10W 以上（国行除外）。
-- **充电线**：第三方线更容易因发热导致充电变慢甚至停止，建议优先用原装或可靠线材。
-- **功率认知**：Apple Watch 实际输出功率不高，早期约 2–3W，快充也仅约 4W 左右，因此输入 5W 长期够用；15W、25W 等数字多指 MagSafe/Qi2 无线充，与 Watch 不是一回事。
-- **风险案例**：有用户用大功率充电头把表充坏，换新后出差只带 5V1A USB-A 充电头；也有人认为合格 A 口/C 口充电器与功率无关，多年使用正常。
-
-### 评论补充
-官方文档提到搭配 Apple 20W USB-C 电源适配器（型号 A2305）可实现快充，但这可能只是因为官方最低就是 20W。国行与外版的快充功率差异在讨论中未得到官方数据确认，属于待核验信息。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243108" target="_blank" rel="noopener noreferrer">watch 充电器是不是随便用就可以了</a></span><span class="topic-stats">回复 19 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243124" markdown="1">
-<summary>
-<span class="topic-rank">12</span>
-<span class="topic-title">macOS 屏蔽系统更新提示的几种方法</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-有用户分享在 M2 Pro MacBook Pro（系统停在 15.8）上屏蔽 macOS 27 更新提示的做法：打开 Beta 版更新开关，并选择“macOS Sequoia Public Beta 版”，即可不再收到新系统更新提示，操作简单且无需改动系统设置。
-
-### 关键要点
-- **主帖方法**：开启 Beta 更新并选中当前所在版本（如 Sequoia Public Beta），可降低提示频率；发帖人补充，选自己所在版本后更新频率并不高。
-- **已下载安装包的处理**：若系统已下载好升级包，可在“系统设置 ＞ 通用 ＞ 储存空间”中检查 macOS 或应用程序分类下的安装包并删除。
-- **其他思路**：有回复提到曾用 Codex 生成 plist 来屏蔽更新，并指向站内另一主题（https://www.v2ex.com/t/1160516#reply18）。
-
-### 评论补充
-- 有回复质疑大版本安装包是否会自动下载，认为大版本需手动点击才会下载。
-- 有回复提醒不更新存在安全风险，举例称 iOS 18.6 之前存在打开恶意网页即可窃取本地 keychain 的漏洞。
-- 发帖人回应：多数人其实想无脑 OTA，屏蔽更新是因为更新可能带来其他问题。
-
-以上方法均来自用户经验，未提供官方文档或可复现验证，实际效果与系统版本相关，需自行评估安全风险。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243124" target="_blank" rel="noopener noreferrer">macOS 屏蔽更新的方法</a></span><span class="topic-stats">回复 10 · 收藏 3</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243177" markdown="1">
-<summary>
-<span class="topic-rank">13</span>
-<span class="topic-title">bbhouse-qt：基于 Qt/QML 的跨平台 B 站客户端</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者发布 bbhouse-qt，是四年前 bbhouse-tauri 的精神续作，GPLv3 开源，仓库为 [endcloud/bbhouse-tauri-qt](https://github.com/endcloud/bbhouse-tauri-qt)。项目定位为面向收藏党、关注量大的用户，以动态流为首页，默认不展示推荐流，也不展示 b 博。
-
-### 关键要点
-- **播放能力**：基于 mpv 后端，支持杜比视界与 HDR、弹幕、字幕、倍速、帧截图、下载，播放窗口与列表独立生命周期。
-- **在线功能**：已关注动态与直播、港澳台追番、流行、特别关注、历史记录、稍后再看；支持代理播放港澳台番剧。
-- **特色功能**：本地特别关注绕过上限、本地历史缓存定期同步绕过云历史上限、下载管理与本地导入弹幕播放、对 PCDN 降权。
-- **技术栈**：Qt + C++ 构建，FluentUI，明暗主题与多语言，当前 release 覆盖 Windows_x64 与 macOS_arm64，基于 cookie 认证、轻依赖。
-- **限制**：无法为普通会员提供超出权限的功能。
-
-### 评论补充
-本主题暂无回复。作者自述开发仅用 3 天、含 port 与弯路约两周，全程由 harness + LLM 接管，并列出 Zcode GLM-5.3-flash、Trae Kimi-K3、Codex GPT-6-Astra 等工具，可作为 AI 辅助跨平台开发的参考案例。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243177" target="_blank" rel="noopener noreferrer">bbhouse-qt, 基于 qt/qml 的跨平台 B 站客户端, 四年续作</a></span><span class="topic-stats">回复 0 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243195" markdown="1">
-<summary>
-<span class="topic-rank">14</span>
-<span class="topic-title">Claude 20x 订阅渠道差价：Google Play 275 欧 vs 网页 216 欧</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-同一档 Claude 20x 订阅，通过 Google Play 或 App Store 内购会比网页端贵，差价来自平台抽成被转嫁到用户身上，而非免税区设置失效。
-
-### 关键要点
-- 网页端订阅通常最便宜；官方手机 App 若从应用市场安装，价格会更高。
-- 有回复指出，走 Google Play 或 Apple App Store 的内购，Anthropic 会直接在原价上加收约 25 或 50。
-- 实测对比（欧洲订 20x）：Google Play 版官方 Claude App 共 275 欧；网页 180 欧 + 20% 增值税 = 216 欧（有税号的企业可抵扣）；用美国免税州地址为 200 美元。
-- 多付平台费并不保证账号不被封。
-
-### 评论补充
-关于差价来源存在分歧：一种说法认为是 Google 收取的手续费，另一种更具体地指出是 Anthropic 把 Google/苹果税转嫁给用户。结论一致的是：想省钱应优先走网页端，避免应用市场内购。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243195" target="_blank" rel="noopener noreferrer">为啥在 蓝叠的 Google 账号下购买 claude 20x 要 $250 啊。 google 账号已经在免税区了</a></span><span class="topic-stats">回复 7 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243129" markdown="1">
-<summary>
-<span class="topic-rank">15</span>
-<span class="topic-title">WeChat AHP：微信与 VS Code Agent session 双向实时同步</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者发布 VS Code 扩展 WeChat AHP，让微信与 VS Code 的 Agent session 双向实时同步，可在手机上远程操控 VS Code 中的 Agent，并在手机与电脑之间无缝切换继续操作。同步基于 Agent Host Protocol（AHP），作者称读写操作均为毫秒级实时同步。
-
-### 关键要点
-- 前作 WeChat ACP 负责连接主流 Agent Harness：Claude、Codex、Copilot、Qwen、Gemini、OpenCode、OpenClaw、Hermes、Kiro、Kimi、Pi 等。
-- 新作 AHP 负责多 Client 之间实时同步 Agent Session，两者分工不同。
-- 安装方式：VS Code Marketplace 或 Open VSX 搜索 `formulahendry.wechat-ahp`，也可命令行 `code --install-extension formulahendry.wechat-ahp`。
-- 代码开源：https://github.com/formulahendry/vscode-wechat-ahp
-
-### 评论补充
-有用户指出微信侧存在硬限制：AI 无法主动向用户推送大量信息，长任务运行时体验受限，需用户主动发消息重置阈值。作者确认该限制属实——用户发消息后 AI 最多回 10 条，属微信平台限制。因此该方案更适合短交互、需频繁人工接续的场景，长任务推送能力有限。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243129" target="_blank" rel="noopener noreferrer">WeChat AHP 让微信和 VS Code 的 Agent session 双向实时同步</a></span><span class="topic-stats">回复 2 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243131" markdown="1">
-<summary>
-<span class="topic-rank">16</span>
-<span class="topic-title">浏览器端 LaTeX 转图片工具：支持 SVG、透明 PNG 与 2x-4x 高清导出</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者因频繁把 LaTeX 公式放进 PPT，开发了纯浏览器端工具 latextoimg.com，渲染在本地完成，无需先把公式提交到服务器。定位是「LaTeX 公式 → 图片」，而非完整 .tex 文档编译，因此不适合 TikZ、复杂 package 和自定义宏环境。
-
-### 关键要点
-- 支持 LaTeX 转 PNG / SVG / JPG，透明背景、自定义公式颜色与背景、1x–4x 缩放导出，以及复制 SVG、图片和 LaTeX 源码，并可通过 URL 保存当前公式。
-- 格式取舍：SVG 放大不模糊，适合网页与论文插图；PPT、Notion、富文本编辑器、社交媒体和剪辑软件更常用 PNG。
-- 1x PNG 在 Retina 屏或 PPT 放大后边缘发虚，作者建议 PPT 与文章插图用 2x 或 3x，不在意体积可用 4x。
-- 透明背景对 PPT 很实用，深色浅色背景都能自行控制公式颜色；但 JPG 不支持透明，需为透明区域填充背景色。
-- 作者常用组合：网页用 SVG，PPT 用透明 PNG + 2x/3x，基本无需二次处理。
-
-### 评论补充
-评论者建议补充 EMF、BMP、WEBP 等格式，并指出新版 MS Office 支持 SVG、旧版支持 EMF；同时批评下载按钮未分类、JPG 与 JPEG 被并列成两种格式、编辑器行号未对齐、公式颜色栏冗余、缩放缺少预览。作者回应会研究优化。另有评论询问 UI 设计来源，作者答复使用 codex。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243131" target="_blank" rel="noopener noreferrer">因为经常要把 LaTeX 公式放进 PPT，我做了一个纯浏览器端的 LaTeX 转图片工具</a></span><span class="topic-stats">回复 5 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243126" markdown="1">
-<summary>
-<span class="topic-rank">17</span>
-<span class="topic-title">Apple Watch S12 国行蜂窝版换机实测：续航、充电与 HRV</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者将 Apple Watch Ultra 2 以 2700 元卖出，在京东以 3670 元下单国行蜂窝版 S12（含国补），当天送达。换机主因是 Ultra 2 偏大偏重，且日常感知不到其户外/运动专属功能。
-
-### 关键要点
-- **国补签收流程**：需当快递员面激活升级并拍照上传，流程较严格。
-- **一号双终端**：重新添加比以往麻烦，需单独网页填写信息并人脸识别。
-- **续航实测**：满电 21:30 入睡、6:00 起床剩 93%；慢跑 7km/50 分钟耗电 6%（87%），作者称惊喜，但实时配速不准。
-- **充电**：26 分钟充入 13%，比 Ultra 慢约 10 多分钟。
-- **HRV/心率**：检测频率明显提高，图表数据比旧表密集。
-- **版本选择**：港行 GPS 版加税后比国行减国补贵近 1K，作者认为无性价比。
-
-### 评论补充
-有回复指出 S12 黑边比 S11/S9 更粗，属“开倒车”；国行充电慢是痛点，港版今年升级到 10W 快充，国行满充据称约 1.5 小时。另有回复质疑 3670 元价格偏高（港版约 31xx），并询问睡眠呼吸暂停提示是否已可用。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243126" target="_blank" rel="noopener noreferrer">ultra2 换 s12 国行蜂窝版初体验</a></span><span class="topic-stats">回复 12 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1243157" markdown="1">
-<summary>
-<span class="topic-rank">18</span>
-<span class="topic-title">B站投屏前两秒重复：播放链接与seek时序问题</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-有用户反馈，无论使用乐播投屏、当贝投屏还是其他投屏方案，只要投哔哩哔哩视频，前两秒都会重复播放一次，且该现象已持续多年。
-
-### 关键要点
-- 原因指向投屏协议中**播放链接与播放进度（seek）分两次下发**：接收端先收到播放链接并从视频开头播放，随后才收到播放记录，于是又 seek 到上次位置或开头，造成前两秒重复。
-- 有回复从音视频同步角度提出另一种可能，但未展开。
-- 该问题并非所有 App 都有，发帖者确认其他 App 未出现，怀疑是哔哩哔哩长期未修复的 bug。
-
-### 评论补充
-- 有开发者表示自己写的接收端会在视频播放前几秒**直接忽略 seek 到开头的请求**，从而规避重复播放，说明问题可在接收端侧绕过。
-- 发帖者认可“先播放链接、后播放记录”的解释，并指出该 bug 至少存在五六年。
+- 多位用户称使用 3 年以上、实体卡长期国际漫游未被封，封号并非全员。
+- 有用户认为即使解封也只是暂时，ToS 明确禁止长期漫游，绑定大量服务（尤其 OpenAI 无法换绑）后风险仍高。
+- 部分用户已放弃退款，选择“捐了”。
 
 ### 限制
-目前只有少量回复，缺少官方说明或抓包日志，具体触发条件与修复方式仍待验证。
+退款成功率、到账时间与账号状态相关，评论中多为个例，官方政策未在文本中确认。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243157" target="_blank" rel="noopener noreferrer">为什么哔哩哔哩的投屏前两秒会重复？</a></span><span class="topic-stats">回复 4 · 收藏 0</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243247" target="_blank" rel="noopener noreferrer">收到 giffgaff 退款了，抓紧退款吧</a></span><span class="topic-stats">回复 58 · 收藏 37</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1243119" markdown="1">
+<details class="topic-card" data-topic-id="1243299" markdown="1">
+<summary>
+<span class="topic-rank">3</span>
+<span class="topic-title">6张手机卡如何在一台手机统一接收短信验证码</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+用户名下 6 张卡（电信 3、移动 3），手机仅支持双卡，核心需求是集中接收各号验证码，不要求通话上网。评论给出的可行路径分三类：官方/生态方案、转发软件、硬件转发设备。
+
+### 关键要点
+- **同生态多机同步**：多台 iPhone 登录同一 Apple ID 并保持联网，可同步收短信、接电话；小米 HyperOS 4 支持同一小米账号下远程接收其他小米手机的电话与短信，无需同一局域网。
+- **安卓转发软件**：多台安卓机装 SmsForwarder，转发到 Bark、飞书、钉钉、企微等任意渠道；主力为安卓时，iPhone 互联需备用机在附近才推送。
+- **硬件转发**：ESP32-C3 + 4G 模块（如 U724、大疆 4G 模块一代）插卡在家，转发到 Bark 等，成本约 30–100 元，有用户称稳定运行数年。
+- **一卡多号**：不重要的号码可注销后改用移动「和多号」，一号多号，约 36 元/年，单运营商不超 5 个号。
+
+### 评论补充
+- 有用户提到移动官方「无忧行」App 可托管号码，不插卡即可收短信、打电话，但未获验证。
+- iPhone 备用机方案被指不总生效，还需解决定时充电问题。
+- 相关开源项目：https://github.com/chenxuuu/sms_forwarding 、https://github.com/goxofy/air780e-esp32c3-esphome 。
+- 结论：无统一官方方案，按运营商或生态分治，软件转发与 ESP32 硬件转发是主流低成本选择。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243299" target="_blank" rel="noopener noreferrer">多个手机卡怎么统一使用一台手机接收短信</a></span><span class="topic-stats">回复 35 · 收藏 31</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243259" markdown="1">
+<summary>
+<span class="topic-rank">4</span>
+<span class="topic-title">闲鱼下架后美区 Apple ID 礼品卡充值渠道</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+闲鱼已搜不到美区 Apple 礼品卡，帖主询问替代充值渠道。评论给出的共识是：**优先走 Apple 官网自购**，其次是用支付宝内的官方入口或第三方平台 Pockyt、SEAGM。
+
+### 关键要点
+- **Apple 官网**（https://www.apple.com/shop/gift-cards）可直接购买，有回复称银联卡也能支付，配招行全币种 Visa 多次成功，且不易触发封号。
+- **支付宝**：把地区切到洛杉矶，从官方 banner 广告进入即可购买，人民币结算；该入口实际由 Pockyt 提供。
+- **Pockyt**（https://shop.pockyt.io/brands/all）有网页版及支付宝、微信小程序，支持支付宝/微信付款。
+- **SEAGM**（https://www.seagm.com/）覆盖多国礼品卡，支持支付宝，有用户长期在此买土区卡。
+
+### 评论补充
+关于国内卡能否支付存在分歧：有人称国内 Visa 已不能买、中行 Visa 失败，也有人表示招行全币种 Visa 前一天刚成功，说明与发卡行和卡种有关。另有反馈称 SEAGM 部分卡种售罄，通常上午有货、下午易无货，建议尽早下单。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243259" target="_blank" rel="noopener noreferrer">美区礼品卡相关</a></span><span class="topic-stats">回复 31 · 收藏 17</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243250" markdown="1">
+<summary>
+<span class="topic-rank">5</span>
+<span class="topic-title">Jev 实测反馈：意图分类模型、本地部署与替代方案</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+Jev（typesafe.ai 的 System One 模型）被讨论为一种低延迟的意图分类/判别模型，而非通用大模型。多位用户实测后认为其定位是「harness 环节中的一环」，适合做判别器、AI slop 检测、小游戏演示等场景。
+
+### 关键要点
+- **能力边界**：有用户用 Vercel API 测试后指出，它基本只能回答 Yes/No 或概率分布类问题，最大卖点是上下文短、可本地部署。
+- **速度与成本**：有用户用 OpenRouter 测试，推理速度比 Gemini 2.5 Flash Lite 快很多，但成本只能控制到约一半；算上网络延迟后优势没那么明显。
+- **中文表现**：中文泛化偏弱，网络延迟可能大于生成延迟。
+- **接入方式**：Vercel 和 Cloudflare 均可接入；也有用户通过中转服务拉直网络。
+- **替代方案**：有用户指出 Jev 本质是基于 BERT 的意图分类模型，同类思路早有实现，并给出开源项目 laya（github.com/NandhaKishorM/laya），称其比 Jev 更快、适合本地部署。
+
+### 评论补充
+- 有用户认为用 Qwen 小参数模型可模拟类似效果，但被反驳「差远了」，并附对比图说明 OpenJev 与 Jev 仍有差距。
+- 实际用途被归纳为信息过滤、模型路由、安全过滤等「用 LLM 太重太慢」的场景。
+- 也有用户表示申请通过后「没太用明白」，说明上手门槛存在。
+- 争议点：部分人认为该边界早被通用大模型覆盖，国产模型更便宜好用；支持者则认为方向正确，缺的是被热门工具集成。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243250" target="_blank" rel="noopener noreferrer">Jev 有没有已经上手用过的</a></span><span class="topic-stats">回复 30 · 收藏 9</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243294" markdown="1">
+<summary>
+<span class="topic-rank">6</span>
+<span class="topic-title">iPhone 18 Pro 满速充电需 PD 3.2 AVS，双口 50W+50W 充电头暂无</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+用户为 iPhone 18 Pro 寻找支持 PD 3.2 AVS SPR 协议、双口可同时 50W+50W（共 100W）且兼容小米快充的充电头，结论是**目前市面上基本没有满足该组合的产品**。
+
+### 关键要点
+- 满速充电需支持 PD 3.2 的 AVS SPR 协议，Anker 因协议差异（AVS 与 PPR 不同）新款不支持。
+- 双口高功率产品稀少：酷态科 CP6 双口同时充仅 33+20W，功率偏低。
+- 多位用户引用测评称，**18 Pro 用普通 45W PD 与 AVS 差距很小**（约 2-3W，43W vs 41W）；Pro Max 的 AVS 优势也仅快约两分钟。
+- 若需同时满速，建议用两个独立充电头，而非单头多口。
+
+### 评论补充
+- 有回复建议等酷态科、安克、绿联、小米后续新品；固定场景可考虑充电站，但用户有移动需求故排除。
+- 具体型号提及：绿联 70W、Anker 160W（价格高）、酷态科 6 号卡片充电器、贝尔金 45W 联名款（约 30 多元，可买两个）。
+- 参考测评来源：B 站「阿甘体验」「充电行者」。
+- 分歧点：部分人认为 AVS 属性价比不高的功能，普通 PD 足够；也有人认为 Pro Max 才需要 AVS。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243294" target="_blank" rel="noopener noreferrer">18 Pro 的充电头太难买了，大伙有推荐的吗</a></span><span class="topic-stats">回复 56 · 收藏 1</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243313" markdown="1">
+<summary>
+<span class="topic-rank">7</span>
+<span class="topic-title">停车场剐蹭无直接监控，如何追责与索赔</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+车辆在医院停车场被剐蹭，事后通过监控找到疑似肇事车辆，但监控未直接拍到碰撞过程。交警表示只是怀疑，肇事者拒接电话。核心问题是：无直接证据时能否追责、如何索赔。
+
+### 关键要点
+- **证据是分水岭**：有直接碰撞监控则好办；没有则取决于对方是否承认。可申请痕迹鉴定，扣双方车辆一周内出结果，但需尽快，对方洗车后鉴定难度大增。
+- **管辖可能不在交警**：多位回复指出停车场不属于“道路”，可能不归交警管，交警未必出事故认定书；有建议报民警调解，或按经济纠纷走法院起诉。
+- **索赔路径**：可先让交警提供对方信息，自行联系“诈”一下；若对方不认，拿报警记录起诉。也可考虑走自己商业保险的“停放受损”，但代位追偿可能因缺事故认定书受阻。
+- **停车场责任**：交停车费可能附带一定看管义务，但需证明剐蹭发生在入场之后，通常要看入口是否有拍照设备。
+
+### 评论补充
+有回复建议先诈对方称监控已拍到；也有人提醒“承认了一切好办，不承认一切难办”。关于逃逸定性，有观点认为不必强求逃逸，判责后走代位更省心，但逃逸情形可能无法代位。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243313" target="_blank" rel="noopener noreferrer">军师们这种情况能追责成功？</a></span><span class="topic-stats">回复 43 · 收藏 4</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243342" markdown="1">
+<summary>
+<span class="topic-rank">8</span>
+<span class="topic-title">Astra 上传流量异常：AI 工具成梯子流量刺客</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+有用户发现使用 Astra 后，最先被耗尽的不是额度而是代理（梯子）流量，一个月 100G 套餐八年来首次超限。经讨论确认，问题主要出在**上传流量**而非下载：Astra 的上传量明显高于 Luna。
+
+### 关键要点
+- 原因推测：Astra 会执行更多 computer use，截图、生成图片等每次会话都会上传，每个 subagent 可能各自上传，导致上传流量激增。
+- 对比参考：有用户反馈 Codex 则是下载流量大户，一天更新三版、单次数百兆。
+- 排查方法：用 Clash 类工具查看连接与进程，可定位异常流量来源；有用户借此发现某网页约每 30 秒发起一次约 400kB 请求，挂机数天累计消耗 8.6G。
+- 监控工具：除 Clash Verge 外，可单独安装 neko master，或使用更简单的 clash-traffic-monitor。
+- 省流建议：可禁止 Codex 自动更新，改用应用商店更新以减少流量。
+
+### 评论补充
+多位用户确认上传流量才是主因，并指出自建梯子可缓解此类问题。整体属于经验分享，具体流量数值因使用场景而异，需自行监控验证。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243342" target="_blank" rel="noopener noreferrer">真没想到啊用 astra 最先撑不住的居然是我的梯子流量</a></span><span class="topic-stats">回复 35 · 收藏 7</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243244" markdown="1">
+<summary>
+<span class="topic-rank">9</span>
+<span class="topic-title">从零构建带权限闸门的 Claude Code 运维 Agent</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+作者以 ops-agent 真实构建过程，讲解如何实现一个“默认只读、高风险需授权、可回滚、全审计”的 Claude Code 运维 Agent，代码见 https://github.com/mengbin92/ops-agent 。
+
+### 关键要点
+- **风险分级**：R0 只读直接放行；R1 可逆低风险写走轻量审批；R2 高风险写走完整变更单；R3 不可逆默认拒绝，需 `--force` 加显式确认。复合命令按 `; && || |` 分段取最高级，未知命令默认 R2。
+- **两层防线**：`.claude/agents/ops.md` 用 prompt 纪律约束行为；`.claude/settings.json` 注册 PreToolUse hook 做硬拦截，`exit 0` 放行、`exit 2` 拒绝，且 fail-closed（任何异常一律拒绝）。hook 为项目级配置，须在仓库目录内启动才生效。
+- **核心库 core.py**：纯标准库纯函数，含分类、审批戳（归一化命令 sha256 + TTL）、审计（JSONL，超 10MB 轮转）、快照与回滚、原子执行五模块。执行顺序严格为校验戳→快照→执行→审计，快照失败即中止并记 `exec-abort`。
+- **演进**：core.py 库壳分离，可零成本包成 stdio JSON-RPC 的 MCP server，注册后跨项目可用，审批戳仍有效。
+- **踩坑**：白名单须防写标记逃逸（`＞`、`tee`、`-exec`、`-delete`）；审批戳要 TTL 与归一化；自检须隔离状态目录。
+
+### 评论补充
+有读者反馈仓库链接 404，作者确认仓库当时未公开，需注意访问权限。另有评论提到 Claude 自动模式分类器开始收费，可能影响相关用法，属待核验信息。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243244" target="_blank" rel="noopener noreferrer">从零创建一个带权限闸门的 Claude Code Agent</a></span><span class="topic-stats">回复 5 · 收藏 3</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243361" markdown="1">
+<summary>
+<span class="topic-rank">10</span>
+<span class="topic-title">阿里云百炼 DeepSeek 定价与官网差异引质疑</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+有用户发现，阿里云百炼上 DeepSeek 的计费规则与 DeepSeek 官网公告不一致：官网 9 月 10 日生效的新规将工作日 9:00-12:00、14:00-18:00 定为高峰，其余时段（含周末和法定节假日）为空闲；而百炼仍挂 8 月公告，空闲时段为 22:00-8:00，其余均为高峰。按此计算，百炼上使用 DeepSeek 的成本可能比官网贵一倍以上。用户向客服求证，客服起初不理解规则差异，最终答复“以百炼公告为准”。
+
+### 关键要点
+- 百炼的 DeepSeek 输入输出价格本身可能就高于官网，缓存价格也不同。
+- 有用户称公司对接百炼可拿到约 65 折，说明企业采购价与公开价存在差异。
+- 百炼的 SLA 可靠性被认为高于 DeepSeek 官网，个人用户未必需要为此付费。
+- 有用户反馈百炼套餐消耗极快，qwen3.8、glm5.3flash 等模型一周额度几天就用完。
+
+### 评论补充
+关于百炼是否直接转发 DeepSeek 官方接口存在分歧：有用户称客服曾表示“用的是 DS 官方，正在谈价格”，但更多人认为百炼是自部署模型，缓存命中率与官网明显不同，因此有权自行定价。也有观点指出，国内云平台主要靠企业采购盈利，单一模型价格竞争力对商业化意义有限，用户比价后选择更便宜的渠道即可。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243361" target="_blank" rel="noopener noreferrer">阿里云百炼的用户都不会质疑价格的吗？</a></span><span class="topic-stats">回复 40 · 收藏 1</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243233" markdown="1">
+<summary>
+<span class="topic-rank">11</span>
+<span class="topic-title">腾讯云部署 sub2api：日本、新加坡还是硅谷</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+用户因腾讯云可开票报销，计划在其上部署 sub2api，纠结选硅谷、新加坡还是日本节点。讨论集中在节点延迟、本地运营商线路匹配，以及 sub2api 是否会导致账号降智、限并发等风险。
+
+### 关键要点
+- **节点选择**：多数回复倾向日本，认为硅谷延迟高；新加坡对电信绕路、移动尚可，日本对联通线路评价不一。
+- **线路匹配**：需结合本地运营商判断，电信、联通、移动体验差异明显，建议拿 endpoint 自行实测。
+- **降智与限流**：有 Pro 5x 用户称使用 sub2api 后被缩减配额并降智，清空登录冷却一天才恢复；也有观点认为当前限制的是并发而非单纯指纹。
+- **配置建议**：sub2api 容器需装 3 个，99 元档不够，推荐 199 或更高配置；可在域名上挂 CDN 中转提速。
+- **链路考量**：有回复提醒先确认云到 S5 落地链路，而非只看云到 OpenAI 的直连。
+
+### 评论补充
+个人自用场景下，有人建议改用 CPA；也有用户表示个人使用大半年未遇明显问题，说明降智体验存在个体差异。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243233" target="_blank" rel="noopener noreferrer">打算在腾讯云部署 sub2api，是买硅谷还是新加坡还是日本</a></span><span class="topic-stats">回复 26 · 收藏 4</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243403" markdown="1">
+<summary>
+<span class="topic-rank">12</span>
+<span class="topic-title">网恋异地150km：女生不主动聊天如何判断与推进</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+楼主通过桌游认识一位女生，线上聊了三周，对方有回应但不主动找话题、边界感强，且异地 150km、双方职业忙碌。楼主询问如何拉近距离、何时聊深入话题、何时表白。多数回复认为“不主动聊天/找话题”本身就是低兴趣信号，建议及时止损；少数回复给出可操作的推进思路。
+
+### 关键要点
+- **信号判断**：女生只礼貌回复、从不主动找话题，被多位回复者视为“礼貌拒绝”，建议考虑换人。
+- **先见面再谈其他**：没见过面时聊未来规划、表白都是空谈，应先想办法约见一次；直约成功率低，可先分享自己城市的好玩去处或风景引发兴趣，再顺势邀约。
+- **聊天节奏**：不要秒回、不要把天聊死；开启需要思考的话题观察对方兴致，主动分享日常并观察对方是否反过来关心你。
+- **异地成本**：150km 加忙碌职业，长期异地难度大，需评估未来是否有一方能换城市工作，以及双方家庭距离对结婚的影响。
+- **心态**：尚未进入恋爱阶段不要上头、不要单相思；可用发展普通异性朋友的思路双向筛选，再考虑升级关系。
+
+### 评论补充
+有回复主张直接打直球“我们谈恋爱吧”，不同意就不必见面并拉黑，避免内耗；也有人认为线上恋爱只适合 20 岁以内。楼主补充说明双方是玩桌游认识后开始搭话，并非纯游戏网友。
+
+＞ 综合来看：先约线下见面验证真实兴趣，再决定是否继续投入，是成本最低的路径。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243403" target="_blank" rel="noopener noreferrer">给与一些恋爱的一些建议</a></span><span class="topic-stats">回复 29 · 收藏 2</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243310" markdown="1">
+<summary>
+<span class="topic-rank">13</span>
+<span class="topic-title">外地人力公司3-4个月上海外包，工资能拿到吗</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+楼主收到一份大连人力资源公司派驻上海、工期 3-4 个月的外包工作，甲方名称保密，担心干完拿不到钱。多数回复认为按月结算的短期外包工资一般会发，但风险集中在合同主体异地、劳务协议而非劳动合同、试用期被退回等情形。
+
+### 关键要点
+- 常见结算方式为按月或按天，按小时较少；北京理想、小米等外包也有类似短期用工。
+- 有回复指出这类岗位多为短期项目劳务合同，不缴社保，性质接近“包工头用工”，不是员工，不存在裁员赔偿，只是不再合作。
+- 项目延期通常顺延，提前交付则提前结束。
+- 主要风险：合同主体在千里之外的外省、签的是劳务协议而非劳动合同，一旦甲方不满意被退回，外包方可能以“产出不满意”拒付，仲裁不受理，只能去合同主体所在地起诉。
+- 有回复称自己两次遇到外包最后一个月工资不给，走仲裁到强制执行耗时约一年才拿回。
+
+### 评论补充
+- 楼主最终没有接受该 offer，理由是甲方保密、担心异地维权成本。
+- 也有回复表示自己曾在外包干三天跑路仍正常发薪，说明并非所有外包都拖欠。
+- 建议关注：合同主体所在地、是劳动合同还是劳务协议、发薪日、试用期被退回如何结算。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243310" target="_blank" rel="noopener noreferrer">有外包 3-4 个月短期的工作，还能当临时工</a></span><span class="topic-stats">回复 16 · 收藏 4</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243333" markdown="1">
+<summary>
+<span class="topic-rank">14</span>
+<span class="topic-title">macOS 爆音溯源：ToDesk HAL 驱动残留与禁用方法</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+作者在 macOS 26 上遇到内置扬声器爆音，`killall coreaudiod` 只能短暂缓解。排查后发现，Time Machine 从旧机器迁移时带回了已卸载 ToDesk 的 `ToDeskOutputDriver.driver`，它作为 CoreAudio 的 HAL client 参与共享实时 work loop，超时后导致整个音频图 miss deadline，即使当前输出设备是内置扬声器也会爆音。
+
+### 关键要点
+- 日志链条：`coreaudiod` → HAL client timeout → `HALC_ProxyIOContext skipping cycle` → out-of-order message，其中 PID 4415 即 ToDesk 驱动。
+- 结论：异常 HAL driver/client 可让共享实时音频 work loop 超时，与当前输出设备无关。
+- 决定性实验（无需卸载整个 ToDesk）：先退出 ToDesk，再执行
+  `sudo mkdir -p /Library/Audio/Plug-Ins/HAL.disabled`
+  `sudo mv /Library/Audio/Plug-Ins/HAL/ToDeskOutputDriver.driver /Library/Audio/Plug-Ins/HAL.disabled/`
+- 作者批评 ToDesk 卸载程序未清理 HAL 驱动。
+
+### 评论补充
+多名用户反馈同类症状：有人误以为 AirPods 或 Mac 硬件故障，甚至低价卖机；也有人称 ToDesk 曾把远程桌面变成壁纸、撑爆磁盘。评论普遍认为其 macOS 端质量差，但作者指出在教不会用电脑的客户场景下，RustDesk 连接质量仍难替代。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243333" target="_blank" rel="noopener noreferrer">macOS 的神秘爆音与 Todesk 的关联</a></span><span class="topic-stats">回复 7 · 收藏 2</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243450" markdown="1">
+<summary>
+<span class="topic-rank">15</span>
+<span class="topic-title">深圳租小区房：渠道、中介费与房东筛选经验</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+深圳小区房源基本集中在中介手里，个人转租和业主直租很难找。作者用 20 天找房、3 天看房，总结出渠道、费用和房东筛选的实操经验。
+
+### 关键要点
+- **找房渠道**：首选小红书/抖音，按“小区名/地铁站名 + 转租/直租/租房”搜索；贝壳适合线上看房再约线下；闲鱼、豆瓣小区房源少。门口问保安会被转介给中介，成交后保安要分钱。
+- **中介费**：小区房两头吃，承租方和出租方各付半个月租金（5000 元租金各付 2500），承租方部分可谈，务必先砍价再签约。城中村/农民房通常不向租客收中介费，只向出租方收。
+- **预算控制**：中介倾向推高于预算的房源，预算 5000 会推 5000-5500，需明确卡死预算。
+- **费用构成**：房租、物业费（深圳多由承租方缴）、押二付一、中介费、水电气（小区多为民水民电）。
+- **房东筛选**：部分房东不租养宠物、孕妇、有老人的租户，或要求先见面，应提前让中介问清。
+- **中介链条**：存在“中介的中介”，成交后整条链分钱，效率最高的方式是让中介推视频，再约现场看。
+
+### 评论补充
+有回复称自己在闲鱼放租也能租出去；另有回复表示一直住城中村，骑电驴看房，确实没被收手续费。作者补充：曾看中一套转租房，中介以“不租养宠物”为由拒绝，后联系到原租客才知对方只是不想通过该中介成交（中介要收其租金一半），最终原租客自行在小红书转租成功，说明多找渠道仍有价值。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243450" target="_blank" rel="noopener noreferrer">聊聊深圳租小区房</a></span><span class="topic-stats">回复 3 · 收藏 2</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243443" markdown="1">
+<summary>
+<span class="topic-rank">16</span>
+<span class="topic-title">全能围脖：微博网页版美化与屏蔽插件，含Chrome扩展和油猴脚本</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+作者发布了一款微博桌面网页版插件「全能围脖」，提供 Chrome 扩展版和油猴脚本版，用于整合美化、屏蔽与媒体下载功能，避免安装多个脚本。插件基于 MWCA、微博综合屏蔽、Pynseq、微博浏览助手等上游项目整合改造，并保留原作者及许可说明。
+
+### 关键要点
+- **页面美化**：调整卡片排版与图文比例，提供 5 组日夜配色，支持自定义文字和背景色，可隐藏侧栏、发布框、Logo。
+- **内容屏蔽**：支持关键词、正则、来源、超话过滤，清理广告、AI 内容和过期微博，支持即时点击屏蔽用户。
+- **用户名单管理**：按 UID 过滤，支持名单导入导出、官方黑名单同步，覆盖帖子、评论、搜索场景。
+- **时间线与精简**：可切换最新时间线，调整推荐内容、导航和侧栏显示。
+- **媒体工具**：Markdown 导出，图片、视频、LivePhoto 选择与打包下载。
+
+功能分为四个模块，可单独开关。安装后刷新微博，点击右下角「围脖」打开设置。扩展版与脚本版选一个安装，若已装同类脚本建议先停用以免冲突。仅面向桌面网页版，微博改版后部分功能可能需继续适配。
+
+### 评论补充
+有用户反馈希望加入类似药方（YAWF）的图片视频缩小、九宫格默认折叠、图片全屏展示等功能，并指出被转发博文灰色框超出左边界、隐藏广告标签后无法恢复原内容、标签下边框与下一条内容上边框贴合等 UI 问题。作者回应将在下次更新调整，并计划加入鼠标悬停浮图。
+
+安装地址：Chrome 扩展版 https://chromewebstore.google.com/detail/pgginmnckecopnboblpbipalejimpnoj ；油猴脚本版 https://greasyfork.org/zh-CN/scripts/596500
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243443" target="_blank" rel="noopener noreferrer">vibe 了个功能丰富的微博网页版美化和屏蔽插件，老哥们需要的自取</a></span><span class="topic-stats">回复 7 · 收藏 2</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243239" markdown="1">
+<summary>
+<span class="topic-rank">17</span>
+<span class="topic-title">Cloudflare MCP Server 改为双通用入口，上下文从244K降到1.1K</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+Cloudflare 的 [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 把 MCP tool 定义从「与 API 接口 1:1 对应」改成两个通用入口：**API 能力目录** 和 **通用执行器**。官方宣称上下文占用从 244K 降到 1.1K。
+
+### 关键要点
+- **API 自发现**：API 更新后不必同步改 MCP Server 代码。
+- **Code Mode**：让模型自己写一段程序，在沙箱中包装并执行多个调用，而不是每次调用都重新走一轮模型判断。
+- **代价**：tool 描述被移到能力目录，若 API 定义不清或存在大量雷同功能，模型可能调用错误。
+- **改造成本**：服务端可直接把 Swagger 接口做成能力目录，成本较低。
+
+### 评论补充
+有回复质疑「屎山项目」是否用不了这套方案；楼主建议先尝试，并可在接口加标记、逐步整治，只把整治好的接口开放给 AI。另有回复提到类似思路：去年做的 agent 架构对 skill 包了一层，只保留 `load_skill`、`exec_skill_tool` 两个工具。
+
+### 适用判断
+对接口定义清晰、功能区分度高的服务，这套方案能显著压缩上下文；对雷同业务多的系统，精挑细选的 MCP tool 定义可能仍更稳。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243239" target="_blank" rel="noopener noreferrer">今天刷到一个很好玩的东西， cloudflare/mcp-server-cloudflare</a></span><span class="topic-stats">回复 3 · 收藏 8</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243277" markdown="1">
+<summary>
+<span class="topic-rank">18</span>
+<span class="topic-title">上海电信229套餐升级：关闭云网关保留公网IP</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+上海电信（021）用户将 3 年前办理的美好家 229 老套餐升级为新版 229 套餐，月费不变，宽带由 1000M/100M 提升至 2000M/300M，手机流量由 100G 提升至 300G。升级后公网 IP 成功保留，实测上行达到 300M。
+
+### 关键要点
+- **保留公网 IP 的关键操作**：办理时明确要求业务员关闭“云网关”。若不主动关闭，升级后可能默认开启并分配内网 IP。
+- 光猫已是 2.5G 型号则无需更换；本次仅上门安装一个电信智能设备。
+- 办理后电信后台会重启光猫，公网 IP 仍在；Lucky 反代约 20 分钟后重新识别新 IP，服务恢复。
+- 用户采用光猫改桥接、软路由拨号，未使用电信 FTTR 设备。
+
+### 评论补充
+- 有用户指出公网 IP 与宽带账号绑定，账号不变通常不会掉（坐标 028）。
+- 另有用户分享类似经历：办理时要求将云宽带绑定到手机号而非宽带账号，可避免变成云宽带，公网与精品网均未掉。
+- 021 可直接在电信 App 找客服申请动态公网 IPv4；其他地区公网 IP 获取难度较大。
+- 有评论提到 229 套餐副卡收费情况可能变化，需以当地营业厅为准。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243277" target="_blank" rel="noopener noreferrer">电信美好家 229 老套餐换美好家 229 新套餐，安全换车，公网 IP 成功保留</a></span><span class="topic-stats">回复 13 · 收藏 1</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243300" markdown="1">
 <summary>
 <span class="topic-rank">19</span>
-<span class="topic-title">持续同步官方的 A Tour of Go 中文版及多语言项目</span>
+<span class="topic-title">Cursor 20/60 美元套餐 Grok 额度实测与换算</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -592,33 +609,29 @@ Zingage（美国 AI 初创公司，红杉资本支持，官网 https://zingage.c
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-作者维护了一个持续跟随官方上游更新的 A Tour of Go 简体中文版，并逐步扩展为多语言项目。起因是原社区中文站已无法访问，且仍有用户搜索相关中文内容。
-
-- 在线访问：https://go-dev.shuijingwanwq.com/
-- 源码与反馈：https://github.com/shuijingwan/go-tour-i18n ，Issue 见 https://github.com/shuijingwan/go-tour-i18n/issues
+有用户因 Codex 套餐不够用，想了解 Cursor 20 美元与 60 美元套餐的 Grok 额度。评论给出了多组实测与换算数据，但官方额度并不完全透明，结论以经验值为主。
 
 ### 关键要点
-- 难点不在翻译本身，而在于不能因本地化被改动的部分：Go 代码与标识符、URL 与链接、Markdown 结构、页面指令、示例文件、特定术语、页面结构与导航关系。
-- 维护流程：同步官方上游 → 术语约束 → TranslationUnit 本地化 → 自动校验 → 人工语言质量审核 → Locale Surface Review → 浏览器验收 → 生产发布。
-- 项目以官方 A Tour of Go 为上游，目标是避免旧社区翻译“停在原地”的问题，定位为长期维护的软件项目而非静态快照。
-- 简体中文、法语、德语、韩语 4 门翻译已进入 Go 官方 A Tour of Go 语言列表，官方入口：https://go.dev/tour/welcome/2
-- 多语言共享同一套上游同步、质量检查、浏览器验收与发布工具链，降低新增语言的维护成本。
+- **20 美元套餐（Pro）**：有用户实测约 7 亿 token（两个月）；纯用 grok-4.6 high fast 约 3 亿 token；用满约 5 亿 token。另有说法称 20 美元对应 450 美元额度、约 70M grok-4.6。
+- **60 美元套餐（Pro Plus）**：官方明确为 20 美元的三倍；有说法称第一方模型 1200 美元、第三方模型 70 美元，20 美元推测为第一方 400 美元、第三方 20 美元。
+- **模型价格**：grok-4.6 输入 2 美元、输出 6 美元，开启 fast 价格翻倍。
+- **使用建议**：多位用户建议不要开 fast，否则额度消耗明显加快；重度使用可考虑 200 美元档。
 
 ### 评论补充
-该主题暂无回复，以上信息均来自主帖正文。作者欢迎反馈翻译不自然、术语问题、内容与官方不一致、代码示例异常及页面 Bug，并更看重真实使用者与反馈而非单纯增加语言数量。
+有用户认为 Cursor 额度相对透明，60 美元明确是 20 美元三倍；也有用户反馈 30 美元 SuperGrok 额度甚至不如 20 美元 ChatGPT Plus。关于 SuperGrok 与 Cursor Pro 哪个量多，评论倾向 Cursor。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243119" target="_blank" rel="noopener noreferrer">做了一个持续同步官方的 A Tour of Go 中文版，也逐渐扩展成了多语言项目</a></span><span class="topic-stats">回复 0 · 收藏 1</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243300" target="_blank" rel="noopener noreferrer">cursor grok 额度</a></span><span class="topic-stats">回复 20 · 收藏 1</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1243087" markdown="1">
+<details class="topic-card" data-topic-id="1243464" markdown="1">
 <summary>
 <span class="topic-rank">20</span>
-<span class="topic-title">TypeSafe Jev：专做结构化决策的 AI 模型</span>
+<span class="topic-title">《兔子波比5》网页重制版：TypeScript 重写引擎并开源</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -626,20 +639,276 @@ Zingage（美国 AI 初创公司，红杉资本支持，官网 https://zingage.c
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-TypeSafe AI 推出的 Jev 与 GPT、Claude 这类通用大模型思路不同：它不主打聊天和长文本生成，而是专注**结构化决策**——用户预先定义好选项，模型返回每个选项的评分与概率，例如 `PASS 0.92 / FAIL 0.06 / NEEDS_REVIEW 0.02`。官方公布性能最高可达 **250K tokens/s、1,200 RPM**。
+作者因喜爱《兔子波比 5》且网上仅有原版 10 个 jar 包和模拟器，用 TypeScript 从零重写引擎，将游戏搬到网页，仅复用原版资源文件。项目已开源，游玩入口为 https://bc5r.xujinkai.net ，仓库在 https://github.com/XUJINKAI/bobby-carrot-5-remake 。
 
 ### 关键要点
-- 适用场景：AI Agent、任务路由、内容分类、自动审核、风险判断等需要大量简单判断的环节。
-- 与带 constrained decoding 的 LLM 的差异（作者观点）：LLM 负责复杂推理与生成，Jev 负责大量简单但需 AI 判断的任务，二者互补。
-- Agent 设计思路：把任务拆成“代码 + 小判断 + 大模型推理 + Tool”，而非全部交给一个大 LLM。
-- 图像场景定位：视觉模型提取信息 → Jev 分类打分或选路径 → 程序执行或转人工；Jev 不直接处理图像，价值在“判断之后走哪条流程”。
+- 引擎扩展了推箱子、传送门、双兔成行等新层级与机制。
+- 提供录像功能，可记录关卡过法或加载内置地图过法。
+- 内置地图编辑器，支持编辑原有关卡或自制新地图。
+- 分享功能可生成带地图数据的链接，或生成内嵌代码嵌入其他网站。
+- 附带调试工具与逆向工具：可解码原版 jar 包，也能把自制地图打包回原版 jar 用模拟器验证。
+- 支持现代/8bit 音乐无缝切换、中英双语、多主题。
 
 ### 评论补充
-有回复质疑其相对 constrained decoding 的优势，作者以任务拆分与 Agent Harness 契合度作答；另有回复提出可用于德州扑克等由大模型给策略、Jev 执行动作的场景。作者提醒：实际效果仍需用自己的样本验证，少量图片场景接入整套流程可能不划算。
+有用户试玩后表示“挺上头”，并打算 clone 到本地深入体验，还提出能否用 AI 对原始素材做高清化。另有老玩家称 12345 都通关过，曾找过旧 jar 但已无法运行，说明该重制版解决了旧资源不可玩的问题。作者补充这是近 20 年前、面向三星或诺基亚 320x240 屏幕的游戏。
+
+### 限制
+作者自述项目尚不完善，个别机关可能有问题；目前第一章关卡有通关录像，可确认能通过。开发成本约 200 美元加一个月时间。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243087" target="_blank" rel="noopener noreferrer">今天新出的挺有意思的 AI 模型： TypeSafe Jev</a></span><span class="topic-stats">回复 8 · 收藏 0</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243464" target="_blank" rel="noopener noreferrer">网页版的《兔子波比 5》重制版，非模拟器， TypeScript 重写的引擎</a></span><span class="topic-stats">回复 7 · 收藏 2</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243253" markdown="1">
+<summary>
+<span class="topic-rank">21</span>
+<span class="topic-title">jev-compact：为 Codex /compact 加 Jev 裁判保留关键工具输出</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+Codex 在上下文满触发压缩（或手动 `/compact`）后，内建摘要会无差别转述，无法识别哪条工具输出是承重的。测试结果、报错栈常被压成一句“测试全部通过”，模型据此继续干活或重跑工具，费时费 token，且用户不知丢了什么。
+
+作者参考 Claude Code 的 fast-jev-compaction（tamaratran 写），其思路是压缩前用 TypeSafe 的 Jev 模型给消息打分，hook 直接返回新消息列表替换压缩产物，实现无损。但 Codex 的 hook 协议不支持：`PreCompact` 只能放行或拦停压缩，没有字段提交自定义结果。
+
+### 关键要点
+- 新方案 jev-compact 分两步：`PreCompact` hook 把 transcript 中工具调用逐个发给 Jev 打分（判断调用是否重要、输出是否需逐字保留），裁决落盘后照常放行压缩。
+- 压缩完成后 `SessionStart` hook 用存档对照结果，以 `call_id` / `sha256` / 头部子串三级判定哪些高分输出被丢，把原文塞回下一轮请求。
+- 效果：摘要照跑，但 Jev 标记必须逐字保留的内容丢不掉。
+- 安装：`codex plugin marketplace add https://github.com/fatelei/jev-compact.git`，再 `codex plugin add jev-compact@fast-jev`，TUI 批准 hooks，配置 `TYPESAFE_API_KEY`。
+- 仓库：https://github.com/fatelei/jev-compact
+
+### 评论补充
+该主题暂无回复，缺少第三方验证与实测数据，效果与稳定性待核验。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243253" target="_blank" rel="noopener noreferrer">jev-compact：给 Codex /compact 加个 Jev 裁判，重要工具输出不再被摘要弄丢</a></span><span class="topic-stats">回复 0 · 收藏 4</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243324" markdown="1">
+<summary>
+<span class="topic-rank">22</span>
+<span class="topic-title">MacOS 27 鼠标双击概率失效，多用户复现</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+有用户报告 MacOS 27（M1 Pro，从 beta 到正式版）存在鼠标双击概率失效的问题：在 Finder 中以小图标列表竖排显示文件夹时，先单击选中第一个文件夹，再快速（体感不到 1 秒）移动到下一个文件夹双击，双击大概率不响应，退化为单击。触摸板与鼠标均可稳定复现，系统设置中的 mouse double-click speed 调至中间左右、左右调整均无明显改善。
+
+### 关键要点
+- 触发条件：Finder 小图标列表视图下，选中一个文件夹后快速双击下一个文件夹。
+- 影响范围：鼠标与触摸板均可复现，非单一外设故障。
+- 设置项 `mouse double-click speed` 调整无效。
+- 多位回复者确认遇到同样问题，有人误判为鼠标损坏甚至购买新鼠标。
+
+### 评论补充
+多名用户（sparkcc、lxms2021、edinina、ab、b1、xvvayqi 等）表示有相同现象，说明更可能是系统层面的问题而非硬件故障。发帖人据此判断无需重装系统，等待官方修复即可。另有用户提到每次大版本更新都会出现问题，经验是等一等再升级。目前评论中未出现有效的解决办法。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243324" target="_blank" rel="noopener noreferrer">MacOS27 鼠标双击概率失效</a></span><span class="topic-stats">回复 11 · 收藏 2</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243251" markdown="1">
+<summary>
+<span class="topic-rank">23</span>
+<span class="topic-title">Apple Watch Ultra 4 跑步距离偏差：5公里被记为5.6公里</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+有用户入手国行 Apple Watch Ultra 4（未开通 eSIM），在室外公园跑步 5 公里时，手表记录为 5.6 公里，而高驰 Pace3 与手机 GPS 测量基本一致，偏差约 12%。发帖人怀疑苹果手表跑步精度不足，并表示会多跑几次再对比。
+
+### 关键要点
+- 多位用户反馈 Apple Watch 距离/配速偏差并非个例：Ultra 2、S12 也有类似情况，但心率测量普遍被认为较准。
+- 有观点认为若对配速和成绩有要求，佳明、高驰等专业跑表更合适；只看心率区间做有氧慢跑则影响不大。
+- 卡路里估算基于心率，心肺能力提升后，即使做功与配速相同，估算偏差也会变大。
+- 有用户称从 S6 到 S11 跑步时心率、血氧、距离、轨迹都较准，说明个体与环境差异可能存在。
+- 环境因素（高楼、树木遮挡）可能影响 GPS 精度，建议多次跑步取平均值再判断。
+
+### 评论补充
+有回复提到 S12 的绕圈路线图显示轨迹不再弯绕，怀疑硬件精度有提升，但不确定 Ultra 4 是否同样受益。另有用户反馈控制中心按钮存在“咔哒”异响，前几代也有类似案例。整体共识是：Apple Watch 运动功能够用但非专业级，精度问题需结合场景多次验证。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243251" target="_blank" rel="noopener noreferrer">Apple watch ultra4 到手了，国行版本的，没有开通 esim</a></span><span class="topic-stats">回复 17 · 收藏 1</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243281" markdown="1">
+<summary>
+<span class="topic-rank">24</span>
+<span class="topic-title">12月底粤北单人摩旅露营：装备与营地经验</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+楼主计划 12 月底单人摩旅露营，目的地为南岭森林公园至乳源一带，1–2 晚，想找安静、人少、有深山感的营地，并求帐篷推荐。回复集中在**低温高湿风险**与**过夜装备清单**两点。
+
+### 关键要点
+- **天气是最大变量**：有回复者国庆在广东第二峰石韭坑顶露营，夜间湿度大、风大；12 月底更安静但更冷。另有骑行者从深圳到连州，晚 9 点被冻到“要哭”。
+- **装备清单**：睡袋（按温标选）、防潮垫/防水垫、地布（比内帐小一圈）、充气床垫、主灯、雨罩与雨衣；帐篷可选牧高笛、挪客等常见品牌，徒步帐篷即可。
+- **营地选择**：想看水可考虑南水湖；注意营地是否有定时“警告”播报喇叭，会整夜影响睡眠。
+- **路线提示**：走下坪溪村上第一峰可免门票，路况不难。
+- **风险提醒**：无露营经验者不建议直接进山过夜，太冷时夜间下山危险；也可考虑付费自搭营地。
+
+### 评论补充
+有回复建议带身份证以备意外识别身份，并调侃“不如住店”；关于治安与猛兽，楼主认为华南无猛兽、治安尚可。找营地可参考“窝友”类应用，注意贵重物品。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243281" target="_blank" rel="noopener noreferrer">有无摩旅露营过的朋友</a></span><span class="topic-stats">回复 16 · 收藏 1</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243367" markdown="1">
+<summary>
+<span class="topic-rank">25</span>
+<span class="topic-title">社保公积金按社平基数而非月薪缴纳是否普遍</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+有用户拿到上海 offer，约定月薪 20k，但 offer 写明社保和公积金按 5% 比例、以城市居民平均基数（约 12k）缴纳。向 HR 反映后对方改口称可按月薪作为基数。发帖人质疑这种做法是否合规、是否普遍。
+
+### 关键要点
+- **合规口径**：有回复指出，正规公司通常按上一年度全部工资收入的月平均额确定缴费基数；若月平均超过当地社平工资 3 倍，则按社平 3 倍上限缴纳。
+- **普遍现象**：多位回复者表示，中小企业按当地最低工资基数缴纳是常态，甚至存在固定 5K、只交社保不交公积金、缺交少交的情况。
+- **地区差异**：广州有按最低工资 2500 缴纳的案例；杭州此前常见社保 5000、公积金 2500 的基数。
+- **跳槽首年**：有观点认为刚入职没有上一年参考，按平均基数缴纳较常见，之后是否调整取决于公司。
+- **可协商空间**：有案例显示上海某公司允许员工在最低基数到最高月 base 之间自选，公积金按 base 的 7%+7% 缴纳。
+
+### 评论补充
+- 按全额缴纳会显著增加公司用人成本，部分外包在成本固定时可能通过降薪或削减其他福利来对冲。
+- 建议确认 offer 中其他承诺（如月薪、福利）是否因基数调整而缩水。
+- 若月薪超过社平 3 倍，按 3 倍上限缴纳属于规则允许范围，并非一律违规。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243367" target="_blank" rel="noopener noreferrer">缴纳五险一金时不用月 base，而是基于平均社保基数来计算，这个在企业当中是普遍存在的吗？</a></span><span class="topic-stats">回复 9 · 收藏 0</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243328" markdown="1">
+<summary>
+<span class="topic-rank">26</span>
+<span class="topic-title">Codex 与 Claude Code 跨 Agent 上下文交接方法</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+提问者同时使用 Codex 和 Claude Code（GLM/DS 等 API），但 Claude Code 无法获知 Codex 记住的内容，尤其是一个会话涉及两三个代码仓库时。讨论给出的核心方案是**用文档做交接**，而非依赖模型间自动共享记忆。
+
+### 关键要点
+- 在 Codex 侧用 `/handoff` 或让模型写交接文档（handoff），记录要点，再由下一个 agent 阅读。
+- 同一 agent 的不同会话之间也可用同样方式交接。
+- 全局记忆通常写在 `memory.md` 等 Markdown 文件中，可主动让 Claude 读取；部分情况下 agent 会默认共享。
+- 临时方案：把项目名或 session id 交给 Claude，让它自行读取并解析 Codex 的数据文件。
+- 有回复提到可用 `agent sessions` 等关键词搜索相关工具，并给出轻量项目 https://github.com/nicknisi/sessions。
+
+### 评论补充
+有用户指出，一个会话包含多个仓库时 Codex 表现更好，Claude 似乎未针对该场景优化。另有实践者反馈，模型常在 handoff 前就“力竭”，建议在剩余约 10% 上下文时提前提醒写交接文档。整体共识是：正经做法应设计多 agent 协同流程，让 agent 主动产出交接文档，而非临时读取。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243328" target="_blank" rel="noopener noreferrer">请问 Codex (ChatGPT) 的上下文和记忆如何给 Claude Code 使用?</a></span><span class="topic-stats">回复 10 · 收藏 1</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243356" markdown="1">
+<summary>
+<span class="topic-rank">27</span>
+<span class="topic-title">iOS 端 ChatGPT $200 套餐订阅入口未开放</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+有用户发现 iOS 端 ChatGPT 仍未开放 $200 套餐订阅入口，网页端此前订阅过的账号才可能看到升级选项。多位回复者验证了这一现象，并补充了触发条件与限制。
+
+### 关键要点
+- 有说法称需**逐步订阅**：先买 $20 才显示 $100，买了 $100 才显示 $200（@SeduceQAQ）。
+- 但多人反驳：这波恢复**仅网页端可用**，iOS 订阅的账号即使已订 $100 仍显示升级不可用（@autumncry、@sherlockgy）。
+- 入口可能只对**此前订阅过 20X 的账号**开放；从未订过 20X 的账号仍看不到（@LittleControl、@Vancion）。
+- 20X 已停售，此前订阅过的账号或有 30 天重新订阅窗口，但恢复也需在网页端绑卡（@xingfu0539、@sherlockgy）。
+- Google Play 订阅同样未见入口（@Mystery0）。
+
+### 评论补充
+有回复提到可通过脚本走苹果商店强开，但发帖人指出需越狱设备抓包，门槛较高（@fengci、@Jafee）。整体看，iOS 端 $200 套餐入口尚未对普通用户放开，网页端是当前可行路径。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243356" target="_blank" rel="noopener noreferrer">似乎并没有放开 iOS ChatGPT $200 套餐的订阅?</a></span><span class="topic-stats">回复 12 · 收藏 0</span></p>
+
+</div>
+
+</details>
+
+<details class="topic-card" data-topic-id="1243344" markdown="1">
+<summary>
+<span class="topic-rank">28</span>
+<span class="topic-title">基于机密计算的 LLM 推理服务商整理与原理讨论</span>
+</summary>
+
+<div class="topic-content" markdown="1">
+
+<div class="topic-article" markdown="1">
+
+### 核心内容
+主帖整理了多家以机密计算（TEE）和端到端加密为卖点的 LLM 推理服务商，用于规避 AI 公司滥用用户提示词的风险。作者列举了 Grok Build、ZCode、Claude Code 等 coding agent 的数据上传或后门事件，指出「不用提示词训练」「零数据留存」等承诺缺乏监督手段。
+
+### 关键要点
+- **Chutes**：入驻 OpenRouter，支持 Kimi K3、GLM 5.2、DeepSeek V4 0731、Qwen 3.8 27B，有 $10→$50、$20→$100 套餐；据称可靠性偏低。
+- **Phala**：入驻 OpenRouter，模型更全，但无省钱套餐。
+- **Near AI**：TEE 模型少，仅 GLM 5.3 Flash、Qwen 3.8 27B、Kimi K3，无套餐，Kimi K3 价格无优势。
+- **PrivateMode / Tinfoil / Venice**：模型较少或相对官方渠道加价，Venice 套餐补贴少。
+- 上述端到端加密需用户在本地运行 API 中转；适合接受开放权重模型、按量付费的用户。
+
+### 评论补充
+有回复质疑端到端加密的实际保护力：推理时模型仍需解密，服务商理论上仍可接触数据。作者回应称，需同时满足两点——推理代码运行在硬件保证机密性的 TEE 中（Intel、NVIDIA 提供，PCIe 总线加密），且用户本地中转与 TEE 间端到端加密；用户可用密码学方法验证代码运行于 TEE 且与公开版本一致。另有评论指出，这依赖对 Intel/AMD/NVIDIA 芯片与固件无后门漏洞的信任，并提到百炼也有机密推理服务但未对公众开放。
+
+</div>
+
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1243344" target="_blank" rel="noopener noreferrer">基于机密计算的 LLM 推理商</a></span><span class="topic-stats">回复 10 · 收藏 0</span></p>
 
 </div>
 
