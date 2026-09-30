@@ -3,24 +3,24 @@ layout: report-home
 title: "V2EX 每日热点回顾"
 permalink: /latest/
 status: success
-target_date: 2026-09-28
-generated_at: "2026-09-29 09:47:54"
-summary: "昨日主题 279 个，过滤 179 个，DeepSeek 分析 100 个，保留高价值内容 31 个。"
-count_all: 279
-count_excluded: 179
+target_date: 2026-09-29
+generated_at: "2026-09-30 09:16:32"
+summary: "昨日主题 285 个，过滤 185 个，DeepSeek 分析 100 个，保留高价值内容 19 个。"
+count_all: 285
+count_excluded: 185
 count_included: 100
 count_high_signal: 0
-count_valuable: 31
-report_url: "/2026/09/28/"
-data_url: "/data/2026-09-28.json"
+count_valuable: 19
+report_url: "/2026/09/29/"
+data_url: "/data/2026-09-29.json"
 ---
 
-# V2EX 2026-09-28 昨日新帖报告
+# V2EX 2026-09-29 昨日新帖报告
 
-<details class="topic-card" data-topic-id="1245140" markdown="1">
+<details class="topic-card" data-topic-id="1245430" markdown="1">
 <summary>
 <span class="topic-rank">1</span>
-<span class="topic-title">AI订阅额度提前重置到底亏不亏：用量节奏决定盈亏</span>
+<span class="topic-title">雨天两轮电瓶车通勤：30分钟对比开车1小时</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -28,29 +28,29 @@ data_url: "/data/2026-09-28.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-楼主认为，Plus/Pro 订阅在月内提前重置额度不会造成损失：若原周期本就能覆盖工作，重置无影响；若原周期不够用，提前重置反而能提前重启、减少暂停时间。他用“餐馆套餐被提前换新”作比喻，质疑“重置会亏”的想法。
+楼主对比雨天通勤方式：骑电瓶车 30 分钟到公司，开车 1 小时，地铁排队排到站外，因此认为雨天骑电瓶车反而更快。评论普遍认可城市短途通勤中两轮车的效率优势，但集中指出雨天湿滑、雨具麻烦和安全风险。
 
 ### 关键要点
-- 反对者给出量化判断：**只要重置前已用额度低于“已过天数 × 周额度/7”，就是亏的**；高于日均用量才赚，等于日均则不亏不赚。
-- 亏损来自节奏被打乱：有人计划把额度留到后段集中使用，提前重置会让后段只剩新周期的少量额度，反而无法安排工作。
-- 有评论指出，OpenAI 可能缩减了每用户额度，再以“重置卡”形式在服务器空闲时返还，把固定额度变成不定期重置，打乱用户工作与生活节奏。
-- 另一类观点认为，这本质是营销手段而非善意：复杂规则（5H、7天、1个月）加随机重置，目的是挽回声誉同时维持付费。
+- **效率与停车**：多位回复认同雨天开车更堵、停车位更少，电瓶车不用考虑停车问题。
+- **雨具方案**：买质量好的雨衣，并在车上常备雨鞋，可显著减少淋湿。
+- **续航参考**：4000 元上下不改装约 50km；加几百换大电池约 70km；额外上锂电约 100–120km。72V 电池可按约 2km/Ah 估算。
+- **安全风险**：有回复称雨天急刹已摔车两次并进医院，建议控制车速（如 20 码）、选购带 ABS/TCS 的车型。
 
 ### 评论补充
-分歧集中在“额度是否减少”与“使用节奏是否重要”。楼主坚持总额度未减、重置只是让干不完的时间点移位；多位回复者则强调，额度只有在需要时够用才有价值，提前重置会破坏原定计划。也有用户表示，若上限不变则无所谓，自己按额度多少调整用量即可。
+分歧在于雨天是否值得骑：一方认为慢骑也比堵在路上快，另一方表示宁愿在四轮里吹空调堵车。另有回复提到小牛 U3 Max 48V48Ah 官方续航 160km，秋冬实际约 100km，20km/天约四天充一次。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245140" target="_blank" rel="noopener noreferrer">我实在是无法理解认为重置周期时间会亏这种想法</a></span><span class="topic-stats">回复 187 · 收藏 4</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245430" target="_blank" rel="noopener noreferrer">我发现下雨天两轮电瓶车才是最优解</a></span><span class="topic-stats">回复 119 · 收藏 6</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245193" markdown="1">
+<details class="topic-card" data-topic-id="1245417" markdown="1">
 <summary>
 <span class="topic-rank">2</span>
-<span class="topic-title">雄脱三年戴假发经验：实体店首顶与淘宝毛坯方案</span>
+<span class="topic-title">蛋白粉涨价后改用鸡蛋补蛋白：成本与实操</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -58,29 +58,29 @@ data_url: "/data/2026-09-28.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-作者为雄脱，2023 年在杭州三甲医院就诊，医生给出植发、吃药、假发三条路径。作者选择假发，认为其立竿见影、成本与时间最折中，并分享了三年实操经验。
+作者因蛋白粉价格普遍上涨，改用日常饮食补蛋白：按自身体重测算，每天用 **2 个全蛋 + 6～8 个蛋清**（合计 8～10 个蛋）补足蛋白缺口，替换后每月可省数百元。已坚持 4 个多月，工作日基本每天 8 个鸡蛋左右。
 
 ### 关键要点
-- **三种方案对比**：植发需后脑勺毛囊、治标不治本且贵、有成活率问题；吃药有副作用、效果一般、需长期坚持；假发即时见效，主要门槛是心理接受。
-- **购买路径**：第一顶建议去本地实体店（抖音同城可搜），价格约 3-4k，能保证合适；后续可在淘宝买毛坯，约 600 元，让理发师照着修剪即可。
-- **佩戴方式**：全粘需剃成地中海，舒适度高但取下难看；作者最终用前粘后夹，保留头发、只修剪额头前部。
-- **社交建议**：确认关系前再告知戴假发，先让对方完整认识本人；假发只解决第一印象。
+- 方案优势是成本更低；代价是只吃蛋清口感单调、准备耗时。
+- 全蛋提供脂肪、卵磷脂和多种维生素；蛋清几乎只有蛋白质、脂肪很低，适合减脂期。
+- 实操：公司放蒸蛋器，到岗先蒸蛋；也可早餐店买茶叶蛋，但评论提醒茶叶蛋钠含量高，补蛋白更推荐清水煮蛋。
+- 替代品讨论：酵母蛋白粉更便宜但被反馈难喝；鸡胸肉被认为是最便宜的蛋白来源，但需腌制和煎制，火候不易控制。
 
 ### 评论补充
-有用户正在用非那雄胺+米诺地尔，5 个月长出小绒毛，但被提醒停药后可能复脱。植发效果因人而异，取决于原生毛囊健康度。出汗多、头皮出油多者反映下午可能粘不住，作者称室内工作影响不大。
+有回复指出鸡蛋本身也在涨价（从年初四五毛涨到七八毛一个），算下来未必比蛋白粉便宜多少，成本优势需按当地价格核算。多人反馈长期大量吃蛋容易吃腻、难坚持；也有人提醒血脂或胆固醇偏高者不宜大量吃全蛋。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245193" target="_blank" rel="noopener noreferrer">戴假发已经三年了，分享给脱发的兄弟一些经验~</a></span><span class="topic-stats">回复 76 · 收藏 29</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245417" target="_blank" rel="noopener noreferrer">蛋白粉换鸡蛋补充蛋白的经历</a></span><span class="topic-stats">回复 76 · 收藏 13</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245227" markdown="1">
+<details class="topic-card" data-topic-id="1245413" markdown="1">
 <summary>
 <span class="topic-rank">3</span>
-<span class="topic-title">2026配镜价格与防蓝光镜片经验分享</span>
+<span class="topic-title">国庆北京故宫国博没约上，替代景点与约票经验</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -88,29 +88,29 @@ data_url: "/data/2026-09-28.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-2026 年线下眼镜店蔡司报价明显松动：往年需砍价才能到 3 折至 4 折，今年店家直接开价 3.5 折。发帖人想配一副仅看屏幕用的防蓝光镜片，并询问依视路防蓝光是否比蔡司更值得选。
+国庆期间故宫、国博约不上是常见情况，主帖询问替代景点和一人食美食，评论给出了约票技巧、替代路线和餐饮建议。
 
 ### 关键要点
-- **价格渠道**：拼多多百亿补贴依视路钻晶膜岩 1.56 两片约 136 元；丹阳蔡司泽锐铂金膜约 2 折、六百多元，加暴龙镜框共约 1100 元；有回复称按参数在 PDD 可做到 2 折多。
-- **防蓝光争议**：有回复引用美国眼科学会观点，认为蓝光过滤产品不能缓解眼疲劳，眼疲劳主要来自长时间盯屏导致眨眼减少和近距离聚焦；也有人认为防蓝光是智商税，且镜片会明显偏暗。
-- **验光与加工**：线下验光、线上定制是常见组合；纯电商配镜无法现场试戴，验光报告与实际体感可能有差异。有回复提到蔡司验光所需参数比医院多，且医院通常不给瞳距。
-- **替代渠道**：写字楼眼镜店靠网络引流、价格低于街边店；丹阳连锁批发价低；JINS 可在线下单但需自备视力数据。
+- **约票技巧**：国博放票是分批次的，开票被秒后仍会间隔几分钟放一批，可边看电视边刷 40 多分钟；也可在放票时间反复查看，有人取消预约后会漏票。现场前 2 天人多，收假当天反而好约。
+- **替代景点**：景山公园可远望故宫；天坛公园西门进人少空旷，可散步至永定门中轴线起点；奥森、国家植物园、首钢园、八大处、香山、798、环球影城、天文馆、军博等均可考虑。
+- **长城**：建议去慕田峪，附近可吃虹鳟鱼。
+- **美食**：北京烤鸭一个人也吃得完，别点其他菜；铜锅涮肉不必挤前门游客区；可尝试各地驻京办。
 
 ### 评论补充
-有用户线下配豪雅，认为与蔡司、依视路、明月体感差别不大；也有人 140 元淘宝定制戴两年，度数未加深，对千元眼镜祛魅。另有回复提醒山姆配镜验光仪器与人员专业性存疑。
+有回复提到可花钱买特展或团票进故宫，或找黄牛每张多花 30 元；也有观点认为国庆人太多，体验差，建议避开暑假和国庆。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245227" target="_blank" rel="noopener noreferrer">26 年配眼镜分享</a></span><span class="topic-stats">回复 51 · 收藏 34</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245413" target="_blank" rel="noopener noreferrer">国庆到北京，故宫国博都没约上</a></span><span class="topic-stats">回复 66 · 收藏 15</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245226" markdown="1">
+<details class="topic-card" data-topic-id="1245507" markdown="1">
 <summary>
 <span class="topic-rank">4</span>
-<span class="topic-title">国企二级子公司将绩效提至80%，口头调薪变相降薪</span>
+<span class="topic-title">农村邻居硬化花坛搭雨棚，如何投诉维权</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -118,29 +118,31 @@ data_url: "/data/2026-09-28.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-有用户反映，其女友所在的国企二级子公司将绩效工资占比从较低水平大幅提高到工资的 80%，导致上月到手收入只剩原先的一半多一点，后续会议还提出继续加大绩效占比。调整仅口头通知、未发文，也没有工资条，向人力询问被推给领导，领导则以“绩效不好要自己找问题”回应。发帖者判断这是变相逼人走，已开始骑驴找马。
+楼主所在新农村按规划划分宅基地，房前有单行道、花坛与人行道。前邻用一上午把花坛硬化、立 8 根钢柱搭雨棚，楼主担心停车开门撞柱、隐私受影响、杂物堆积，要求拆棚恢复花坛或封堵后门，但大队干部一直和稀泥。
 
 ### 关键要点
-- **识别信号**：绩效占比骤升、到手收入腰斩、只口头通知不留书面文件，实质接近降薪。
-- **证据留存**：多位回复建议保留工资单、银行流水、聊天记录等，为后续维权做准备。
-- **国企分层**：二级、三级子公司市场化程度高，可被裁撤，稳定性与编内岗位差距大；电网等体系内编内与编外待遇、保障也完全不同。
-- **风险认知**：有回复提醒，编制也未必绝对稳定，好身体与随时能换工作的能力更关键。
+- **先查规划图**：多位回复指出，若花坛在规划图内，对方必须拆除；若只是自家屋后与公共道路之间的空地，则难以追责。
+- **是否占公共道路是分界**：评论普遍认为图中未侵占公共道路，因此拆棚、封后门都不现实。
+- **投诉路径**：可向村委、乡镇或自然资源/城管部门反映，但前提是能证明该地块属公共规划用途。
+- **风险提示**：农村占地纠纷易激化，有回复提醒“闹出人命的案例不少”，对方若不好商量，需权衡成本。
 
 ### 评论补充
-讨论普遍认为问题根源是企业缺钱，而非单纯管理手段；也有观点指出这类子公司常聚集关系户与临近退休人员，钱少事多规矩大，不应被“国企”名头误导。
+多数回复认为邻居只是处理自家后门区域，不算侵占；也有回复建议对等处理，如自家院墙外移或也开后门。少数支持楼主，认为应查规划图确认用途后再投诉。
+
+**结论**：能否维权取决于该地块是否在规划图内被划为公共花坛；否则投诉成功率低，需谨慎评估邻里冲突风险。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245226" target="_blank" rel="noopener noreferrer">国企也换着法子逼人走了</a></span><span class="topic-stats">回复 50 · 收藏 8</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245507" target="_blank" rel="noopener noreferrer">农村私自搭建雨棚，硬化公共路面，怎么投诉？</a></span><span class="topic-stats">回复 92 · 收藏 0</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245186" markdown="1">
+<details class="topic-card" data-topic-id="1245495" markdown="1">
 <summary>
 <span class="topic-rank">5</span>
-<span class="topic-title">免费大模型 API 整理：Google AI Studio、Ollama Cloud 等</span>
+<span class="topic-title">Apple Watch Ultra 4 一周实测：跑步机距离优于佳明 255</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -148,34 +150,30 @@ data_url: "/data/2026-09-28.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-作者整理了多个可免费调用的大模型 API 渠道，并给出个人实测推荐，适合翻译、图片信息识别与提取等场景。
+作者此前因 Apple Watch 跑步心率失真，购入佳明 255 双持。换用 Apple Watch Ultra 4 一周后，在跑步机上以 10.1 km/h（约 5'56 配速）跑 10 公里，左手 Ultra 4、右手佳明 255 同步记录，结论是日常训练已无必要双持。
 
 ### 关键要点
-- **Google AI Studio**：每账号提供 Gemini 免费档，按天重置，不同模型限额不同；Gemini 3.1/3.5 Flash Lite、Gemma 4 限制更宽松。
-- **Ollama Cloud**：需手机号验证，gemma4、gpt-oss:20b 等可免费用，约两周重置一次。
-- **OpenRouter**：仅 `:free` 后缀模型免费，新模型常限免，但速度与稳定性一般。
-- **Vercel AI Gateway**：Hobby 计划每月 5$ 免费额度，需绑卡验证。
-- **Cerebras**：速度快，但不支持中国用户注册使用。
-- **Cloudflare Workers AI**：每账号每天 10k 神经元，上手复杂，不建议新手。
-- **Groq**：速度极快但限额严重；另有 AMD Radeon Cloud、NVIDIA NIM 提供部分免费模型。
-
-作者个人推荐 Google AI Studio、Ollama Cloud、Vercel AI Gateway，完整清单见 https://rss.bz/zh/free-llm-apis 。
+- **距离**：Ultra 4 记录 10.01 公里、59 分 12 秒、平均配速 5'55；佳明 255 记录 10.49 公里、59 分 29 秒、平均配速 5'40，两者差 0.48 公里，Ultra 4 更接近跑步机读数。
+- **心率**：两块表平均心率均为 135，平均步频 191 与 194；近两次室内跑未再出现明显断连。
+- **准备指数**：佩戴约 6 天后出现，跑前为 8，结束后降至 6，1 小时后降至 5，说明其结合睡眠、运动与夜间生命体征动态变化。
+- **续航与充电**：满电约撑 3 天；16:41 充至 93%，跑 10 公里后 22:57 剩 84%，6 小时耗电 9%。充电很慢，国行被阉割。
+- **稳定性**：升级 watchOS 27.0.1 后，两天内未再遇到死机重启。
 
 ### 评论补充
-有用户提醒 **Google AI Studio 充钱后会失去免费额度**；另有用户指出 **Cerebras 目前仅提供 30 天免费试用**。针对实时翻译需求，作者建议用 Gemini 3.5 Flash Lite（每天免费 500 次请求）或 Vercel AI Gateway 的 flash 模型。
+有回复指出跑步机本身未必是标准，建议用标准操场跑道、树荫或城市 GPS 噪声大的场景复测轨迹；该用户称 S7 在操场 15 公里记录比 FR255 少约 2 公里。另有用户反馈 S12 跑步机 6 公里时机器已 6.68 公里，精度仍存疑。关于重量，多人表示 Ultra 偏重，运动时甩动不适，42mm S10 更轻。佳明 Connect 的 UI 与流畅度被普遍吐槽。作者补充：从均衡性看 Apple Watch 完胜，佳明软件交互离谱；冬季心率表现仍待验证。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245186" target="_blank" rel="noopener noreferrer">整理了部分免费大模型 API，有需要的可自取</a></span><span class="topic-stats">回复 9 · 收藏 16</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245495" target="_blank" rel="noopener noreferrer">Apple Watch Ultra 4 使用一周，应该不会双持佳明了</a></span><span class="topic-stats">回复 49 · 收藏 3</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245147" markdown="1">
+<details class="topic-card" data-topic-id="1245545" markdown="1">
 <summary>
 <span class="topic-rank">6</span>
-<span class="topic-title">Codex Plus 定时任务提前触发 5 小时额度重置</span>
+<span class="topic-title">青岛中秋三日游：景点打分与预约避坑指南</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -183,30 +181,31 @@ data_url: "/data/2026-09-28.json"
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，下一次刷新要等到 14 点，一天只能聊两轮。楼主 evan1 的做法是在 worker 或 Codex 的定时任务里，每天 6:00、11:00、16:00 各发一条内容为 `111` 的消息，提示词要求忽略技能、上下文和记忆、不要思考，仅用于触发额度消耗，从而把刷新时间提前。实测两天有效，不开电脑也能触发。
+作者中秋三天游青岛，按十分制给景点和餐厅打分，并补充预约、交通、住宿等实用信息。整体结论：青岛风景很吃天气，海边公园类体验最佳，部分景点需提前预约。
 
 ### 关键要点
-- 定时任务本质是主动消耗一次额度来启动 5 小时计时，把刷新点固定到上班前。
-- 按此节奏一天可用三轮，一周大致刚好消耗完两个 Plus 账号的周额度。
-- 有用户指出 Plus 只能创建 5 个定时任务，占用 3 个后仅剩 2 个可用。
-- 16:00 那次可省略，因为之后刷新点是 21:00，除非要跑跨两个窗口的大任务。
-- 有评论提到可用 CLI 工具 CCLimitPing（https://github.com/wavever/CCLimitPing）到点发请求触发计时，用最便宜模型且不在 Codex 留对话历史。
+- **高分景点**：海之恋 park 10 分（开阔海岸线、礁石、灯塔摩天轮，适合闲坐）；情人坝 9 分（一侧看水面、一侧看奥帆中心游艇，尽头白灯塔）；啤酒博物馆 9 分（建筑学院风，免费两杯啤酒评价极高，需尽早预约）。
+- **预约提醒**：啤酒博物馆最火爆须最先约；崂山南线（仰口-华严）需提前预约，作者买 130 元含返程大巴的票；海军博物馆也需预约。
+- **美食参考**：海乐海鲜家常菜（海军博物馆店）8 分，海肠捞饭很香，但实际打烊比美团写的 10 点早；波螺油子 8 分，海胆锅贴、芝士烤板栗南瓜好评；团岛农贸市场可买海鲜到二楼加工，司机称整体偏贵。
+- **交通与住宿**：青岛无共享单车，靠地铁公交打车；住五四广场延安三路地铁站附近格林豪泰，位置方便；坐地铁带水会被检查。
 
 ### 评论补充
-有用户实测额度消耗并不低，曾观察到一次掉 5 小时额度的 2%。也有人认为 5 小时限制本身不合理，担心未来 Pro 也采用同样机制。
+- 本地补充：可坐青岛旅游集团轮渡喂海鸥，晚上去中山路散步拍照；崂山本身一般，遇云海才值得爬；时间充裕可坐公交沿环海公路去仰口，或去黄岛九龙山路。
+- 作者补充：崂山出租车司机推荐巨峰，下雨天可去北九水看瀑布；崂山苏打水比屈臣氏好喝。
+- 有回复认为景点名称吸引力一般，但美食可参考。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245147" target="_blank" rel="noopener noreferrer">plus 账号自动重置 5 小时额度方法：在 woker 或者 codex 的定时任务里面创建定时任务。实测了两天，完全 ok。</a></span><span class="topic-stats">回复 18 · 收藏 10</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245545" target="_blank" rel="noopener noreferrer">青岛已回！</a></span><span class="topic-stats">回复 14 · 收藏 9</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245196" markdown="1">
+<details class="topic-card" data-topic-id="1245429" markdown="1">
 <summary>
 <span class="topic-rank">7</span>
-<span class="topic-title">杭州自驾日照青岛国庆攻略：赶海、看海与黄岛路线</span>
+<span class="topic-title">V2EX 未读消息提醒的几种实现方案</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -214,30 +213,29 @@ Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-楼主计划 9.30 中午从杭州城北自驾出发，1 号凌晨下日照高速省过路费，行程覆盖日照、青岛黄岛区，偏好赶海、赶集、看海拍照和 citywalk，不喜爬山、商场、古城与博物馆。酒店已定日照万达附近与黄岛海景房，5/6 号住宿未定。
+楼主为及时回帖，自建了一套 V2EX 未读消息推送方案：在 Cloudflare Worker 上部署接收通知的 Web 应用，Safari 添加到桌面变成 PWA 接收 iPhone 推送；脚本跑在自购 VPS 上（CF Worker 因 IP 被限流易 403），每 5 分钟轮询一次，有未读时通过应用服务 API 推送到手机。楼主自评方案偏笨，征询他人做法。
 
 ### 关键要点
-- **赶海**：青岛本地人建议花钱找人带，自己赶海抓不到东西也找不到地点；可用小程序「潮汐表精灵」查潮汐，巨潮时收获更好，务必提前半小时到一小时上岸，注意安全。
-- **看海选点**：金沙滩、银沙滩沙质更纯净，第一海水浴场不建议去；黄岛假期人相对少，市南则人山人海。
-- **黄岛骑行**：可在城市阳台租电动车往南骑，过风河后有长段人少沙滩，比唐岛湾舒服；沿途打捞船鱼腥味重可备口罩，新栈桥下可挖小螃蟹、寄居蟹。
-- **海鲜**：日照海鲜便宜不坑人；青岛海鲜不便宜，本地人买也不便宜。
-- **餐饮**：城市阳台附近「渔小馆海味疙瘩汤」推荐芸豆蛤蜊肉疙瘩汤和大鲅鱼水饺，其他菜一般且偏贵。
+- **现成方案**：V2EX Plus 浏览器插件支持未读、回复、点赞提醒；V2EX Polish 也可用；vvae.app 客户端正在内测通知推送。
+- **零成本方案**：`https://www.v2ex.com/notifications` 页面底部有 Atom Feed，直接订阅即可。
+- **轮询优化**：有回复建议 5 分钟轮询已够用，更值得做的是消息去重、请求失败退避和夜间免打扰，继续缩短间隔未必改善体验。
+- **接口事实**：楼主确认 V2EX 有可用 API，并非完全不开放。
 
 ### 评论补充
-有回复提醒 9.30 出发可能严重堵车，建议高铁到当地再租车；也有人认为黄岛安排 2 天 1 夜偏少。威海被提及但楼主因距离放弃。南京被部分回复评价一般，但楼主个人喜欢。
+多数回复认为 V2EX 并非实时交流工具，不必高频盯未读，随缘查看即可；也有人建议把抓取未读数并入每日签到日志，一天一次足够。楼主还自曝脚本只展示最新一条推送的 bug，可能漏消息。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245196" target="_blank" rel="noopener noreferrer">国庆打算杭州自驾去日照/青岛旅游，求攻略</a></span><span class="topic-stats">回复 43 · 收藏 4</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245429" target="_blank" rel="noopener noreferrer">V 站未读消息 提醒大家都是怎么查看的呀</a></span><span class="topic-stats">回复 33 · 收藏 1</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245270" markdown="1">
+<details class="topic-card" data-topic-id="1245610" markdown="1">
 <summary>
 <span class="topic-rank">8</span>
-<span class="topic-title">国内上架 App 的备案与审核难点及平台选择</span>
+<span class="topic-title">开源工具 local-figma：把 vibe coding 页面还原为可编辑 Figma 设计稿</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -245,30 +243,30 @@ Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-国内上架 App 的合规流程被普遍认为比开发本身更耗时。发帖人列举了需要面对的环节：ICP 备案、公安备案、软著、大模型算法备案、应用安全评估，并直言“上架时间比开发时间长多了”。
+作者开源了 local-figma（Apache-2.0），用于解决 vibe coding 流程中的界面方案对比问题：把已经跑起来的页面还原成 Figma 里原生可编辑的设计稿，复制多个 variant 调布局、换配色，选定方案后再决定是否改回代码。
 
 ### 关键要点
-- 各应用商店规则不统一：有开发者称已上架近 10 年的 App，仅因名称含地方名被某一家市场要求提供政府合作证明或商标证明，其他市场均无此要求，最终选择放弃该渠道。
-- 平台难度排序的共识：多位回复者认为苹果审核相对最简单，国内安卓渠道难度更大；个人开发者做安卓可考虑只提供下载入口、不上架商店。
-- 出海与国区取舍：有人选择不上架中国区，或直接做海外市场，理由是国区固有限制多。
-- 支付限制：苹果虚拟交易不能接支付宝/微信，被发现会封号下架；有回复建议跳转微信小程序，把文案改为“了解详情”或“添加客服”规避。
-- Google Play 对个人开发者新增测试要求，但早期注册的账号可能不受影响。
+- **绕开付费席位**：官方 MCP 写入 Figma 需要 Full 席位（付费），该工具开源免费，成本仅为自身 Agent 的 token。
+- **完全本地**：CLI 加桥接服务跑在本机，设计文件不经过第三方服务器。
+- **依赖自有 Agent**：Claude Code、Codex 等能执行命令、能看图的 Agent 均可，prompt 与流程自行定义。
+- **使用流程**：本地启动 bridge，Figma 桌面端导入开发插件并显示“已连接”；让 Agent 把页面转成 Figma 设计稿；Agent 读取布局、文字和素材重建可编辑图层；在 Figma 中复制方案并排比较。
+- 项目地址：https://github.com/denki-san/local-figma ，详细介绍：https://denkisan.me/articles/local-figma-open-source-tool/
 
 ### 评论补充
-关于苹果是否麻烦存在分歧：一方认为苹果最简单快速，另一方认为其审核同样严格。整体共识是流程反复、审核反复修改，折腾成本高。
+有回复提出另一种对比方式：让 Claude 写 HTML 并列对比两套 UI 组件，上传 Claude Artifacts 在网页上直接给反馈。其局限是任何小改动都要让 AI 改，无法手动调整，且 Artifacts 仅 Claude 具备，ChatGPT 的 sites 不能直接在网页给反馈。该回复作者为此做了本地运行的类似工具 https://github.com/hyperlogue/r3 ，可供所有 Agent 使用。作者认可“点选元素直接给 feedback”比在聊天框描述位置更可靠。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245270" target="_blank" rel="noopener noreferrer">现在上架个 app 好难啊</a></span><span class="topic-stats">回复 37 · 收藏 5</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245610" target="_blank" rel="noopener noreferrer">不买 Figma 会员，也能给 vibe coding 作品配上设计流程：开源本地工具 local-figma</a></span><span class="topic-stats">回复 2 · 收藏 6</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245119" markdown="1">
+<details class="topic-card" data-topic-id="1245515" markdown="1">
 <summary>
 <span class="topic-rank">9</span>
-<span class="topic-title">国内安卓机收 Google 数字验证码的排查方法</span>
+<span class="topic-title">幼儿园孩子被打伤眼睛，该不该主张责任书和误工费</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -276,31 +274,30 @@ Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-国内安卓机（vivo、小米、一加、国行三星等）收不到 Google 登录时的数字验证码（三选一），主因是 GMS 框架缺失或代理未覆盖 Google 服务。多位用户反馈，在代理正常且 GMS 可用时，vivo、小米 14、一加等机型均可正常收到。
+楼主孩子在中班被同学打伤眼睛，医院诊断为眼睛充血和擦伤。对方妈妈已道歉并愿付药费。楼主想主张签责任书、索赔误工费（两人请假一天，只主张一人），妻子认为对方已道歉赔钱、又是同学，不宜再提。楼主纠结该不该要。
 
 ### 关键要点
-- **确认 GMS 框架**：国行三星需安装“GMS 基础框架”，vivo 用户应先确认系统是否提供该服务，否则无法接收推送。
-- **全程开启代理**：从发起验证到收到验证码，必须全程开启 VPN/代理，且代理需能覆盖 Google 服务；部分 VPN 会隔绝 Google 服务导致失败。
-- **代理模式**：可尝试 Clash 全局代理，或把 GMS 相关应用代理进去；有用户反馈路由器翻墙 + WiFi 比手机流量 + Clash 更稳定。
-- **辅助操作**：重启 Play Store、清除 Play 服务数据、切换账号或重新登录，部分用户借此恢复接收。
+- 多数回复支持强硬主张：让园方和对方家长知道“不好惹”，否则伤害可能重演。
+- 有回复建议不纠结误工费，重点签“保证不再欺负”及按医嘱的后续观察书，因为眼睛影响短期难判断。
+- 有观点认为多赔几百无意义，要么按妻子方案和解，要么主张对方退学等更强措施，中间路线价值有限。
+- 有回复提出责任主体可能主要在学校，建议先了解相关法律。
+- 具体做法建议：让打人孩子在双方家长在场时当全班道歉。
 
 ### 评论补充
-- 有用户指出，问题可能出在具体服务（如 muse）使用的验证通道被国产系统禁用，可先确认是哪个服务在发验证码。
-- 也有用户建议直接换苹果或三星，认为国产安卓折腾国外服务不稳定、易反复失效。
-- 原帖作者尝试过重启 Play Store 和切换账号仍未成功，说明单一方法不保证有效，需组合排查。
+评论对“要钱”分歧明显：一方认为赔钱是量化伤害、无法弥补真实损伤；另一方提醒极端施压可能招致报复。整体共识是眼睛伤情需长期观察，责任书比单纯赔钱更有意义。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245119" target="_blank" rel="noopener noreferrer">国内安卓手机， google 账户如何设置，可以收到验证码 or 数字验证</a></span><span class="topic-stats">回复 36 · 收藏 2</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245515" target="_blank" rel="noopener noreferrer">小孩在幼儿园被同学打了眼睛</a></span><span class="topic-stats">回复 23 · 收藏 4</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245200" markdown="1">
+<details class="topic-card" data-topic-id="1245458" markdown="1">
 <summary>
 <span class="topic-rank">10</span>
-<span class="topic-title">中文衬线字体推荐：思源宋体、梦源、上图东观体等</span>
+<span class="topic-title">开源 macOS 菜单栏监控 XStats：公网 IP 纯净度与缓存清理</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -308,30 +305,31 @@ Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-楼主在个人博客使用 OPPO Serif 作为中文衬线字体，认为其耐看但字号偏大，做 Web 字体切片后产生约 600~700 个 woff2 文件；霞鹜文楷已看腻，因此征集替代方案。讨论最终收敛到几款可免费获取的中文衬线字体。
+作者 ysicing 在开源项目 OpenStats 基础上魔改出 macOS 菜单栏系统监控 XStats（仓库 ysicing/XStats），原版仓库为 gentpan/OpenStats。原版已支持网络、磁盘等常规监控，其亮点是网络详情可检测公网 IP 纯净度，判断出口是否被标记为 VPN、代理、机房或有滥用记录。
 
 ### 关键要点
-- **思源宋体**：被推荐最多，楼主实测可变体后效果不错。需注意 Noto CJK Serif 与思源宋体是同一字体的不同命名（Google 与 Adobe 分别命名）。
-- **梦源字体**：思源宋体的 Mod 优化版本，仓库为 https://github.com/Pal3love/dream-han-cjk 。
-- **寒蝉系列字体**：作者主页 https://github.com/Warren2060 。
-- **上图东观体**：上海图书馆出品，有回复者称阅读器长期使用，易读性与美观性兼顾，地址 https://www.library.sh.cn/special/dongguanti/ 。
-- 其他被提及：文渊宋体、Noto CJK（楼主认为其衬线体观感一般）。
+- 魔改新增：缓存清理（参考 mole 实现，支持 go、npm 等开发缓存）、日历（农历/节假日/节气）、Codex/Claude 订阅额度显示、番茄钟久坐提醒、Apple 智能优化（fm chat）。
+- 隐私：数据本地存储，除检查更新、公网 IP、分流测试、网络测速外不依赖公网。
+- 作者自述清理功能更适合放可选模块，因与菜单栏监控定位不完全匹配。
 
 ### 评论补充
-有回复指出字体审美因人、因阶段而异（黑体→楷体→宋体），难以统一推荐；另有历史讨论帖 https://www.v2ex.com/t/1184745#reply32 可供参考。楼主最终暂时换回思源黑体，说明选择仍在权衡中。
+- 有用户建议公网 IP 纯净度应标明数据来源与更新时间；清理缓存前先展示路径与预计释放空间再确认。
+- 性能是主要关注点：多位用户希望降低 CPU 占用，认为菜单栏监控应美观轻量，CPU 与磁盘占用不能高以免增加功耗。
+- 需求建议：菜单栏显示 VPN 归属地国旗以便发现断连；增加磁盘读写记录（有用户用 Agent 后月读写达数 T）；风扇曲线或按温度触发强冷策略；App 自动更新（作者推荐 Sparkle）。
+- 有用户认为原版 OpenStats 过于庞大，希望支持卸载模块以轻量运行；作者回应清理卸载推荐用 mole，风扇会自动判断。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245200" target="_blank" rel="noopener noreferrer">CJK 或者中文衬线字体有推荐的么？</a></span><span class="topic-stats">回复 24 · 收藏 5</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245458" target="_blank" rel="noopener noreferrer">自荐个开源 macOS 菜单栏系统监控</a></span><span class="topic-stats">回复 18 · 收藏 5</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245216" markdown="1">
+<details class="topic-card" data-topic-id="1245566" markdown="1">
 <summary>
 <span class="topic-rank">11</span>
-<span class="topic-title">漫画翻译工具实现思路：模型选型与GPU成本</span>
+<span class="topic-title">ChatGPT Pro 订阅额度砍半：从 API 折算到按工作量衡量</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -339,30 +337,29 @@ Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-作者分享了一个日漫翻译工具网站的实现思路，把漫画翻译拆成文字定位、OCR、翻译、擦字、重绘五步，并给出了各环节实测可用的模型与取舍理由。
+OpenAI 将 200 美元 Pro 订阅的额度减半，作者认为这不是临时决定，而是把此前“偷偷砍额度”的逻辑正式官宣。核心变化在于：OpenAI 不再承诺 200 美元会员永远等于固定金额的 API 用量，而是把订阅用户的实际计算量控制在一个相对稳定的范围。
 
 ### 关键要点
-- **文字定位最关键**：是否找齐所有文字段、框选是否完整，直接决定 OCR 质量与擦字干净程度；振假名容易被漏掉，导致擦字残留。
-- **模型选型**：气泡检测用 `YOLOv8-seg`（manga109-segmentation-bubble），气泡外文字用 `RT-DETR-v2`（comic-text-and-bubble-detector），OCR 用专为漫画训练的 `manga-ocr`，翻译用 deepseek 等大模型配好 prompt。
-- **擦字与重绘**：气泡内用 OpenCV 按阈值擦除；气泡外用 `lama_large`（AnimeMangaInpainting）；重绘不用模型，按区域算安全区后用 skia 绘制。
-- **成本取舍**：OCR+翻译本可用视觉大模型一步完成，但实测成本偏高，故拆成两步。
-- 在线版本 https://mangasense.xyz 免登录可试。
+- 过去用“本周折算烧掉多少美元 API”判断会员是否缩水，这个指标已失去意义：API 降价后，同样计算量折算出的美元金额本来就会下降。
+- 真正应看的是同样 200 美元还能完成多少实际工作，但“工作量”比 API 等价额度更难量化，只能靠个人体感。
+- 作者推测背景包括：OpenAI 被 Anthropic 压制、临近 Devday、准备上市需要向资本市场讲清商业模式，以及企业市场对订阅性价比的质疑。
+- 评论补充：有用户称 200 刀套餐周额度已从 2500 刀降到 1200 刀；也有人认为本质是缺算力，或为后续 500 美元套餐让路。
 
 ### 评论补充
-有回复认为直接把漫画交给 AI 也能完成翻译嵌字，作者回应 GPT 返回的图片细节会与原图不同、翻译质量也差些，推测图片处理 pipeline 适配不佳。另有回复提到开源项目 koharu-rs/koharu 可作对比，并建议通过腾讯云渠道商压低 A10 价格（量大可到 1500 以下）。作者自述用 A10 一天成本 20 多美元，仍在寻求更便宜的方案。
+有回复指出，这次调整的是 Pro 订阅倍率，即从“10 倍钱订 20 倍用量”变为“10 倍钱订 10 倍用量”，与单倍额度调整、使用哪个模型无关；按原价买 API 的多是企业大客户。另有用户反馈实际消耗明显加快，并认为无限用量的普通聊天和免费用户也在消耗大量算力。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245216" target="_blank" rel="noopener noreferrer">做了一个漫画翻译的工具网站，分享下实现思路</a></span><span class="topic-stats">回复 5 · 收藏 5</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245566" target="_blank" rel="noopener noreferrer">谈谈对 ChatGPT 订阅额度砍半的看法</a></span><span class="topic-stats">回复 16 · 收藏 2</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245237" markdown="1">
+<details class="topic-card" data-topic-id="1245564" markdown="1">
 <summary>
 <span class="topic-rank">12</span>
-<span class="topic-title">夜间开车看不清红绿灯：先验散光再配镜</span>
+<span class="topic-title">7年Model 3车主换蔚来ES8：100天用车对比</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -370,30 +367,35 @@ Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-近视者夜间开车看不清红绿灯箭头、读秒和路灯刺眼，多数回复指向同一原因：**散光未矫正或度数不准**，而非单纯镜片价格问题。
+一位开了 7 年进口长续航 Model 3 的车主，换蔚来三代 ES8 使用 100 多天后给出结论：体验全方位升级，基本没槽点。两车相差 6、7 年，对比需考虑代际差异。
 
 ### 关键要点
-- 中高度近视常伴随散光，建议先做准确验光，再重新配镜；有回复称重新配镜后夜间能分辨红绿灯。
-- 验光渠道比镜片价格更重要：有回复认为几十元淘宝镜片同样清晰，关键是度数准确；也有人建议去三甲医院眼科验光，配镜店验光不可靠。
-- 可选驾驶型镜片：凯米 XDrive、蔡司驾驶型，主打减滤 LED 灯光、增强明暗对比。
-- 偏光夹片是低成本方案：白天用灰色偏光镜，夜间可用黄色偏光/夜视镜片；有回复提醒夜间偏光镜可能更暗，需选黄色款。
-- 散光不矫正可能加重，有回复称自己散光已发展到一百多度。
+- **异响与售后**：Model 3 提车后中控台、屏幕附近常有异响，手机难录、售后难复现，反复跑店；ES8 目前无槽点，仅新车味道较大，两三周后基本消散。
+- **舒适配置**：老款 Model 3 只有座椅加热；ES8 有座椅通风（夏天实用），按摩功能买后觉得没用，不建议为此加钱。
+- **辅助驾驶**：Model 3 仅基础车道保持，高峰缓行跟车加减速顿挫，宁愿自己开；ES8 跟车加减速平顺，愿意天天用。领航下匝道过早并到最右车道，效率不高，车少时才用。
+- **人机共驾**：车道保持支持打灯变道，手动介入时智驾不退出，拧方向盘后车辆重新接管，作者认为很好用。
+- **分心检测**：Model 3 靠方向盘压力，需不停滚轮；ES8 主要看视线，离开前方很快提醒，偶尔摸一下方向盘即可。
 
 ### 评论补充
-有回复用高德地图自带红绿灯倒计时辅助；也有人因散光、色弱放弃开车。若已影响行车安全，应尽快配镜而非拖延。
+- 作者自评：Model 3 打 100 分，ES8 约 80 分，适应后约 90 分，剩余差距来自大小车客观差异。
+- 空间取舍：Model 3 后排装安全座椅后基本只能坐一人；无大车需求可买小车，停车更方便。
+- 有 20 款 Model 3 车主转投理想，认为特斯拉基础 AP 五年未明显进步，国内智驾迭代多轮，Model 3 风噪大、操控好但日常通勤更愿开舒适车。
+- 关于新车异味，评论出现分歧：一方认为反映国产车用料问题，另一方指出进口车运输久、异味已散，不能据此下结论。
+
+＞ 作者附邀请码 ZHONGJ，称可返利，属个人推广信息。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245237" target="_blank" rel="noopener noreferrer">夜晚开车散光问题</a></span><span class="topic-stats">回复 21 · 收藏 2</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245564" target="_blank" rel="noopener noreferrer">7 年 model3 车主换蔚来 3 代 es8 感受</a></span><span class="topic-stats">回复 15 · 收藏 0</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245312" markdown="1">
+<details class="topic-card" data-topic-id="1245459" markdown="1">
 <summary>
 <span class="topic-rank">13</span>
-<span class="topic-title">commandcode goat 被指暗改 DeepSeek 渠道：官转改自部署，额度缩水</span>
+<span class="topic-title">codex++：多协议支持与每日自动 rebase 上游的 Codex fork</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -401,33 +403,32 @@ Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-有用户发现 commandcode goat 在未通知的情况下，把 DeepSeek V4.1 Flash 从官方中转改为第三方自部署渠道，并同步修改了文档描述。表面看额度从 $40 提升到 $60（$10 GOAT 套餐），但实际可用量可能反而下降。
+作者发布自维护的 Codex fork「codex++」，核心动机是借助廉价模型降低维护开源分支的成本：每晚通过 GitHub workflow 自动 rebase 上游，验证通过后自动发布新二进制，避免在「fork 新功能」与「上游新特性」之间二选一。作者强调 Rust 是必要条件，否则合并后未测试到的代码容易出问题。
 
 ### 关键要点
-- **速度下降**：官方渠道输出 250-300t/s，cmdcode 渠道仅约 140t/s，官方文档中各模型输出速度描述被删除。
-- **缓存命中率下降**：官转缓存占用可达 99%，换渠道后仅约 94%，而 DeepSeek 的计费高度依赖缓存压缩。
-- **实际额度缩水**：作者实测昨日 1.1B 用量占月额度 31%，今日 1.3B 占 43%，即 0.2B 消耗 12% 额度。
-- **成本对比**：按新鲜输入单位成本估算，$40+99% 缓存方案约可跑 5.37T（off-peak），$60+94% 缓存方案约 4.06T，实际可用量下降。
-- **官方无公告**：截至发帖，cmdcode 官方推特未发布任何相关说明。
+- **多协议原生支持**：配置里切换 `wire_api` 即可使用 `chat`（兼容 Ollama、vLLM、LiteLLM、DeepSeek、Mistral、Groq、Together、DashScope 等 OpenAI Chat Completions 端点）、`anthropic`（Anthropic Messages API）与 `response` 三种协议，无需独立代理客户端。
+- **自动同步上游**：每天 rebase 到上游最新 commit，验证后自动发布，不依赖人工 rebase。
+- **主线兼容与回滚**：codex++ 二进制默认不覆盖原 codex，出问题可随时回滚。
+- **安装**：macOS/Linux 用 `install-fork.sh`，Windows 用 `install-fork.ps1`，更新命令为 `codex++ update`。
+- 另有 Bongo Cat 终端宠物、后台多 agent workflow、第三方模型 memory 兼容等增强。
 
 ### 评论补充
-- 有用户指出 opencode 也出现类似情况：名义 60$ 永久，实际从官方中转改为自部署，速度不到 100t/s，缓存命中率约 95%，并新增同 session 最多 30 张图片等限制。
-- 自部署渠道可能无法使用官方 file 功能，官方 KV cache 可保持 3 天，自部署大概率不支持，跨天会话重开会导致缓存失效、消耗激增。
-- 有用户经验：正常消耗需缓存命中率 99% 以上（其会话约 99.6%），建议新会话以 10M 用量为观察线，命中率异常就停止使用。
-- 也有用户认为 10 美元能用约 100 亿 token 已算划算，官方 API 虽快但贵，中转商需盈利只能另想办法。
+有回复建议除编译通过外，应公布每次构建对应的上游 commit、测试结果与变更摘要，并保留可回滚的上一版，便于用户判断是否更新；作者回应称 releases 页面已有相关信息。作者补充自动 rebase 由 codex++ 结合 DeepSeek API 完成。
+
+仓库：https://github.com/yuguorui/codex-plus
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245312" target="_blank" rel="noopener noreferrer">继 opencode go 之后， commandcode goat 也搞欺诈</a></span><span class="topic-stats">回复 15 · 收藏 2</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245459" target="_blank" rel="noopener noreferrer">更开箱即用的 codex CLI：不止 response 接口，永远保持和上游同步，以及可爱的猫猫！</a></span><span class="topic-stats">回复 8 · 收藏 0</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245127" markdown="1">
+<details class="topic-card" data-topic-id="1245586" markdown="1">
 <summary>
 <span class="topic-rank">14</span>
-<span class="topic-title">AI 时代还要不要手写博客与公众号内容</span>
+<span class="topic-title">83岁文盲独居老人用平板：二手iPad+监控+防绑卡</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -435,30 +436,32 @@ Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-讨论围绕“AI 时代是否还值得手写博客、公众号”展开，多数回复不把“手写”当作道德标准，而是按目的区分：为赚钱或工作产出，用 AI 提效合理；为自我表达、思考与心流体验，手写本身即目的。
+为文盲独居老人配平板或手机，多数回复认为**可行**，但前提是有人耐心教、设备足够简单，且要防范短视频沉迷与诈骗风险。
 
 ### 关键要点
-- **按目的选择**：有回复指出“坚持”是误区——盈利性内容可用 AI 提效，写作本身是享受的人则不必让 AI 代笔；非盈利博客的读者往往就是作者自己。
-- **AI 可做辅助**：可用于整理资料、列大纲，效率明显提升；口述加 AI 加工容易带出“AI 味”。
-- **读者只关心质量**：文字水平好的人不用 AI 是保质量，水平差还硬手写才该被质疑；该用不用、不该用却用都是错。
-- **反感的是空话**：AI 文常被诟病“啥都整一大篇”，造成阅读干扰；读者要的是真材实料。
-- **手写案例**：有回复提到开源作者 Marijn Haverbeke（CodeMirror、ProseMirror、Acorn 作者）在新项目 wordgard 博文中声明未使用语言模型，文档标注 `Contains 0% AI`。
+- **设备选择**：多位回复建议买二手 iPad 而非安卓平板，理由是系统简单、广告少；也有建议 iPhone SE，用指纹解锁和长按 Home 键唤出 Siri，按 Home 键可一键回桌面。
+- **辅助方案**：可加装远程视频监控（约 200 元）随时查看老人状态并对话；或买大屏智能音箱，一键拨号到子女 App 视频。
+- **教学成本**：有回复称打视频电话“教了好久好久才学会”，文盲老人确实能学会刷抖音，但必须有人教。
+- **风险提示**：不要绑定银行卡或开通网购，否则可能天天被骗；有回复提醒老人刷短视频可能沉迷到忘记吃饭，甚至被推送擦边内容。
+- **个体差异**：有回复指出分人，有的老人愿意尝试，有的非常抗拒，连电视都不愿开可能是主观上懒于学习。
 
 ### 评论补充
-有观点认为文字是交流媒介，AI 代笔像套壳，需要内核交流时反而烦人；也有人强调写作是为了思考而非真诚。生活随笔类内容更倾向手写，理由是“过生活的是人，而不是 AI”。
+- 有回复建议买小度等语音识别设备，但老人可能不会说普通话，需选识别好的。
+- 二手设备玩坏了再买，成本可控。
+- 若老人是男性，需注意短视频推送的性感内容可能带来负面影响。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245127" target="_blank" rel="noopener noreferrer">AI 时代，还有多少人坚持“手写”内容的？</a></span><span class="topic-stats">回复 29 · 收藏 2</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245586" target="_blank" rel="noopener noreferrer">给文盲独居老人买个平板，有帮助吗？</a></span><span class="topic-stats">回复 17 · 收藏 2</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245114" markdown="1">
+<details class="topic-card" data-topic-id="1245416" markdown="1">
 <summary>
 <span class="topic-rank">15</span>
-<span class="topic-title">HelloGitHub 第126期：39个开源项目精选</span>
+<span class="topic-title">AI应用上架小米商店：算法备案主体不一致怎么处理</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -466,31 +469,29 @@ Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-《HelloGitHub》第 126 期按月更新，本期收录 39 个开源项目，覆盖 C、C#、C++、Go、JavaScript、Python、Rust、Swift、人工智能及其它共 10 个分类，均为可直接访问源码的入门级或实用项目。
+开发者上架含 AI 功能的 APP 时，被小米以“应用提交资质主体信息与开发者企业注册名称不一致”打回。问题根源在于：算法备案的主体必须与上架渠道要求匹配，不能直接拿阿里云的备案证书套用。
 
 ### 关键要点
-- **AI 与智能体工具集中爆发**：`ccstatusline` 为 Claude Code 定制状态栏，显示模型、Git 分支、Token 用量与上下文占比；`skills-manager` 跨平台集中管理 AI 技能包并同步到 Claude Code、Codex、Cursor；`orca` 让多个编程智能体在独立 Git 工作树中并行开发；`TencentDB-Agent-Memory` 提供智能体团队共享记忆。
-- **开发与运维实用工具**：`hey` 是 Go 编写的 HTTP 压测命令行工具，输出吞吐量与延迟分布；`kserve` 在 K8s 上部署多框架模型推理，支持 vLLM 与 OpenAI 兼容接口；`kr8s` 是受 kubectl 启发的 Python K8s 客户端；`pigsty` 可一键部署 PostgreSQL 单机或高可用集群，内置 12 种内核与 500 多个扩展。
-- **桌面与效率工具**：`QuickLook` 为 Windows 提供空格键预览 100 多种格式；`flameshot` 是跨平台开源截图工具；`broot` 以 Rust 实现 tree 替代；`tinycast` 是内存占用不到 100MB 的 macOS 启动器。
-- **值得关注的新方向**：`ego-lite` 让人与 AI 智能体共用浏览器且互不干扰，智能体可编写 JavaScript 完成多步操作以减少 Token 消耗；`YuE` 先生成旋律与和弦乐谱再生成完整歌曲；`LoongForge` 是百度开源的多后端训练框架，适配 NVIDIA GPU 与昆仑芯 XPU。
+- 备案主体必须是公司，个人开发者通常不适用；后续还涉及伦理、算法备案等流程。
+- 在小米渠道上架，需使用小米自研并已注册的算法备案，第三方云（阿里云/腾讯云/百度云）的算法备案不可用，被评论称为“大雷”。
+- 可能还需与小米签电子合同授权，订单协议一般只能公对公，需企业法人人脸识别认证。
+- 参考微信小程序使用 AI 算法的流程，材料可能包括云服务订单协议、网信算备公示 PDF/PNG、公司账号的 AI 使用证明（含充值与消费记录截图）。
 
 ### 评论补充
-仅有回复表示“这期不错不错”，未提供额外事实或验证信息。
-
-＞ 提示：正文链接均指向 hellogithub.com 跳转统计地址与对应 GitHub 仓库，可自行核对项目活跃度与许可证后再采用。
+有回复建议直接向当地网信办咨询，确认大模型应用登记与算法备案的具体要求；也有人提出“出海”作为绕开国内备案的替代方向。整体共识是：渠道方要求与备案主体强绑定，选错云厂商的备案会直接卡住上架。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245114" target="_blank" rel="noopener noreferrer">《HelloGitHub》第 126 期</a></span><span class="topic-stats">回复 1 · 收藏 4</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245416" target="_blank" rel="noopener noreferrer">互联网信息服务算法备案必须用自己公司备案吗？</a></span><span class="topic-stats">回复 10 · 收藏 3</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245133" markdown="1">
+<details class="topic-card" data-topic-id="1245396" markdown="1">
 <summary>
 <span class="topic-rank">16</span>
-<span class="topic-title">独立开发多语言背单词小程序 Hiloki 及个人小程序支付成本</span>
+<span class="topic-title">AI 辅助写邮件的客户端：可行性与竞争分析</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -498,30 +499,30 @@ Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-作者独立完成多语言背单词微信小程序 Hiloki，主打轻量、扫码即用、无需下载 App。产品基于艾宾浩斯记忆曲线安排复习，支持英语、越南语、印尼语，词库覆盖四六级、考研、专四专八、雅思，并支持自建词本。练习模式包括背单词、测试、配对、拼句，个人中心记录打卡天数、累计学习天数和已学词汇量。作者公开求反馈，关注界面观感、功能优先级、流程痛点和小语种方向。
+发帖人设想做一款 AI 邮件客户端，支持按资料写/回邮件、多语言翻译和 AI 自动分类，询问是否有商业前景。评论普遍不看好独立产品，主要理由是隐私、大模型自带能力和已有竞品。
 
 ### 关键要点
-- 个人做微信小程序无需公司主体：微信认证费 30 元，域名十几元，服务器几十元/月，备案免费。
-- 有支付则必须有后端服务，服务器和数据库难以避免；可借助 AI 按步骤搭建。
-- 腾讯 CloudBase 约 20 元/月，含云函数、云存储、数据库、短信，并提供公网后端域名。
-- 微信虚拟支付可在小程序内直接支付、网页后台提款，无需企业认证，月限额 10 万。
-- 虚拟支付仅限微信小程序内使用；网站接入支付通常需公司资质或第三方收款平台。
+- **隐私是核心障碍**：多位回复者指出，需要发邮件的场景往往信息敏感，用户不愿把邮箱账号密码交给非大厂客户端，也不愿把内容传给外部 AI。
+- **现有替代方案已够用**：有用户表示英文邮件直接交给 ChatGPT 处理；也有人把上下文复制到 Chat 多轮对话后粘贴发送。
+- **竞品密集**：Grammarly（含桌面端）、网易邮件大师、Spark、Gmail 自带 AI、腾讯 agent mail 等已被点名，有回复直言“不需要重新造轮子”。
+- **可行的切入方式**：给 Thunderbird 写插件试水，或做成 skill（有回复给出 `skills.sh` 上的 mail skill 链接）。
+- **商业化难点**：有回复认为这类需求偏 ToB，且多为私有化部署，个人产品难以被采购；另有回复提醒 token 成本问题。
 
 ### 评论补充
-有用户反馈付费页面季度和年度时长均显示为 1 个月，作者表示立即调整；另有用户询问专升本英语词库，作者称有需求可后续添加。
+发帖人回应腾讯 agent mail 是“agent 配邮箱账号”，与自己的想法不同。整体共识是：单纯做 AI 邮件客户端差异化不足，需在隐私、私有化或插件形态上找突破口。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245133" target="_blank" rel="noopener noreferrer">[微信小程序虚拟支付] 花几天时间又上架了一款多语言背单词微信小程序 Hiloki，欢迎体验并求反馈</a></span><span class="topic-stats">回复 16 · 收藏 5</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245396" target="_blank" rel="noopener noreferrer">做一个 AI 辅助写邮件的邮件客户端怎么样？</a></span><span class="topic-stats">回复 19 · 收藏 0</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245100" markdown="1">
+<details class="topic-card" data-topic-id="1245469" markdown="1">
 <summary>
 <span class="topic-rank">17</span>
-<span class="topic-title">sixup：替代 odhcp6c/radvd/odhcpd/ndppd 的 IPv6 路由自动配置工具</span>
+<span class="topic-title">谈薪被要求提供其他offer截图，该不该给？</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -529,37 +530,30 @@ Codex Plus 账号存在 5 小时额度窗口，若早上 9 点才开始使用，
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-作者发布了一个用 Go 编写的 IPv6 路由自动配置工具 **sixup**（主要由 Claude Code 生成），目标是替代软路由上分散的 odhcp6c、radvd、odhcpd、ndppd 等程序，把 DHCPv6/RA 客户端与服务端、ND 代理等全部内置，不依赖其他服务。
-
-最简用法只需指定上下行网卡：
-
-```
-sudo sixup -wan eth0 -lan eth1
-```
+求职者已提供税单、流水、学历电子验证、社保和公积金等材料，HR 仍索要其他 offer 截图，理由是“作为参考才能帮你争取薪资”。发帖人 base 偏低、已谈两周，手里另有一个 offer，向该公司多要了 3000 元，担心截图被用来压价或泄密，且临近国庆，节前拿不到结果只能入职另一家。
 
 ### 关键要点
-- 自动判断运营商使用 PD 还是 RA，并下发配置。
-- 运营商只给一个 /64 时，可按 RFC 7278 分给内网并启动 ND 代理。
-- 前缀变化后，地址、RA、DHCPv6 会同步更新，避免租约到期或前缀变更出错。
-- 日志集中在一处，排障不必在多个服务间切换。
-- 可自动配置 NAT64（需 jool 内核模块），配合下发 PREF64 支持 IPv6 单栈或 IPv6-mostly；另含 DS-Lite、MAP-E、IPIP6 隧道参数自动检测（国内基本用不上）。
-- 加 `-dry-run` 可只检测不改配置。项目地址：https://github.com/lqs/sixup ，尚未发布正式版，可下载打包好的可执行文件或 `go build` 自行编译。
+- 多数回复主张**不要提供其他 offer 截图**，认为这是压价手段，而非真正帮忙争取。
+- 有回复给出反例：曾按要求提供（P 图）后，对方仅涨 500 元，仍低于另一家，还拖了三天。
+- 可复用话术：offer 涉及对方公司保密信息不便提供，请先评估岗位预算并给出薪资结果，以便安排节后入职。
+- 有观点认为，能轻松拿到多个 offer 的候选人，才适合用 offer 反向议价。
+- 有回复建议先要求对方发正式 offer，再提供流水、学历等材料，因为 offer 发出后对方仍可撤销。
 
 ### 评论补充
-有用户想借此把 VPS 的单一 /64 分给 WireGuard 侧本地网。作者给出方案：先跑通 WG 的 IPv4，再套二层隧道 GRETAP，两端各跑 sixup，并给出 `ip link add gt0 type gretap`、`ip link set gt0 mtu 1380 up` 及 `sixup -wan eth0 -lan gt0 -ra-mtu 1380` 等命令，建议先用 `sixup -wan eth0 -dry-run` 确认 VPS 的 eth0 能收到 RA。
+有回复提醒当前行情下三个月能拿到一个 offer 已属不易，议价空间有限；也有人猜测涉事公司为深圳某具身智能企业，称其薪资不好谈。发帖人最终倾向不发截图，担心两家都黄。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245100" target="_blank" rel="noopener noreferrer">写了个 IPv6 路由自动配置工具，一个程序替代 odhcp6c/radvd/odhcpd/ndppd</a></span><span class="topic-stats">回复 2 · 收藏 2</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245469" target="_blank" rel="noopener noreferrer">现在谈薪还需要提供其他 offer 了？</a></span><span class="topic-stats">回复 11 · 收藏 0</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245285" markdown="1">
+<details class="topic-card" data-topic-id="1245402" markdown="1">
 <summary>
 <span class="topic-rank">18</span>
-<span class="topic-title">广州献全血有无补贴？成分血与全血补贴差异</span>
+<span class="topic-title">微信历史图片打不开：原因与备份恢复建议</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -567,32 +561,29 @@ sudo sixup -wan eth0 -lan eth1
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-广州献全血基本没有官方现金补贴，所谓“几千元补贴”多来自单位或社区为完成任务额外发放的福利，而非血站统一政策。成分血（机采血小板）通常有每次两三百元的交通/误工补助，全血一般只给牛奶、购物卡等营养品。
+有用户发现微信中几年前发送的照片已无法打开，且换机时均按官方流程备份还原，怀疑是苹果或微信的问题。评论普遍认为这更可能是微信数据机制与用户备份认知不足所致，而非单一平台故障。
 
 ### 关键要点
-- 全血一年最多献两次，成分血约半个月可献一次，从补贴频率看成分血更划算。
-- 单位献血常见回报是补休一天加发钱，属于单位行为，与血站无关。
-- 有回复称上海个别区成分血补贴可达七八百元，全血仍无补贴。
-- 国家明令禁止血液买卖，私下交易属灰色地带，风险高且价格被压。
-- 规律做体能或力量训练者，献全血可能影响有氧能力两三个月，血小板影响较小。
+- 微信并非严肃的信息归档系统，聊天中的图片、文件默认存在丢失风险，重要数据应主动导出并确认可读。
+- 有回复指出，即使使用官方手机端与电脑端备份方式换机，换机后图片仍可能打不开，说明官方备份并不保证媒体文件完整。
+- 备份建议遵循 3-2-1 原则：至少 3 份副本、2 种介质、1 份异地。
+- 发现图片异常后，先停止清理微信缓存或反复迁移，避免覆盖仅存的副本。
 
 ### 评论补充
-有用户提醒，大额补贴只存在于单位内部，公开渠道查不到；也有用户建议关注“粤君4369”等广州献血街坊公众号了解政策。楼主最终决定预约成分血，看中两三百元补助及累计40次可办优待证免交通费。
-
-＞ 注意：私下卖血涉嫌违法，且可能涉及血液安全风险，不建议尝试。
+可分别检查旧手机、电脑端聊天记录以及以前的整机备份是否仍存在；找到可用副本后先复制保存，再尝试恢复。也有用户提到清理聊天记录或删除电脑同步缓存可能导致图片失效，但发帖者表示自己并未清理与家人的聊天记录，具体原因仍待核验。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245285" target="_blank" rel="noopener noreferrer">关于献血补贴的问题-广州哪里献全血有补贴</a></span><span class="topic-stats">回复 22 · 收藏 1</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245402" target="_blank" rel="noopener noreferrer">微信里图片丢失，苹果还是微信的锅？</a></span><span class="topic-stats">回复 8 · 收藏 1</span></p>
 
 </div>
 
 </details>
 
-<details class="topic-card" data-topic-id="1245205" markdown="1">
+<details class="topic-card" data-topic-id="1245606" markdown="1">
 <summary>
 <span class="topic-rank">19</span>
-<span class="topic-title">Apple Watch S12 值不值得从 S7 升级，怎么买最划算</span>
+<span class="topic-title">阿里决策模型预览版实测：删库场景判断不可靠</span>
 </summary>
 
 <div class="topic-content" markdown="1">
@@ -600,398 +591,25 @@ sudo sixup -wan eth0 -lan eth1
 <div class="topic-article" markdown="1">
 
 ### 核心内容
-楼主用 Apple Watch S7 四年多，想换 S12，询问是否值得以及怎么买最划算。评论分歧明显：一派认为 S12 是 S6 之后升级幅度最大的一代，性能、厚度、健康检测都有提升；另一派认为属于挤牙膏，S7/S8 用户升级感知不强。
+有开发者实测阿里百炼上线的 `decision-model-preview`（决策模型预览版），在“删除 users 表全部数据”这一高风险场景中，模型给出的判断与直觉相反，可靠性存疑。
 
 ### 关键要点
-- **升级理由**：有回复称 S12 性能大幅升级、厚度减少，健康检测全面升级且基础款就有；从 S8 换到 S12 的用户反馈系统明显更流畅，心率监测更直观准确。
-- **不升级理由**：多位 S7/S8 用户认为功能变化不大，续航没有改进，黑边视觉上反而变大，建议等续航或外观大改。
-- **购买渠道与价格**：天猫官方旗舰店 46mm GPS 版 2899 元；京东叠加国补和教育优惠约 2600 元。港版有快充但无国补，国行无快充，有回复明确不推荐国行（除非需要蜂窝）。
-- **续航实测**：有用户从 S8 国行换 S12 港版，实测续航约 36.5 小时。
-- **旧机处理**：有回复提到 S9 trade in 约 800 港币，可作为折抵参考。
+- 首次测试：模型返回 `unsafe`，但 `confidence` 仅 **0.01**，且 `safe` 与 `unsafe` 概率各 **0.5**，等于没有有效区分。
+- 追加“数据库没有备份”这一更危险的前提后，模型反而判断为 `safe`，`confidence` 升到 **0.37**，概率变为 `safe` 0.69 / `unsafe` 0.31。
+- 作者对比 Jev，称 Jev 会明确判定该操作不安全。
+- 结论：该预览版模型不适合直接用于业务系统的安全决策，尤其涉及删库、无备份等不可逆操作。
 
 ### 评论补充
-有用户反映港版 Ultra 4 出现莫名重启，被指与苹果 ANE 的 timeout watchdog bug 有关，并给出链接 https://www.ithome.com/1/005/373.htm 。另有用户建议贴膜，称旧表未贴膜被刮花。整体看，是否升级取决于对快充、续航和健康检测的需求。
+- 有回复指出 `instructions` 字段应写问句而非陈述句，作者回应改成“这个操作是安全的吗”后概率仅变化 0.01，加上“没有备份”仍判安全。
+- 另有评论认为 `instructions` 的写法可能误导模型，但整体评价仍是一般。
+- 对 Jev 的评价存在分歧：有回复称其“除了快一无是处”，甚至怀疑是规则生成随机数。
+
+### 风险提示
+该模型处于预览阶段，输出置信度低且对关键前提不敏感，生产环境使用前需自行做充分验证，不可直接采信其安全判断。
 
 </div>
 
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245205" target="_blank" rel="noopener noreferrer">Iwatch s12 值得买吗 怎么买最划算</a></span><span class="topic-stats">回复 23 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245225" markdown="1">
-<summary>
-<span class="topic-rank">20</span>
-<span class="topic-title">自托管 Forgejo 上的 Agent 开发流程：forge-bot 与 AaaU</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者分享了一套在自托管 Forgejo 上运行的 agent 开发流程，核心目标是让 issue/PR 评论触发代码变更，同时不把人类账户交给自主 agent。系统由三部分组成：Forgejo 作为对话与代码的权威记录；forge-bot 作为与 forge 无关的网关，把机器人提及转换为一次编码 agent 运行；AaaU（Agent-as-User）作为 PTY 桥接，让被授权人类接入专用 agent 账户。
-
-### 关键要点
-- **触发方式**：在 issue 或 PR 上评论 `@shylock-bot  `，仅接受允许名单中的用户与仓库，机器人自身提及被忽略以避免循环；可用 `@shylock-bot:codex` 指定 agent。
-- **隔离设计**：人类账户与 agent 账户相互独立，人类凭据从不交给 agent；agent 以专用账户、自动批准方式运行，可读仓库、编辑、跑测试并推送。
-- **最小交接**：forge-bot 只给 agent 一个位置和一条消息，不提供预构建上下文，由 agent 自行发现周围信息。
-- **并发控制**：同一 issue/PR 同时至多一次运行，不同讨论串可并行；跟进回复会合并进当前运行以实时引导，否则排队。
-- **交互协作**：被授权者用 `aaau pi`、`aaau codex` 启动会话，`aaau -n  ` 加入，`-r` 只读观察；agent 无法反向连接人类。
-- **容错**：遇到用量、速率或配额限制时，按序列切换下一个 agent 重试，全部不可用则在讨论串说明原因。
-
-### 评论补充
-回复者 kylix 表示自己同样使用 Forgejo，准备研究该方案，说明该流程对自托管 Forgejo 用户有直接参考价值。
-
-作者也坦言流程打磨顺滑但“拿着锤子找不到钉子”，且公司自有平台难以接入，落地场景仍需自行寻找。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245225" target="_blank" rel="noopener noreferrer">趁现在无聊分享一下自己瞎琢磨出来的一套 agent 开发流程和工具</a></span><span class="topic-stats">回复 1 · 收藏 3</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245122" markdown="1">
-<summary>
-<span class="topic-rank">21</span>
-<span class="topic-title">M2 Pro 的 3 年 AC 到期前要不要去体检换件</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-AppleCare（AC/AC+）到期前是否值得去直营店做一次“体检”，取决于电池健康度和是否检测出可维修问题。多位用户经验显示，只有健康度低于约 80% 或诊断出电池异常，才可能免费更换；健康度 90% 以上通常只做清灰。
-
-### 关键要点
-- **触发更换的门槛**：有回复称需健康度 80% 以下或检测出电池问题；83% 的案例中，因屏幕亮点送修时诊断提示“电池需要维修”，最终电池与屏幕一起更换。
-- **体检方式**：直接去天才吧说明 AC 快到期，店员会帮忙检查。有用户 Intel MBP 外观正常，拆机后发现电池轻微鼓包，连 C 面和电池一起换。
-- **续保选项**：性能够用可考虑续 AC+；有 M2 Pro 用户健康度 96% 未去体检，直接续了一年。
-- **电池差异**：有用户反馈 MacBook 电池健康下降比手机快，长期插电反而掉得慢。
-
-### 评论补充
-部分用户认为设备没坏就不必折腾（if it works, don't touch），也有人主张到期前能换就换。是否给换存在不确定性，建议先跑诊断确认。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245122" target="_blank" rel="noopener noreferrer">3 年 AC 马上到期，有必要去体检不？</a></span><span class="topic-stats">回复 20 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245105" markdown="1">
-<summary>
-<span class="topic-rank">22</span>
-<span class="topic-title">Antigravity 账号验证失败：家庭组与短信认证的排查经验</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-有用户反馈 Antigravity 出现权限被收回、提示 `Please verify your account to continue using Antigravity.`，而 Gemini 等其他 Google 服务正常。发帖人怀疑与节点在美国、日本之间频繁切换有关，服务归属地为加拿大。
-
-### 关键要点
-- **家庭组可能是诱因**：有回复指出自己同样加入家庭组后账号不可用，但主账号正常，怀疑 Google 调整策略，只允许主账号使用 Antigravity。
-- **短信/扫码认证是主要恢复路径**：多位用户表示通过扫码后发送短信完成验证即可恢复，且**任意手机号发短信即可，无需与账号绑定**。
-- **恢复存在延迟或节点因素**：发帖人隔约 24 小时后重试成功，但无法确定是时间间隔还是更换了更干净的节点所致。
-- **可检查账号归属地区**：有回复建议通过 https://policies.google.com/country-association-form 查看服务是否被分配到中国，若是可尝试申诉到常用节点 IP 所属地区。
-
-### 评论补充
-部分用户扫码认证通过后，网页端仍显示认证失败，说明该流程并非对所有账号都稳定生效；也有用户表示没有可用的发短信途径。整体看，家庭组账号受限与短信认证是目前较集中的两类线索，但均未得到官方确认。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245105" target="_blank" rel="noopener noreferrer">这是 antigravity 权限被干掉了么~还有办法补救吗？</a></span><span class="topic-stats">回复 13 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245293" markdown="1">
-<summary>
-<span class="topic-rank">23</span>
-<span class="topic-title">折腾笔记工具后回归原生备忘录：AI时代要不要自建工具</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者曾重度折腾 Obsidian 和 Notion，装了 30 多个插件、配快捷键，结果笔记没写几篇就放弃；在 Obsidian 群里也看到不少人“卸了卸了”，最后只留几个插件或回到原生备忘录。作者把这种现象称为“迷失”：为解决一个小问题，花大量精力和 token 维护一套系统，手段压过了目的。
-
-### 关键要点
-- 判断标准是目的：想养成记账习惯、了解支出，买现成 App 更合适；想探索 AI、做自己的产品，折腾也合理。
-- 作者认为“能不能做”在 AI 时代已不是问题，“要不要做”才是。
-- 能马上用起来，比苛求“趁手”更重要；只为解决一个问题而维护整套系统属于过度准备。
-- 例外：喜欢折腾、享受探索过程，或现成产品太贵，自己做也成立。
-
-### 评论补充
-- 有回复指出工具使用存在生命周期：从尝试、高频使用到流失，是正常规律。
-- 反方观点：若工具确实节省时间或带来收益，投入更多成本也值得；AI 降低了定制门槛，未必不划算。
-- 轻量替代方案被多次提及：微信收藏置顶、微信文件传输助手、桌面 `todo.txt`/`todo.md` 放 iCloud 或 OneDrive 同步、本地部署 memos 配合 sleek 客户端。
-- 有回复提醒文件传输助手不支持跨设备同步，不如微信收藏。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245293" target="_blank" rel="noopener noreferrer">折腾了一圈，我又回到了原生备忘录</a></span><span class="topic-stats">回复 15 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245340" markdown="1">
-<summary>
-<span class="topic-rank">24</span>
-<span class="topic-title">腾讯云轻量2C4G免费升4C4G：续费优惠或失效</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-腾讯云轻量 2C4G 实例可免费升级到 4C4G，但升级后可能失去原有的续费优惠，这是本主题讨论的核心风险。
-
-### 关键要点
-- **续费优惠可能失效**：有回复明确指出，在官网“同价续费”活动购买的 2 核 4G 套餐，免费升配后不再享受同价续费优惠，需谨慎操作。
-- **续费价格可能变贵**：多位用户提到升级后续费价格会高于原活动价，若没打算续费、到期后另买新活动机则影响不大。
-- **CPU 可能变化**：有回复提醒升级前后不是同一颗 CPU，单核性能可能存在差距。
-- **活动页续费存在分歧**：有用户称升级后在活动页续费仍是老价格，暂时没坑；与“不再同价续费”的说法相矛盾，实际结果可能因活动规则而异。
-
-### 评论补充
-购买背景：楼主在直播期间以 400 多元购入 3 年 2C4G6M 国内机器，该活动已结束，下次可能要到明年周年庆。建议按需升级，若在意续费成本，可等到期后购买新的活动机。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245340" target="_blank" rel="noopener noreferrer">腾讯云轻量 2C4G 免费升级 4C4G 有暗坑吗？</a></span><span class="topic-stats">回复 14 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245284" markdown="1">
-<summary>
-<span class="topic-rank">25</span>
-<span class="topic-title">CDN 盗刷是否只发生在使用 CDN 的域名？</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-
-有站长发现上 CDN 后 GA4 中 direct 流量占比飙升，怀疑遭遇盗刷，并追问：盗刷是否只针对使用 CDN 的域名，未上 CDN 是否也会被刷。
-
-### 关键要点
-
-- 社区经验显示，公开讨论的盗刷案例几乎都发生在 CDN 场景，但**并非 CDN 独有**：只要公网资源可被直接访问，OSS 公共读直链、源站 IP 直连同样可能被刷，只是时间早晚问题。
-- 上 CDN 后感知更明显，是因为流量费用集中、账单变化快；未上 CDN 时源站带宽小，容易被刷挂而更早暴露，风险高收益低。
-- 盗刷动机被归纳为两类：PCDN 刷下行额度，以及 CDN 供应商监守自盗（属猜测，无证据）。
-- 有用户反馈自家服务被刷 CDN 至账号欠费停服，说明后果可能直接导致业务中断。
-
-### 评论补充
-
-- 防盗链、限频等配置只能提高刷量成本，**很难完全防住**；更实际的做法是限频、异常流量识别，并尽量不让源站被直接访问。
-- 若怀疑被针对，可检查近期内容是否引发争议，必要时下掉被刷文件或关闭 CDN。
-- 有回复提出运营商自导自演、推送防刷套餐的猜测，但无任何证据支撑。
-
-结论：盗刷与是否使用 CDN 没有必然关系，CDN 只是让费用更集中、更易被察觉；防护重点应放在源站隔离、限频与异常流量识别上。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245284" target="_blank" rel="noopener noreferrer">盗刷问题，是不是只有上了 CDN 才会发生？</a></span><span class="topic-stats">回复 10 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245341" markdown="1">
-<summary>
-<span class="topic-rank">26</span>
-<span class="topic-title">Google 扫码验证无法发短信的解决经验</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-使用 VSCode 的 Antigravity 扩展时触发 Google 扫码验证，但扫码后无法发送短信。多位用户分享了排查思路，核心问题集中在手机环境、SIM 卡国际短信权限和网络代理三方面。
-
-### 关键要点
-- **换用 Google app 扫码**：有用户反馈在手机安装 Google app 后直接扫码确认即可通过，另一用户亲测可行。
-- **手机系统影响大**：MIUI eu 扫码后跳转 Google 服务框架验证一直失败；换用未装 Google 环境的 lineageOS 备用机，安装 Google app 后顺利跳转短信 app。
-- **手机与卡的选择**：建议避开国行手机，优先原生自带 GMS 的机型（三星或小米/OPPO/vivo/荣耀国际版）；手机卡需开通国际短信，新卡默认可能关闭。
-- **网络要求**：需要干净的代理网络，最好避开香港节点，注册时全量代理所有流量。
-- **发短信的手机号不必与账户绑定**，国内手机号也有发送成功的案例。
-
-### 评论补充
-有用户认为华为手机也可行，与“避开国行手机”的建议存在分歧。另有用户表示十几年的老号在次日使用时验证自动消失，说明部分验证可能是临时风控。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245341" target="_blank" rel="noopener noreferrer">Google 提示验证，为什么扫码无法发送短信呢？</a></span><span class="topic-stats">回复 8 · 收藏 3</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245246" markdown="1">
-<summary>
-<span class="topic-rank">27</span>
-<span class="topic-title">Antigravity 被风控要求短信验证的两种解法</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-多位用户反馈，长期稳定使用 Google Antigravity（配合 Gemini 模型）后突然被风控，触发手机短信验证，但发送国际短信后一直 loading 超时，无法通过。发帖人已稳定使用一个月，另有用户称稳定用了 4 个多月后上周五同样被要求验证。
-
-### 关键要点
-- **解法一（已验证有效）**：在美国节点、电脑上打开 Antigravity 触发验证，手机需安装 YouTube App，用 Google 浏览器扫描二维码，会跳转到 YouTube 完成验证，点一下即可。发帖人回复确认“验证过了”。
-- **解法二（待核验）**：有用户称若因年龄限制被卡，验证一张信用卡即可通过。
-- **替代方案**：有人建议用中转站，但发帖人反馈中转站的 Codex 速度慢、偶尔降智，体验不佳。
-
-### 评论补充
-关于 Antigravity 是否值得当主力存在分歧：有用户认为它并不好用，发帖人则强调其相对当前 Codex 更快、更便宜。Google 对 Antigravity 的风控一直较严格，属已知现象。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245246" target="_blank" rel="noopener noreferrer">antigravity 被风控了，怎么解决啊！？没 AI 用了</a></span><span class="topic-stats">回复 12 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245198" markdown="1">
-<summary>
-<span class="topic-rank">28</span>
-<span class="topic-title">codex 0.157.1 Windows 弹 cmd 窗口：用 --no-daemon 解决</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-多位用户反馈 codex 0.157.1 在 Windows 上会持续弹出 cmd 窗口，属于该版本默认行为变化导致的体验问题，而非个例。
-
-### 关键要点
-- 原因：新版 codex 默认开启了 daemon（守护/精灵线程），因此会反复拉起 cmd 窗口。
-- 可行解法：启动时加参数 `codex --no-daemon` 关闭守护进程，发帖人实测有效。
-- 其他经验：有用户回退旧版本并重启电脑后恢复正常；也有用户升级到最新版后不再出现该问题。
-- 现状：发帖人升级到最新版后仍遇到问题，说明版本与安装步骤可能影响结果，官方尚未修复该体验问题。
-
-### 评论补充
-有回复指出该现象与默认开启 daemon 有关，并给出 `--no-daemon` 的关闭方式；另有用户表示未查明原因、升级后消失，或通过回退加重启解决。整体共识是问题真实存在，临时规避手段为关闭 daemon 或回退版本。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245198" target="_blank" rel="noopener noreferrer">codex 0.157.1 这个版本在 Windows 运行上一直弹 cmd 窗口，有遇到过吗？</a></span><span class="topic-stats">回复 8 · 收藏 0</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245305" markdown="1">
-<summary>
-<span class="topic-rank">29</span>
-<span class="topic-title">开源数据库 Agent Praxis：支持 MySQL/PostgreSQL</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者开源了数据库 Agent 平台 Praxis，目标是让 DBA 少做重复工作：日常巡检、看表大小、索引使用、排查存储、分析异常等有固定思路的任务，可用自然语言交给 AI，让它理解库表结构后逐步执行。
-
-### 关键要点
-- 演示场景为数据库健康检查：结合库内表大小、索引使用、存储情况，以及库外监控体系一起分析，而非只看单条 SQL。
-- 跑通的检查流程可保存复用、继续调整，支持手动运行或定时执行；排查具体问题时可通过 skills 加载 DBA 常用检查方法。
-- 目前支持 MySQL 和 PostgreSQL，可自行部署，模型接口兼容 OpenAI API，采用 Apache-2.0 许可证。
-- 仓库地址：https://github.com/sunetic/praxis ，项目仍处早期版本，作者希望收集真实 MySQL 库的试用反馈。
-
-### 评论补充
-评论对“DBA 是否需要专门岗位”存在分歧：有人认为 MySQL/PostgreSQL 场景研发与运维可自行处理，也有人指出上百人团队、多业务线（关系型+中间件+缓存+对象存储）时专职 DBA 仍有必要。风险方面，有回复提醒数据库与运维风险大，最大隐患是 select 把库锁死，建议用只读账号并做好权限；另有观点认为用户通常已有自己的 agent，更希望项目做成 MCP 并优先解决安全，而不是再引入一个独立 agent。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245305" target="_blank" rel="noopener noreferrer">[开源自荐] 做了个数据库 Agent，想帮 DBA 少做点重复工作</a></span><span class="topic-stats">回复 9 · 收藏 1</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245355" markdown="1">
-<summary>
-<span class="topic-rank">30</span>
-<span class="topic-title">每月20美元的低预算 vibe coding 模型组合实测</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-作者以每月约 20 美元的预算（GPT Plus + Google AI Pro 羊毛）分享了一套 vibe coding 模型分工方案，核心观点是：**模型先过及格线，再谈性价比**，及格线以下的便宜模型只会越搞越砸。
-
-### 关键要点
-- **五万行项目**：以 astra low 为主，不够再升 effort；astra 约 5 分钟消耗 5 小时额度的一半，快且好，额度用完正好用来规划下一步。
-- **五千行以内迷你项目**：用 gemini 3.8 flash，额度多、速度快，作者认为比 ds、glm 略好；3.7 起就可用，3.8 flash high 基本够用。
-- **模型对比**：6 luna 远不如 gemini 3.8 flash，也不如 antigravity 里的 opus 4.6；5.6 luna 仅稍弱于 gemini 3.8 flash，但速度慢，临时写脚本仍选 gemini。
-- **兜底策略**：GPT 顶级模型仍用于五万行项目的难解问题，未来可能视情况在 GPT 与 Claude 间交替。
-
-### 评论补充
-- 有用户以玻区 X premium 约 20 美元/月加多个 Gemini Pro 号达到类似效果。
-- 有人推荐 workbuddy、trae、qoder 白嫖，或用 workbuddy 配 deepseek flash 应付复杂任务，但指出 workbuddy 工作日太慢。
-- 有用户退订 codex plus，改用 Claude code opus 5.5 extra（medium 为主）+ antigravity 3.8 flash，认为 opus 5.5 比 astra 更强且更耐用。
-- 另有方案：command code 10 美元套餐配 ds4.1f，再用 Claude 兜底。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245355" target="_blank" rel="noopener noreferrer">vibe coding 低预算组合</a></span><span class="topic-stats">回复 7 · 收藏 2</span></p>
-
-</div>
-
-</details>
-
-<details class="topic-card" data-topic-id="1245301" markdown="1">
-<summary>
-<span class="topic-rank">31</span>
-<span class="topic-title">Apple Watch S12 实机体验：缝隙、重量、黑边与材质选择</span>
-</summary>
-
-<div class="topic-content" markdown="1">
-
-<div class="topic-article" markdown="1">
-
-### 核心内容
-有用户从 S10 换到 S12，主要看中心率与 HRV 监测频次提升，想用 GPT 做长期趋势分析，但对边缘缝隙、表冠缝隙、重量和黑边有顾虑。多位实际用户反馈：这些细节多数不影响日常使用，真正值得权衡的是材质与预算。
-
-### 关键要点
-- **缝隙与黑边**：玻璃与金属接缝能摸到，有人用 iPhone 手电筒能看到进灰；表冠缝隙肉眼可见但日常不易注意。黑边被部分用户认为感知不强，也有人批评“堪比 S4”“是它最小的缺点”。
-- **重量**：从 S10 或 S8 换过来，多数人感觉不出明显差异，换织物表带后反而更轻。
-- **材质选择**：有用户建议长期使用别买铝合金，易留划痕和汗渍；反对者认为铝合金两三年外观磨损不明显，钛合金约两倍价、陶瓷近三倍，性价比低，且钛/陶瓷更重、陶瓷尺寸大 1mm 黑边更明显。今年铝合金升级超瓷晶二代，更耐刮。
-- **系统问题**：watchOS 27 存在多任务界面消失、掉帧等 bug，需等 27.2 改善。
-
-### 评论补充
-刚需传感器和 CPU 的话，上述顾虑可忽略；但 S12 品控不稳定，表冠缝隙大小可能因个体而异。蜂窝版被部分用户认为没必要，手机不离手时更耗电。
-
-</div>
-
-<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245301" target="_blank" rel="noopener noreferrer">Apple Watch S12 真实体验求反馈：边缘缝隙/表冠缝隙/重量/黑边怎么样？</a></span><span class="topic-stats">回复 12 · 收藏 0</span></p>
+<p class="topic-source"><span class="topic-source-link">原链接：<a href="https://www.v2ex.com/t/1245606" target="_blank" rel="noopener noreferrer">阿里新出的决策模型可万万用不得，真“（预览版）”</a></span><span class="topic-stats">回复 7 · 收藏 1</span></p>
 
 </div>
 
